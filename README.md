@@ -21,9 +21,7 @@ The full subject paths retain the original teaching, terminology, examples, comp
 
 ## Study and progress
 
-Study content comes first: compact cards open each path directly, lesson lists appear before path background details, and Back/Next follows the current idea or question. Lesson outline and details sit below navigation. Progress transfer is at the bottom of the home page; appearance and Sources are in the footer.
-
-Use the labeled sun/moon button in the footer to switch between light and dark mode. Night mode uses true-black page and lesson backgrounds for OLED screens, with soft text and colored borders and controls. The website follows your device appearance until you choose a mode, then remembers that choice in this browser. While studying, the compact header keeps the lesson title and step count visible; open **Lesson details** for the subject, topic, and learning focus.
+Use the sun/moon button in the header to switch between light and dark mode. Night mode uses true-black page and lesson backgrounds for OLED screens, with soft text and colored borders and controls. The website follows your device appearance until you choose a mode, then remembers that choice in this browser. While studying, the compact header keeps the lesson title and step count visible; open **Lesson details** for the subject, topic, and learning focus.
 
 
 - Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.
@@ -38,7 +36,7 @@ Use the labeled sun/moon button in the footer to switch between light and dark m
 
 ## Move progress by copying and pasting
 
-1. On the device with your latest progress, go to **All paths → scroll below the nine study paths → Move progress between devices → Export progress**.
+1. On the device with your latest progress, go to **All paths → scroll below the study paths → Move progress between devices → Export progress**.
 2. Tap **Copy progress code**. On your other device, open the same website and choose **Import progress**.
 3. Paste the entire code into the box, tap **Preview progress**, then choose **Import this progress**. Use **Continue studying** to resume.
 

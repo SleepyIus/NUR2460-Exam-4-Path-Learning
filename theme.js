@@ -16,8 +16,6 @@
       button.setAttribute('aria-label', label);
       button.setAttribute('title', label);
       button.setAttribute('aria-pressed', String(dark));
-      const text = document.querySelector('#theme-label');
-      if (text) text.textContent = dark ? 'Light mode' : 'Dark mode';
     }
   }
   apply(); // Apply before the stylesheet loads, avoiding a bright flash in dark mode.
