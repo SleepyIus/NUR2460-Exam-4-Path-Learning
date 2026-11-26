@@ -30,3 +30,14 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 - Checked 430 × 932 and 932 × 430 phone layouts, 820 × 1180 tablet, and 320px narrow-screen layout. No horizontal overflow. Safe-area CSS supports landscape insets. These are browser viewport checks, not physical iPhone Safari tests.
 - Checked light and dark mode, collapsed/expanded lesson details, all six question formats, hidden feedback before submitting, scoring, option rationales, source dialogs, navigation, and saved position after refresh.
 - Verified automatic system dark mode, manual override after refresh, and unchanged study progress when toggling the theme. Body and link contrast exceed 4.5:1 in both themes; no browser console errors.
+
+## Coursewide readability and answer feedback update
+
+- Reviewed headings across all 672 teaching screens; corrected 28 display headings, including multi-term paragraphs and two broken eating-disorder table labels.
+- Every definition and comparison item uses a separate shaded card (448 cards). Emphasis follows supplied terminology and source emphasis; long passages gain paragraph breaks without changing their words. Both the eight full paths and separate high-yield course use the shared presentation.
+- All 750 question objects compare exactly with the pre-update data: stems, choices, keys, rationales, and source context are unchanged.
+- Browser-rendered all 672 teaching screens and all 750 checks after the final change. Verified unchanged teaching/definition text, hidden feedback and answer colors before submission, every correct submission, every supplied rationale, no automatic advancement, and no duplicate correct-answer summary.
+- Tested wrong answers and missed-check retries in all six formats, including mixed correct/wrong selections and unselected correct options. Labels and symbols accompany green/red colors.
+- Verified selected answers, missed checks, saved location, and Continue studying after refresh. Storage key and scoring logic are unchanged.
+- No horizontal overflow across all 1,422 screens at 320 × 720, 430 × 932, 932 × 430, 820 × 1180, and 1180 × 820 CSS pixels. Checked light and OLED dark appearance. These are browser viewport simulations, not physical-device Safari tests.
+- No browser console errors. Source PDFs remain excluded.

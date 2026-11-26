@@ -83,3 +83,47 @@ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-ri
 @media print{.lesson-tools{display:none}:root[data-theme=dark]{--ink:#18363d;--muted:#52686e;--paper:#fff;--bg:#fff;--teal:#176b63;color-scheme:light}}
 
 @media(max-width:380px){.brand small{display:none}.brand-mark{width:36px;height:36px}.brand{font-size:.95rem}.header-actions{gap:8px}}
+
+/* Shared reading and answer feedback across every study path. */
+:root{--definition-bg:#edf4f0;--definition-line:#ccdcd3;--success-bg:#e7f4eb;--success-line:#5b9170;--success-text:#17552f;--error-bg:#fff0f0;--error-line:#bc6868;--error-text:#932d35}
+:root[data-theme=dark]{--definition-bg:#1b2d25;--definition-line:#476153;--success-bg:#102b1b;--success-line:#579568;--success-text:#a2e2b6;--error-bg:#311719;--error-line:#bc7178;--error-text:#ffb7bf}
+.key-term{font-weight:750;color:var(--teal)}
+.definition-list{display:grid;gap:10px;margin:14px 0}
+.definition-card{padding:14px 16px;background:var(--definition-bg);border:1px solid var(--definition-line);border-radius:10px;overflow-wrap:anywhere}
+.definition-card dt{font-weight:750;color:var(--teal);margin:0}
+.definition-card dd{margin:5px 0 0;line-height:1.6;color:var(--ink)}
+.terms .definition-card dt,.teaching-details .definition-card dt{margin:0}
+.terms .definition-card dd,.teaching-details .definition-card dd{margin:5px 0 0}
+.idea-body+.idea-body{margin-top:0}
+.feedback-banner,[data-theme=dark] .feedback-banner{padding:16px 18px;background:var(--success-bg);border-color:var(--success-line)}
+.feedback-banner.incorrect,[data-theme=dark] .feedback-banner.incorrect{background:var(--paper);border-color:var(--error-line)}
+.feedback-banner h3{margin:0 0 10px;color:var(--success-text);font-size:1.15rem}
+.feedback-banner.incorrect h3{color:var(--error-text)}
+.feedback-banner>p{margin:0}
+.feedback-banner .feedback-note{margin-top:12px;font-size:.8rem;color:var(--muted)}
+.answer-summary-line{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:8px;font-size:.9rem}
+.answer-summary-line>strong{min-width:7.5em;font-weight:600}
+.answer-chips{display:inline-flex;flex-wrap:wrap;gap:6px}
+.answer-chip{display:inline-flex;align-items:center;justify-content:center;gap:4px;min-width:2.8em;padding:3px 8px;border:1px solid;border-radius:7px;font-size:.9rem;font-weight:750;white-space:nowrap}
+.chip-correct{background:var(--success-bg);border-color:var(--success-line);color:var(--success-text)}
+.chip-wrong{background:var(--error-bg);border-color:var(--error-line);color:var(--error-text)}
+.answer-comparison{display:grid;gap:9px;font-size:.85rem}
+.answer-comparison-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding-top:9px;border-top:1px solid var(--line)}
+.answer-comparison-row>span:first-child{font-weight:700;min-width:5em}
+.comparison-pair{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.comparison-pair>span{display:inline-flex;align-items:center;gap:5px;flex-wrap:wrap}
+.choice.answer-correct,.choice.answer-correct:has(input:checked),.choice.answer-missed{background:var(--success-bg);border-color:var(--success-line)}
+.choice.answer-wrong,.choice.answer-wrong:has(input:checked){background:var(--error-bg);border-color:var(--error-line)}
+.choice.answer-missed{border-style:dashed}
+.answer-correct .choice-letter,.answer-missed .choice-letter,.answer-correct .choice-result,.answer-missed .choice-result{color:var(--success-text)}
+.answer-wrong .choice-letter,.answer-wrong .choice-result{color:var(--error-text)}
+.choice-result{display:block;font-size:.8rem;font-weight:650;line-height:1.45;margin-top:6px}
+.answer-correct input{accent-color:var(--success-text)}
+.answer-wrong input{accent-color:var(--error-text)}
+.match-row.answer-correct select,[data-theme=dark] .match-row.answer-correct select{background-color:var(--success-bg);border-color:var(--success-line)}
+.match-row.answer-wrong select,[data-theme=dark] .match-row.answer-wrong select{background-color:var(--error-bg);border-color:var(--error-line)}
+.match-row>.choice-result{margin:6px 0 0;font-weight:650}
+.verdict,[data-theme=dark] .verdict{background:var(--success-bg);color:var(--success-text)}
+.verdict.wrong,[data-theme=dark] .verdict.wrong{background:var(--error-bg);color:var(--error-text)}
+@media(max-width:480px){.terms{padding:.25rem .65rem}.definition-card{padding:12px}.feedback-banner{padding:14px}.answer-summary-line{font-size:.85rem}}
+@media(forced-colors:active){.definition-card,.answer-chip,.choice.answer-correct,.choice.answer-wrong,.choice.answer-missed{border-color:CanvasText}.answer-wrong{border-style:double}.key-term{color:CanvasText}}

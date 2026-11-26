@@ -1,6 +1,7 @@
 (function () {
   'use strict';
   const core = window.StudyCore;
+  const presentation = window.StudyPresentation;
   const highYield=window.STUDY_DATA;
   highYield.lessons.forEach(l=>l.path='HY');
   const paths=[...window.FULL_PATHS.paths,{id:'HY',name:'Meat and potatoes',description:'Your separate high-yield review across all eight subjects.',lessonIds:highYield.lessons.map(l=>l.id)}];
@@ -85,7 +86,7 @@
   function sourceButton() { return '<button type="button" class="text-button local-sources">Sources</button>'; }
   function sourceFooter() { return `<div class="card-bottom"><span class="save-status">${storageOK?'Your place is saved':'Session only · storage unavailable'}</span>${sourceButton()}</div>`; }
   function outline(l) {
-    return `<details class="outline"><summary>Lesson outline</summary><ol>${l.steps.map((s,i)=>`<li><a href="${lessonHref(l.id,i)}">${esc(s.title)}${state.read[s.id]?' · Read':''}</a></li>`).join('')}</ol><a href="${lessonHref(l.id,l.steps.length)}">Five checks</a>${l.pre?.length?`<h3>Foundation lessons</h3><ul>${l.pre.map(n=>lessonMap.get(`${l.path==='E'&&n<18?'N':l.path}-L${String(n).padStart(2,'0')}`)).filter(Boolean).map(x=>`<li><a href="${lessonHref(x.id)}">${esc(x.title)}</a></li>`).join('')}</ul>`:''}</details>`;
+    return `<details class="outline"><summary>Lesson outline</summary><ol>${l.steps.map((s,i)=>`<li><a href="${lessonHref(l.id,i)}">${esc(presentation.title(s))}${state.read[s.id]?' · Read':''}</a></li>`).join('')}</ol><a href="${lessonHref(l.id,l.steps.length)}">Five checks</a>${l.pre?.length?`<h3>Foundation lessons</h3><ul>${l.pre.map(n=>lessonMap.get(`${l.path==='E'&&n<18?'N':l.path}-L${String(n).padStart(2,'0')}`)).filter(Boolean).map(x=>`<li><a href="${lessonHref(x.id)}">${esc(x.title)}</a></li>`).join('')}</ul>`:''}</details>`;
   }
   function showLesson(id,index) {
     const l=lessonMap.get(id);
@@ -95,7 +96,7 @@
     if(index===l.steps.length+5){showRecap(l);return;}
     if(index>=l.steps.length){showQuestion(l,l.checks[index-l.steps.length],false);return;}
     const s=l.steps[index];
-    main.innerHTML=`<div class="lesson-shell">${lessonHeader(l,'Step',index+1,l.steps.length)}<article class="study-card" aria-labelledby="idea-title">${s.kind==='case'?'<div class="case-tag">Apply the idea</div>':''}<h2 id="idea-title">${esc(s.title)}</h2>${s.body?`<p class="idea-body">${esc(s.body)}</p>`:''}${s.sequence?`<ol class="teaching-sequence">${s.sequence.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`:''}${s.details?`<dl class="teaching-details">${s.details.map(([h,b])=>`<dt>${esc(h)}</dt><dd>${esc(b)}</dd>`).join('')}</dl>`:''}${s.terms?`<details class="terms"><summary>Explain the terms</summary><dl>${s.terms.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl></details>`:''}${s.note?`<aside class="source-note"><h3>${esc(s.note.title)}</h3><p>${esc(s.note.body)}</p></aside>`:''}${s.more?`<div class="explain-wrap"><button class="explain-button" aria-expanded="false" aria-controls="explanation" id="explain-more" type="button">Explain more <span aria-hidden="true">+</span></button><div id="explanation" class="explanation" hidden><h3>${esc(s.more.title)}</h3><p>${esc(s.more.body)}</p><p class="muted">From the matching full path · page ${s.more.page}</p></div></div>`:''}${s.related?`<p class="related"><a href="${lessonHref(s.related.lesson,s.related.step)}">${esc(s.related.label)}</a></p>`:''}${sourceFooter()}</article><nav class="lesson-nav" aria-label="Lesson navigation"><button class="secondary" id="back-step" type="button">Back</button><button class="primary" id="next-step" type="button">${index===l.steps.length-1?'Start checks':'Next'}</button></nav>${outline(l)}</div>`;
+    main.innerHTML=`<div class="lesson-shell">${lessonHeader(l,'Step',index+1,l.steps.length)}<article class="study-card" aria-labelledby="idea-title">${s.kind==='case'?'<div class="case-tag">Apply the idea</div>':''}<h2 id="idea-title">${esc(presentation.title(s))}</h2>${presentation.body(l,s)}${s.sequence?`<ol class="teaching-sequence">${s.sequence.map(x=>`<li>${presentation.text(l,x)}</li>`).join('')}</ol>`:''}${s.details?presentation.definitions(l,s.details,"teaching-details definition-list"):''}${s.terms?`<details class="terms"><summary>Explain the terms</summary>${presentation.definitions(l,s.terms)}</details>`:''}${s.note?`<aside class="source-note"><h3>${esc(s.note.title)}</h3><p>${presentation.text(l,s.note.body)}</p></aside>`:''}${s.more?`<div class="explain-wrap"><button class="explain-button" aria-expanded="false" aria-controls="explanation" id="explain-more" type="button">Explain more <span aria-hidden="true">+</span></button><div id="explanation" class="explanation" hidden><h3>${esc(s.more.title)}</h3><p>${presentation.text(l,s.more.body)}</p><p class="muted">From the matching full path · page ${s.more.page}</p></div></div>`:''}${s.related?`<p class="related"><a href="${lessonHref(s.related.lesson,s.related.step)}">${esc(s.related.label)}</a></p>`:''}${sourceFooter()}</article><nav class="lesson-nav" aria-label="Lesson navigation"><button class="secondary" id="back-step" type="button">Back</button><button class="primary" id="next-step" type="button">${index===l.steps.length-1?'Start checks':'Next'}</button></nav>${outline(l)}</div>`;
     document.querySelector('#back-step').onclick=()=>go(index?lessonHref(l.id,index-1):pathHref(pathMap.get(l.path)));
     document.querySelector('#next-step').onclick=()=>{state.read[s.id]=true;reconcile();save();go(lessonHref(l.id,index+1));};
     const explain=document.querySelector('#explain-more');
@@ -111,32 +112,26 @@
     const drafts=review?state.review.drafts:state.drafts;
     return answers[q.id]?.value || drafts[q.id] || (q.fmt==='X'?q.rows.map(()=>[]):['M','O'].includes(q.fmt)?Array(q.key.length).fill(null):[]);
   }
-  function answerText(q,value){
-    if(q.fmt==='X')return value.map((row,i)=>`Row ${i+1}: ${row.map(letter).join(', ')||'none'}`).join(' · ');
-    if(q.fmt==='M')return value.map((v,i)=>`${i+1}–${letter(v)}`).join(', ');
-    if(q.fmt==='O')return value.map((v,i)=>`${i+1}. ${letter(v)} — ${q.choices[v]}`).join(' · ');
-    return value.map(v=>`${letter(v)}. ${q.choices[v]}`).join(' · ');
-  }
   function feedback(q,result){
     if(!result)return '';
-    const review=current?.mode==='review';let reasons='';
+    const review=current?.mode==='review';
+    const explain = value => presentation.text(questionMap.get(q.id).lesson,value);
+    let reasons='';
     if(q.fmt==='M'){
-      reasons=q.pairs.map((pair,i)=>`<section class="rationale"><h4>${i+1}. ${esc(pair[0])}</h4><p><strong>You chose ${letter(result.value[i])}:</strong> ${esc(q.choices[result.value[i]])}</p><p><strong>Correct match ${letter(q.key[i])}:</strong> ${esc(q.choices[q.key[i]])}</p><p>${esc(pair[2])}</p></section>`).join('');
+      reasons=q.pairs.map((pair,i)=>`<section class="rationale"><h4>${i+1}. ${esc(pair[0])}</h4><p><strong>You chose ${letter(result.value[i])}:</strong> ${esc(q.choices[result.value[i]])}</p><p><strong>Correct match ${letter(q.key[i])}:</strong> ${esc(q.choices[q.key[i]])}</p><p>${explain(pair[2])}</p></section>`).join('');
       const meanings=q.meanings||q.choices.map((c,i)=>q.pairs.find((p,j)=>q.key[j]===i)?.[2]||'');
-      reasons+=`<section class="rationale"><h4>Compare every label</h4>${q.choices.map((c,i)=>`<p><strong>${letter(i)}. ${esc(c)}:</strong> ${esc(meanings[i])}</p>`).join('')}</section>`;
+      reasons+=`<section class="rationale"><h4>Compare every label</h4>${q.choices.map((c,i)=>`<p><strong>${letter(i)}. ${esc(c)}:</strong> ${explain(meanings[i])}</p>`).join('')}</section>`;
     }else if(q.fmt==='X'){
-      reasons=q.rows.map((r,i)=>`<section class="rationale"><h4>Row ${i+1}. ${esc(r)}</h4>${q.choices.map((c,j)=>`<p><strong>${letter(j)}. ${esc(c)}:</strong> ${q.key[i].includes(j)?'Select':'Do not select'}${result.value[i].includes(j)?' · You selected this':''}</p>`).join('')}<p>${esc(q.reasons[i])}</p></section>`).join('');
+      reasons=q.rows.map((r,i)=>`<section class="rationale"><h4>Row ${i+1}. ${esc(r)}</h4>${q.choices.map((c,j)=>`<p><strong>${letter(j)}. ${esc(c)}:</strong> ${q.key[i].includes(j)?'Select':'Do not select'}${result.value[i].includes(j)?' · You selected this':''}</p>`).join('')}<p>${explain(q.reasons[i])}</p></section>`).join('');
     }else if(q.fmt==='O'){
-      reasons=q.key.map((v,i)=>`<section class="rationale"><h4>Position ${i+1}: ${letter(v)}. ${esc(q.choices[v])}</h4><p>You placed ${letter(result.value[i])}. ${esc(q.choices[result.value[i]])} here.</p><p>${esc(q.reasons[v])}</p></section>`).join('');
+      reasons=q.key.map((v,i)=>`<section class="rationale"><h4>Position ${i+1}: ${letter(v)}. ${esc(q.choices[v])}</h4><p>You placed ${letter(result.value[i])}. ${esc(q.choices[result.value[i]])} here.</p><p>${explain(q.reasons[v])}</p></section>`).join('');
     }else{
-      reasons=q.choices.map((opt,i)=>`<section class="rationale"><h4>${letter(i)}. ${esc(opt)}</h4><span class="verdict ${q.key.includes(i)?'':'wrong'}">${q.key.includes(i)?'Correct option':'Incorrect option'}</span>${result.value.includes(i)?'<span class="muted">You selected this</span>':''}<p>${esc(q.reasons[i])}</p></section>`).join('');
+      reasons=q.choices.map((opt,i)=>`<section class="rationale"><h4>${letter(i)}. ${esc(opt)}</h4><span class="verdict ${q.key.includes(i)?'':'wrong'}">${q.key.includes(i)?'Correct option':'Incorrect option'}</span>${result.value.includes(i)?'<span class="muted">You selected this</span>':''}<p>${explain(q.reasons[i])}</p></section>`).join('');
     }
-    return `<div class="feedback" id="answer-feedback" tabindex="-1" aria-label="Answer feedback"><div class="feedback-banner ${result.correct?'':'incorrect'}"><h3>${result.correct?'Correct.':'Keep this one for review.'}</h3><p><strong>Your answer:</strong> ${esc(answerText(q,result.value))}</p><p><strong>Correct answer:</strong> ${esc(answerText(q,q.key))}</p><p>${result.correct?(review?'Removed from your missed checks.':'Take a moment with the reasoning, then continue when you’re ready.'):'Saved to your missed checks. Read the reasoning, then continue when you’re ready.'}</p></div><h3 class="rationale-heading">Why each option fits or doesn’t</h3>${q.reason?`<p>${esc(q.reason)}</p>`:''}${reasons}</div>`;
+    return `<div class="feedback" id="answer-feedback" tabindex="-1" aria-label="Answer feedback">${presentation.summary(q,result,review)}<h3 class="rationale-heading">Why each option fits or doesn’t</h3>${q.reason?`<p>${explain(q.reason)}</p>`:''}${reasons}</div>`;
   }
   function questionFields(q,value,result){
-    if(q.fmt==='X')return q.rows.map((row,i)=>`<fieldset class="matrix-row"><legend>${i+1}. ${esc(row)}</legend>${q.choices.map((c,j)=>`<label class="choice"><input type="checkbox" data-row="${i}" value="${j}" ${value[i]?.includes(j)?'checked':''}><span>${letter(j)}. ${esc(c)}</span></label>`).join('')}</fieldset>`).join('');
-    if(['M','O'].includes(q.fmt))return `<div class="answer-bank" aria-label="Answer choices">${q.choices.map((c,i)=>`<p><strong>${letter(i)}.</strong> ${esc(c)}</p>`).join('')}</div>${q.key.map((_,i)=>`<label class="match-row"><span>${q.fmt==='M'?`${i+1}. ${esc(q.pairs[i][0])}`:`Position ${i+1}`}</span><select data-row="${i}" aria-label="${q.fmt==='M'?`Match ${i+1}: ${esc(q.pairs[i][0])}`:`Position ${i+1}`}" ${result?'disabled':''}><option value="">Choose a letter</option>${q.choices.map((c,j)=>`<option value="${j}" ${value[i]===j?'selected':''}>${letter(j)}. ${esc(c)}</option>`).join('')}</select></label>`).join('')}`;
-    return `<div class="choices">${q.choices.map((c,i)=>`<label class="choice"><input type="${['S','A'].includes(q.fmt)?'checkbox':'radio'}" name="answer" value="${i}" ${value.includes(i)?'checked':''}><span><span class="choice-letter">${letter(i)}.</span> ${esc(c)}</span></label>`).join('')}</div>`;
+    return presentation.questionFields(q,value,result);
   }
   function showQuestion(l,q,review) {
     const answers=review?state.review.answers:state.attempts;

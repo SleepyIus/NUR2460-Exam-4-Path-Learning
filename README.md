@@ -25,8 +25,8 @@ Use the sun/moon button in the header to switch between light and dark mode. Nig
 
 
 - Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.
-- **Explain the terms** and **Explain more** offer optional detail.
-- Choose an answer and press **Check answer**. Feedback shows your selection, the correct answer, and the original reasoning. Continue when ready.
+- **Explain the terms** and **Explain more** offer optional detail. Definitions have individual shaded cards, and important terms and source-emphasized phrases use bold color throughout the lessons and explanations.
+- Choose an answer and press **Check answer**. Feedback uses compact answer-letter chips. Green with a check mark identifies correct selections; red with a cross identifies incorrect selections. A dashed green option identifies a correct answer you did not select. Correct submissions show the answer once. Every original rationale remains below. Continue when ready.
 - Single-choice, select-two, select-all, matching, matrix, and ordered-response formats retain their original rules. Matrix rows may require several columns. Scoring requires the entire exact answer; there is no partial credit.
 - A lesson is complete after every teaching step is read and all five checks are attempted. A wrong answer does not block completion.
 - **Review missed checks** is available for the whole site or a single path. A correct retry removes the check from the missed list.
@@ -36,7 +36,7 @@ Use the sun/moon button in the header to switch between light and dark mode. Nig
 
 ## Publish or update on GitHub Pages
 
-1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
 2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
 3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 
