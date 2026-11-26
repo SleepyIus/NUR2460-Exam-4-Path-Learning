@@ -5,11 +5,20 @@
   const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const letter = i => String.fromCharCode(65 + i);
   const escapePattern = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // Sentence case for display labels; keep clinical acronyms and names intact.
+  function label(value) {
+    const clean = String(value).trim().replace(/[.,;:]+$/, '');
+    const corrections = {
+      'ect': 'ECT', 'es e': 'ESE', 'NDRI)': 'NDRI',
+      'GAS/GABHS)': 'GAS/GABHS', 'CNS) stimulant': 'CNS stimulant'
+    };
+    return corrections[clean] || clean.replace(/^[a-z]/, c => c.toUpperCase());
+  }
   const phraseCache = new Map();
   function phrases(l) {
     if (phraseCache.has(l.id)) return phraseCache.get(l.id);
     const related = l.path === 'HY' ? window.FULL_PATHS.lessons.filter(x => x.subject === l.subject) : [l];
-    const list = [...related.flatMap(x => x.steps.flatMap(s => (s.terms || []).map(t => t[0]))), ...related.flatMap(x => config.emphasis[x.id] || [])];
+    const list = [...related.flatMap(x => x.steps.flatMap(s => (s.terms || []).map(t => label(t[0])))), ...related.flatMap(x => config.emphasis[x.id] || [])];
     const unique = [...new Set(list.map(x => x.trim()).filter(x => x.length > 2))];
     phraseCache.set(l.id, unique);
     return unique;
@@ -29,7 +38,7 @@
     return out + esc(text.slice(end));
   }
   const text = (l, value, extra=[]) => emphasize(value,[...phrases(l),...extra]);
-  const title = s => config.titles[s.id] || s.title;
+  const title = s => label(config.titles[s.id] || s.title);
   function body(l,s) {
     if (!s.body) return '';
     const f = config.steps[s.id] || {};
@@ -46,7 +55,7 @@
     return paragraphs.map(p => `<p class="idea-body">${text(l,p,f.emphasis || [])}</p>`).join('');
   }
   function definitions(l, pairs, className='definition-list') {
-    return `<dl class="${className}">${pairs.map(([name,meaning]) => `<div class="definition-card"><dt>${esc(name)}</dt><dd>${text(l,meaning)}</dd></div>`).join('')}</dl>`;
+    return `<dl class="${className}">${pairs.map(([name,meaning]) => `<div class="definition-card"><dt>${esc(label(name))}</dt><dd>${text(l,meaning)}</dd></div>`).join('')}</dl>`;
   }
   function status(correct,selected,result) {
     if (!result) return {className:'',label:''};
