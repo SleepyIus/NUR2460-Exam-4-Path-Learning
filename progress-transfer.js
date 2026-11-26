@@ -1,4 +1,4 @@
-/* Device-to-device progress codes. No server, account, or study content is included. */
+/* Device-to-device progress codes, including personal text highlights. No server or account. */
 (function (root) {
   'use strict';
   const core = root.StudyCore;
@@ -29,6 +29,10 @@
     for(const [id,value] of Object.entries(raw.completed))if(!lessons.has(id)||value!==true)invalid();
     for(const [id,loc] of Object.entries(raw.pathLast))if(!location(loc)||lessons.get(loc.lesson).path!==id)invalid();
     if(!Array.isArray(raw.missed)||raw.missed.some(id=>!questions.has(id)))invalid();
+    if(raw.highlights!==undefined){
+      if(!object(raw.highlights))invalid();
+      for(const [id,entries] of Object.entries(raw.highlights))if((!steps.has(id)&&!questions.has(id))||!Array.isArray(entries)||entries.some(h=>!core.validHighlight(h)))invalid();
+    }
     const normalized=core.normalize(raw,data);
     const answers=(map,target)=>{
       if(!object(map))invalid();
@@ -76,12 +80,12 @@
   }
   function merge(current,incoming,data) {
     const a=core.normalize(current,data),b=core.normalize(incoming,data);
-    const next={...a,read:{...a.read,...b.read},attempts:{...a.attempts,...b.attempts},drafts:{...a.drafts,...b.drafts},pathLast:{...a.pathLast,...b.pathLast},last:b.last||a.last,review:b.last?b.review:(b.review||a.review)};
+    const next={...a,read:{...a.read,...b.read},attempts:{...a.attempts,...b.attempts},drafts:{...a.drafts,...b.drafts},pathLast:{...a.pathLast,...b.pathLast},last:b.last||a.last,review:b.last?b.review:(b.review||a.review),highlights:core.mergeHighlights(a.highlights,b.highlights)};
     for(const id of Object.keys(next.attempts))delete next.drafts[id];
     next.missed=[...new Set([...a.missed,...b.missed,...Object.keys(next.attempts)])].filter(id=>next.attempts[id]?!next.attempts[id].correct:true);
     return core.normalize(next,data);
   }
-  const stats = state => ({lessons:Object.keys(state.completed).length,steps:Object.keys(state.read).length,checks:Object.keys(state.attempts).length,missed:state.missed.length});
+  const stats = state => ({lessons:Object.keys(state.completed).length,steps:Object.keys(state.read).length,checks:Object.keys(state.attempts).length,missed:state.missed.length,highlights:Object.values(state.highlights||{}).reduce((n,entries)=>n+entries.length,0)});
   function persist(storage,key,current,next,undo=false) {
     const backupKey=key+'-before-import';let previous;
     try {
@@ -105,7 +109,7 @@
     }
     modal.addEventListener('close',()=>{generation++;});
     const message=(value,error=false)=>{const el=modal.querySelector('#progress-message');el.textContent=value;el.classList.toggle('transfer-error',error);};
-    function counts(s){const n=stats(s);return `${n.lessons} lesson${n.lessons===1?'':'s'} complete · ${n.steps} step${n.steps===1?'':'s'} read · ${n.checks} check${n.checks===1?'':'s'} answered · ${n.missed} missed check${n.missed===1?'':'s'}`;}
+    function counts(s){const n=stats(s);return `${n.lessons} lesson${n.lessons===1?'':'s'} complete · ${n.steps} step${n.steps===1?'':'s'} read · ${n.checks} check${n.checks===1?'':'s'} answered · ${n.missed} missed check${n.missed===1?'':'s'}${n.highlights?` · ${n.highlights} highlight${n.highlights===1?'':'s'}`:''}`;}
     function place(s){
       if(s.last?.mode==='review')return `Missed-check review · Check ${s.review.index+1} of ${s.review.queue.length}`;
       const l=data.lessons.find(l=>l.id===s.last?.lesson);if(!l)return 'No saved position yet.';
@@ -114,7 +118,7 @@
     function preview(s,label){return `<section class="transfer-preview"><h3>${label}</h3><p>${counts(s)}</p><p class="muted">Continue at: ${esc(place(s))}</p></section>`;}
     async function exportCode(compatible=false){
       const snapshot=core.normalize(getState(),data);
-      shell('Export progress',`<p>Copy this code, then open <strong>Import progress</strong> on your other device and paste it there.</p>${preview(snapshot,'Included in this code')}<label class="transfer-label" for="export-code">Your progress code</label><textarea id="export-code" class="progress-code" rows="4" readonly spellcheck="false" aria-describedby="export-help"></textarea><p id="export-help" class="muted">Copy the entire code. It includes all eight paths and Meat and potatoes.</p><div class="button-row"><button class="primary" id="copy-progress" type="button" disabled>Copy progress code</button><button class="secondary" id="select-progress" type="button" disabled>Select code</button></div><details class="compatibility"><summary>Older browser?</summary><p>Use a longer code that does not need browser compression support.</p><button class="secondary" id="compatible-progress" type="button">Create compatibility code</button></details>`);
+      shell('Export progress',`<p>Copy this code, then open <strong>Import progress</strong> on your other device and paste it there.</p>${preview(snapshot,'Included in this code')}<label class="transfer-label" for="export-code">Your progress code</label><textarea id="export-code" class="progress-code" rows="4" readonly spellcheck="false" aria-describedby="export-help"></textarea><p id="export-help" class="muted">Copy the entire code. It includes progress and highlights for all eight paths and Meat and potatoes.</p><div class="button-row"><button class="primary" id="copy-progress" type="button" disabled>Copy progress code</button><button class="secondary" id="select-progress" type="button" disabled>Select code</button></div><details class="compatibility"><summary>Older browser?</summary><p>Use a longer code that does not need browser compression support.</p><button class="secondary" id="compatible-progress" type="button">Create compatibility code</button></details>`);
       const token=generation;message('Preparing your progress code…');
       modal.querySelector('#compatible-progress').onclick=()=>exportCode(true);
       try{
@@ -137,7 +141,7 @@
         const token=generation,seq=++request;button.disabled=true;panel.hidden=true;message('Checking the code…');
         try{
           const imported=await decode(field.value,data);if(token!==generation||seq!==request)return;
-          panel.innerHTML=`<p class="muted">Copied ${esc(new Date(imported.exportedAt).toLocaleString())}</p>${preview(imported.progress,'Progress from the code')}<fieldset class="import-options"><legend>How should it be imported?</legend><label class="choice"><input type="radio" name="import-mode" value="merge" checked><span><strong>Merge progress (recommended)</strong><small>Keeps completed work from both devices. Where answers overlap, the code’s answers take priority. Continue from the code’s saved position.</small></span></label><label class="choice"><input type="radio" name="import-mode" value="replace"><span><strong>Replace this device’s progress</strong><small>Makes this device match the code. You can undo the import.</small></span></label></fieldset><button class="primary" id="confirm-import" type="button">Import this progress</button>`;panel.hidden=false;message('Preview ready. Your progress has not changed.');
+          panel.innerHTML=`<p class="muted">Copied ${esc(new Date(imported.exportedAt).toLocaleString())}</p>${preview(imported.progress,'Progress from the code')}<fieldset class="import-options"><legend>How should it be imported?</legend><label class="choice"><input type="radio" name="import-mode" value="merge" checked><span><strong>Merge progress (recommended)</strong><small>Keeps completed work and highlights from both devices. Where answers overlap, the code’s answers take priority. Continue from the code’s saved position.</small></span></label><label class="choice"><input type="radio" name="import-mode" value="replace"><span><strong>Replace this device’s progress</strong><small>Makes this device match the code. You can undo the import.</small></span></label></fieldset><button class="primary" id="confirm-import" type="button">Import this progress</button>`;panel.hidden=false;message('Preview ready. Your progress has not changed.');
           modal.querySelector('#confirm-import').onclick=()=>{
             const next=modal.querySelector('input[name="import-mode"]:checked').value==='merge'?merge(getState(),imported.progress,data):imported.progress;
             try{persist(localStorage,key,getState(),next);status='Progress imported. Continue studying to resume. Undo last import is available here.';modal.close();onChange(next);}

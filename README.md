@@ -25,6 +25,7 @@ Use the sun/moon button in the header to switch between light and dark mode. Nig
 
 
 - Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.
+- Select a passage, then tap **Highlight** in the small bottom toolbar. Tap a saved highlight and choose **Remove highlight** to erase it. Highlights work in teaching, definitions, explanations, questions, and revealed rationales; they save automatically and travel with your progress code.
 - **Explain the terms** and **Explain more** offer optional detail. Definitions have individual shaded cards, and important terms and source-emphasized phrases use bold color throughout the lessons and explanations.
 - Choose an answer and press **Check answer**. Feedback uses compact answer-letter chips. Green with a check mark identifies correct selections; red with a cross identifies incorrect selections. A dashed green option identifies a correct answer you did not select. Correct submissions show the answer once. Every original rationale remains below. Continue when ready.
 - Single-choice, select-two, select-all, matching, matrix, and ordered-response formats retain their original rules. Matrix rows may require several columns. Scoring requires the entire exact answer; there is no partial credit.
@@ -40,15 +41,15 @@ Use the sun/moon button in the header to switch between light and dark mode. Nig
 2. Tap **Copy progress code**. On your other device, open the same website and choose **Import progress**.
 3. Paste the entire code into the box, tap **Preview progress**, then choose **Import this progress**. Use **Continue studying** to resume.
 
-**Merge progress** keeps completed work from both devices; the code's submitted answers take priority where both devices answered the same check. The code's saved position and review session become the resume point. **Replace this device's progress** restores the code's snapshot exactly. **Undo last import** restores the receiving device's previous progress, even after a refresh; work done since that import will be removed.
+**Merge progress** keeps completed work and highlights from both devices; the code's submitted answers take priority where both devices answered the same check. The code's saved position and review session become the resume point. **Replace this device's progress** restores the code's snapshot exactly. **Undo last import** restores the receiving device's previous progress, even after a refresh; work done since that import will be removed.
 
-The code includes all nine paths, read steps, completed lessons, submitted answers, unfinished selections, missed checks, per-path positions, and an active missed-check review. Appearance stays local to each device. Codes are snapshots: copy a new one after studying. No account, cloud database, or file is required. The site does not upload progress codes to GitHub or any server.
+The code includes all nine paths, read steps, completed lessons, submitted answers, unfinished selections, missed checks, per-path positions, an active missed-check review, and your highlighted passages. Appearance stays local to each device. Codes are snapshots: copy a new one after studying. No account, cloud database, or file is required. The site does not upload progress codes to GitHub or any server.
 
 If automatic copying is unavailable, use **Select code**, then your device's Copy command. The import box uses ordinary Paste. **Older browser? → Create compatibility code** produces a longer code without browser compression. Invalid, incomplete, or unsupported codes leave current progress unchanged; a preview alone never imports.
 
 ## Publish or update on GitHub Pages
 
-1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `progress-transfer.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `progress-transfer.js`, `highlights.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
 2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
 3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 

@@ -247,8 +247,13 @@
     body+='<section class="source-entry"><h3>About progress</h3><p>Progress belongs to this website on this device and browser. A lesson is complete after every teaching step is read and all five checks are attempted. Matching and select-two checks require the exact complete answer. Source PDF progress marks are separate from website progress.</p></section>';
     document.querySelector('#sources-body').innerHTML=body;dialog.showModal();
   }
-  function bindSources(){document.querySelectorAll('.local-sources').forEach(b=>b.onclick=openSources);}
+  function bindSources(){
+    document.querySelectorAll('.local-sources').forEach(b=>b.onclick=openSources);
+    const id=current?.question?.id||current?.lesson?.steps[current.index]?.id;
+    highlighter.mount(main.querySelector('.study-card'),id);
+  }
   function render(route){
+    highlighter.unmount();
     const parts=(typeof route==='string'?route:location.hash).slice(1).split('/');
     if(parts[0]==='lesson')showLesson(parts[1],/^\d+$/.test(parts[2]||'')?Number(parts[2]):0);
     else if(parts[0]==='path')showPath(parts[1]);
@@ -268,6 +273,7 @@
   window.addEventListener('storage',event=>{
     if(event.key===STORAGE_KEY){try{state=core.normalize(JSON.parse(event.newValue),data);render();}catch(error){/* Keep this tab's valid state if another writer is malformed. */}}
   });
+  const highlighter=window.StudyHighlights.create({getState:()=>state,onChange:highlights=>{state.highlights=highlights;save();return storageOK;}});
   const transfer=window.StudyTransfer.create({data,key:STORAGE_KEY,getState:()=>state,onChange:next=>{state=next;storageOK=true;warning.hidden=true;render('#home');}});
   window.StudyApp={render};
   save();render();

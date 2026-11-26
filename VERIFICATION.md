@@ -56,3 +56,12 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 
 - Restored the pre-redesign home cards, headings, path pages, compact lesson header, contextual Sources, and header theme control. The sole retained layout change moves copy-and-paste progress transfer below all nine paths.
 - Clinical data, question presentation/scoring, transfer behavior, and the progress storage key are unchanged.
+
+## Personal text highlighting
+
+- Added saved highlights to teaching, definitions, explanations, questions, answer labels, and revealed rationales. Selection controls appear only when needed, at the bottom of the screen.
+- Tested native text selection, spans across emphasized text, saving/removing, refresh persistence, Back/Next isolation, and definitions inside collapsed sections.
+- Verified hidden feedback before submission, unchanged matching and single-choice scoring, and that tapping a highlight does not select an answer. Answer controls keep their accessible labels.
+- Verified compressed and compatibility-code round trips, older codes without highlights, merge/deduplication, invalid-range rejection, persistence, and import undo. Browser export/import between separate local origins preserved highlights. Existing progress fixtures retained 18 completed lessons, 90 submitted checks, six missed checks, and the saved position.
+- Checked light and OLED dark modes and 320, 430, 932, 834, and 1194px viewport widths. No horizontal overflow; toolbar buttons are at least 44px high. These are browser viewport tests, not physical iOS touch tests.
+- Original course data remains unchanged: eight full paths plus high-yield review, 150 lessons and 750 checks. Personal highlights stay in browser storage and copied progress codes; no user data or PDFs are published.
