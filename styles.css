@@ -156,3 +156,10 @@ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-ri
 
 /* Keep the original layout; progress transfer follows the study paths. */
 #progress-transfer{margin-top:28px;margin-bottom:0}
+
+/* Whole-path progress shares the existing navigation row. */
+.lesson-path-navigation{position:absolute;top:0;left:0;display:flex;align-items:center;gap:12px;min-height:44px}
+.lesson-path-navigation .lesson-back{position:static}
+.path-tracker{display:inline-flex;align-items:baseline;gap:4px;color:var(--muted);font-size:.78rem;line-height:1.4;white-space:nowrap;font-variant-numeric:tabular-nums}
+.path-tracker strong{font-weight:650}
+@media(max-width:360px){.lesson-path-navigation{gap:8px}}
