@@ -1,37 +1,40 @@
-# NUR2460 Exam 4 study website
+# NUR2460 Exam 4 study paths
 
-[Open the study website](https://sleepyius.github.io/NUR2460-Exam-4-Path-Learning/) or open `index.html` locally to study. The site uses plain HTML, CSS, and JavaScript with relative paths and no build step, account, or external runtime dependencies.
+[Open the study website](https://sleepyius.github.io/NUR2460-Exam-4-Path-Learning/).
 
-## Publish on GitHub Pages
+Choose one of **eight complete subject paths**, or open **Meat and potatoes** for the separate high-yield course. Each path has its own lesson list and saved position. The large **Continue studying** button resumes your most recent work anywhere on the site.
 
-1. Create or choose a GitHub repository for the site.
-2. Upload **the contents of this folder** to the repository's `main` branch. `index.html` must sit at the repository root beside `app.js`, `core.js`, `content.js`, `styles.css`, `favicon.svg`, and the `sources` reference index. Keep `.nojekyll` if your upload method includes hidden files.
-3. Open the repository's **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, then **main** and **/(root)**. Click **Save**.
-5. Wait for deployment to finish. Open the website address shown in Pages settings. This repository’s address is `https://sleepyius.github.io/NUR2460-Exam-4-Path-Learning/`.
+| Path | Lessons | Checks |
+| --- | ---: | ---: |
+| Depression and Suicide Prevention | 20 | 100 |
+| Bipolar Disorder and Mania | 15 | 75 |
+| Renal and Genitourinary | 18 | 90 |
+| Communicable and Inflammatory Disorders | 24 | 120 |
+| Abuse and Interpersonal Violence | 15 | 75 |
+| Neurodevelopmental and Behavioral Disorders | 17 | 85 |
+| Pediatric Oncology | 17 | 85 |
+| Eating Disorders | 11 | 55 |
+| Meat and potatoes — high-yield review | 13 | 65 |
+| **Total** | **150** | **750** |
 
-These steps follow [GitHub's publishing-source instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+The full subject paths retain the original teaching, terminology, examples, comparison tables, sequences, questions, keys, and rationales. Eating Disorders keeps the source's original lesson numbers L18–L28. Source details and meaningful qualifications remain available while studying. The source PDFs and their personal annotations are private and are not included in this publishing folder.
 
-## Study and saved progress
+## Study and progress
 
-- **Continue studying** returns to your saved step or current missed-check review.
-- Press **Next** to mark a teaching step as read. A lesson is complete when every teaching step is read and all five checks have been attempted. Getting an answer wrong does not block lesson completion.
-- Select an answer, then press **Check answer**. Matching and select-two questions require the complete exact answer; there is no partial-credit scoring. Feedback shows your choice, the correct answer, and the original rationale. Continue whenever you are ready.
-- **Review missed checks** offers a fresh attempt. A correct retry removes the check from the missed list. An incorrect retry keeps it there.
-- Every lesson is available from the home page. The lesson outline also lets you revisit individual teaching steps or the checks.
-- Browser local storage keeps your place, draft selections, submitted answers, completed lessons, and missed checks on the current device. Progress does not sync between devices or browsers. Clearing site data or private browsing can remove it. Local-file previews and the published GitHub Pages address have separate storage.
-- **Sources** shows original file names and PDF viewer page references. The PDFs remain private and are not included in this publishing folder. Use your original copies to read the cited pages.
+- Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.
+- **Explain the terms** and **Explain more** offer optional detail.
+- Choose an answer and press **Check answer**. Feedback shows your selection, the correct answer, and the original reasoning. Continue when ready.
+- Single-choice, select-two, select-all, matching, matrix, and ordered-response formats retain their original rules. Matrix rows may require several columns. Scoring requires the entire exact answer; there is no partial credit.
+- A lesson is complete after every teaching step is read and all five checks are attempted. A wrong answer does not block completion.
+- **Review missed checks** is available for the whole site or a single path. A correct retry removes the check from the missed list.
+- Your place, drafts, submitted answers, completion, and missed checks save in this device's browser. Progress does not sync between devices or browsers. Clearing site data or using private browsing can remove progress.
+- Existing progress from the original 13-lesson site is preserved under **Meat and potatoes** when using the same website address and browser. The new full paths start separately. Marks in the private PDFs are not imported.
+- **Sources** shows original file names and PDF viewer page references. Use your private copies to read those pages.
 
-## Content and files
+## Publish or update on GitHub Pages
 
-The high-yield PDF is the backbone: **8 subjects, 13 lessons, 65 checks**. Teaching is divided into **84 short screens**, including the bedside examples. There are **33 optional explanations** checked against the matching full paths. The 46 single-choice, 12 select-two, and 7 matching checks preserve their original wording, options, order, keys, and rationales. Relevant ATI–lecture differences remain visible in lessons.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `core.js`, `content.js`, `full-paths.js`, and `favicon.svg`. Keep `.nojekyll` if your upload method includes hidden files.
+2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
+3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 
-- `index.html` — page shell; open this file or serve this folder.
-- `styles.css` — responsive layout and large touch targets.
-- `content.js` — lesson content and original checks.
-- `core.js` — exact-answer scoring and saved-state validation.
-- `app.js` — navigation, feedback, sources, and browser storage.
-- `sources/README.md` — names of the private source PDFs; the website also shows relevant page references.
-- `VERIFICATION.md` — content and behavior verification record.
-
-For a local HTTP preview, run `python3 -m http.server 8000` in this folder and open `http://localhost:8000/`. Keep the terminal running while previewing.
+The website uses plain HTML, CSS, and JavaScript, relative paths, and no build step or external runtime dependencies. For a local preview, run `python3 -m http.server 8000` inside this folder, then open `http://localhost:8000/`. Local previews have separate saved progress.

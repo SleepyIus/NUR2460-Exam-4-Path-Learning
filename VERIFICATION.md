@@ -1,36 +1,25 @@
 # Verification record
 
-Verified November 25, 2026.
+Verified November 25, 2026. This revision adds eight complete subject paths and retains the original high-yield course separately.
 
 ## Content
 
-- 8 subjects in the high-yield PDF / updated blueprint distribution order, totaling 80 exam items.
-- 13 lessons; exactly 5 checks in each, totaling 65.
-- 46 single-choice, 12 select-two, and 7 matching checks.
-- 84 teaching screens and 33 optional explanations.
-- All 65 question stems, options, matching prompts, answer keys, and supplied rationales compared with the actual downloaded high-yield PDF (pages 2–27), with only whitespace and typographic apostrophes/dashes normalized for comparison.
-- Each optional explanation checked against the matching full-path PDF page. Its page locator is available through Sources.
-- High-yield teaching retained, split at deliberate sentence boundaries. The repeated bupropion seizure-risk teaching in eating disorders links back to its first teaching step; its original check remains intact.
-- Source qualifications remain visible for lithium targets/timing, postpartum timing, measles isolation/communicability, ADHD age-of-onset wording, eating-disorder thresholds/supervision, and lecture-supported retinoblastoma.
+- Eight full paths: 137 original lessons and 685 checks; five checks per lesson.
+- Separate high-yield course: 13 lessons and 65 checks; five checks per lesson.
+- 150 lessons, 750 checks, and 672 teaching screens in total.
+- Full-path teaching, goals, terms, table cells, flow steps, examples, choices, matching labels/rows, matrix columns/rows, ordered actions, keys, and rationales compared against the actual nine supplied PDFs. No unmatched content in the full-path audit.
+- All 685 full-path keys compared with the printed exact keys, including 42 matrix and two ordered-response checks.
+- The original 65 high-yield checks and their option rationales remain unchanged.
+- The eight full paths contain 367 single-choice, 137 select-all, 137 matching, 42 matrix, and two ordered-response checks. The high-yield course contains 46 single-choice, 12 select-two, and seven matching checks.
+- Clinical context, source qualifications, course objective summaries, and source locators remain attached. PDFs and personal PDF annotations are excluded from the published files.
 
 ## Behavior
 
-- Browser-tested navigation through every teaching step and every check in all 13 lessons.
-- All 65 correct answers scored correctly; original feedback rendered for every option/matching row.
-- Incorrect answers tested for single-choice, select-two, and matching formats.
-- Scoring helpers also checked against all 749 possible selection combinations across the 65 checks.
-- Rationales absent from the rendered interface before submission, including after selecting an answer and refreshing a draft.
-- Next remains disabled until Check answer is submitted; submission does not advance automatically.
-- Back, Continue studying, home lesson links, lesson outline, and keyboard skip link verified.
-- Current step, draft selection, submitted response, completed lessons, and missed checks survive refresh.
-- Completed the full site in the browser and confirmed 13/13 lessons and 65/65 attempted checks persisted after refresh.
-- Missed review starts with hidden feedback; incorrect retries remain; correct retries clear. Finishing review returns to the saved study location, including after refresh during review.
-- Sources dialog opens/closes and includes lesson-specific locators. Source PDFs are excluded from publication; source names and page references remain available without download links.
-- No browser console errors or warnings observed during final inspection.
-- Test progress cleared before delivery; viewport override reset.
+- Scoring tested against 45,638 complete selection combinations/permutations across all formats.
+- Browser-rendered all 672 teaching screens and all 750 checks. Every correct answer submitted through the form and every supplied rationale verified in feedback. Feedback absent before submission; submission does not advance automatically.
+- Existing high-yield saved-state migration preserves lesson completion, answers, missed checks, and last position under the same storage key.
+- Saved-state round-trip checks cover all 150 completed lessons, 750 attempts, and nine path positions.
+- Navigation, Back/Next, path lesson lists, sources, hidden answers, incorrect attempts, missed review, and refresh persistence checked in the browser.
+- Browser viewport checks cover phone and iPad portrait/landscape layouts. These are simulations, not physical-device or Safari tests.
 
-## Layout
-
-Browser viewport checks at 390 × 844 (phone), 820 × 1180 (iPad portrait), and 1180 × 820 (iPad landscape). Actual viewport dimensions were confirmed before recording results. Representative home, teaching, matching, feedback, and Sources views have no horizontal overflow. Sampled buttons, selects, and answer labels have tap targets at least 44 CSS pixels high. Screenshots visually inspected.
-
-These are browser viewport simulations; the site was not tested on physical iPad hardware or Safari.
+Supporting machine-readable audits and screenshots are stored alongside the publishing folder in `nur2460-exam4-verification`.
