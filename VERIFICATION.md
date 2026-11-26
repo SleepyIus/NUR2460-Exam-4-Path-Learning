@@ -41,3 +41,13 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 - Verified selected answers, missed checks, saved location, and Continue studying after refresh. Storage key and scoring logic are unchanged.
 - No horizontal overflow across all 1,422 screens at 320 × 720, 430 × 932, 932 × 430, 820 × 1180, and 1180 × 820 CSS pixels. Checked light and OLED dark appearance. These are browser viewport simulations, not physical-device Safari tests.
 - No browser console errors. Source PDFs remain excluded.
+
+## Copy-and-paste progress transfer
+
+- Complete 150-lesson / 750-answer state round-trips in compressed and compatibility codes. Complete compressed fixture is about 8,040 characters; no question or teaching text is included.
+- Tested drafts in all six formats, read/completed lessons, saved positions for all nine paths, missed checks, and active review with drafts or submitted feedback. Scores/completion are recalculated from original data on import.
+- Tested merge, replacement, overlapping-answer precedence, missed-check reconciliation, malformed/partial/altered codes, line-wrapped codes, and storage-failure rollback.
+- Browser-tested real clipboard copying and paste/import between separate localhost and 127.0.0.1 storage environments, preview before mutation, incomplete-code rejection, merge, replace, undo, refresh persistence, and resume into an unfinished review with feedback still hidden.
+- Browser-tested manual-copy fallback, preview invalidation after editing the code, and blocked storage without changing active progress.
+- Checked phone portrait/landscape, tablet, and 320px layouts, light and OLED dark mode; no horizontal overflow or console errors. These are browser simulations, not physical-device Safari or Apple Universal Clipboard tests.
+- Clinical data, all checks/rationales, scoring, and the existing progress storage key remain unchanged. PDFs remain private.

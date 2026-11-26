@@ -30,13 +30,25 @@ Use the sun/moon button in the header to switch between light and dark mode. Nig
 - Single-choice, select-two, select-all, matching, matrix, and ordered-response formats retain their original rules. Matrix rows may require several columns. Scoring requires the entire exact answer; there is no partial credit.
 - A lesson is complete after every teaching step is read and all five checks are attempted. A wrong answer does not block completion.
 - **Review missed checks** is available for the whole site or a single path. A correct retry removes the check from the missed list.
-- Your place, drafts, submitted answers, completion, and missed checks save in this device's browser. Progress does not sync between devices or browsers. Clearing site data or using private browsing can remove progress.
+- Your place, drafts, submitted answers, completion, and missed checks save in this device's browser. Progress does not sync automatically between devices or browsers; use the copy-and-paste transfer below. Clearing site data or using private browsing can remove progress.
 - Existing progress from the original 13-lesson site is preserved under **Meat and potatoes** when using the same website address and browser. The new full paths start separately. Marks in the private PDFs are not imported.
 - **Sources** shows original file names and PDF viewer page references. Use your private copies to read those pages.
 
+## Move progress by copying and pasting
+
+1. On the device with your latest progress, go to **All paths → Move progress between devices → Export progress**.
+2. Tap **Copy progress code**. On your other device, open the same website and choose **Import progress**.
+3. Paste the entire code into the box, tap **Preview progress**, then choose **Import this progress**. Use **Continue studying** to resume.
+
+**Merge progress** keeps completed work from both devices; the code's submitted answers take priority where both devices answered the same check. The code's saved position and review session become the resume point. **Replace this device's progress** restores the code's snapshot exactly. **Undo last import** restores the receiving device's previous progress, even after a refresh; work done since that import will be removed.
+
+The code includes all nine paths, read steps, completed lessons, submitted answers, unfinished selections, missed checks, per-path positions, and an active missed-check review. Appearance stays local to each device. Codes are snapshots: copy a new one after studying. No account, cloud database, or file is required. The site does not upload progress codes to GitHub or any server.
+
+If automatic copying is unavailable, use **Select code**, then your device's Copy command. The import box uses ordinary Paste. **Older browser? → Create compatibility code** produces a longer code without browser compression. Invalid, incomplete, or unsupported codes leave current progress unchanged; a preview alone never imports.
+
 ## Publish or update on GitHub Pages
 
-1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `progress-transfer.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
 2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
 3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 
