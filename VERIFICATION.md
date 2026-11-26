@@ -92,3 +92,10 @@ Separate colors and styles, including colored lines:
 - Preserved older yellow/colored highlights and uncolored lines. Validated partial line recoloring, per-style overlap resolution, independent line removal, strict color validation, and all eight colored-line variants through compressed and compatibility progress codes.
 - Browser-tested color-only selection, solid fill, colored lines without fill, differently colored overlapping lines, toggling individual styles, refresh persistence, and the persistent Highlight action with selectionchange suppressed.
 - Verified light/dark line colors, 320px and 430px phone layouts, 1194px iPad layout, and 44px controls without overflow or clipped labels. No browser console errors. Physical iOS Home Screen behavior is not simulated by these browser tests.
+
+Text extraction and definition copyedit:
+- Scanned the full and high-yield course data for unmatched parentheses/brackets, encoding artifacts, accidental repeated words, and split abbreviations. Reviewed all 448 definition/table cards against the original lesson data used for the supplied PDFs.
+- Restored standalone punctuation and capitalization in 213 definition fields and 11 table-label/title fields, including NSSI, APSGN, VUR, EBV, IEP, ODD, CBT, ERP, CNS, and ESE. Corrected ATI/Meyers capitalization in 55 source headings. All 279 changed fields retain exactly the same letters and numbers when case and punctuation are excluded.
+- Fixed the local conversion script to retain original punctuation and capitalization for verified terms and table cells instead of copying a matching phrase from a surrounding PDF sentence.
+- Compared every question, answer key, and rationale with the previous release: all remain identical. All eight full paths, 137 full lessons, 13 high-yield lessons, 750 checks, lesson/step identifiers, and teaching paragraphs remain intact.
+- Verified the corrected NSSI definition in the browser, navigation and saved step after refresh, and no console errors. Existing feedback/scoring checks for all six question formats and progress-code/annotation compatibility checks passed.

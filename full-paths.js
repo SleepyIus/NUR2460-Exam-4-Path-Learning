@@ -36,7 +36,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review emotional, behavioral, cognitive, and physical findings, including adolescent presentations. Connect symptoms with changes in functioning and self-care."
             ],
             [
@@ -58,7 +58,7 @@ window.FULL_PATHS = {
           "page": 13,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Practice acknowledging observations, offering presence, reflecting feelings, and supporting participation in care without judgment or false reassurance."
             ],
             [
@@ -80,7 +80,7 @@ window.FULL_PATHS = {
           "page": 22,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review direct assessment of thoughts, intent, plans, and access to means; prior attempts; warning behaviors; sudden changes in mood; environmental safety; observation; and reassessment. Prioritize actual safety measures rather than relying on a safety contract."
             ],
             [
@@ -102,7 +102,7 @@ window.FULL_PATHS = {
           "page": 32,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review psychotherapy, antidepressant onset of effect, adherence, reassessment of response, and monitoring during treatment. Review bupropion and citalopram teaching and nortriptyline adverse effects and precautions."
             ],
             [
@@ -124,7 +124,7 @@ window.FULL_PATHS = {
           "page": 42,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review risk factors, manifestations, effects on functioning, and maternal and infant safety. Distinguish depressive symptoms from psychotic symptoms requiring urgent evaluation."
             ],
             [
@@ -146,7 +146,7 @@ window.FULL_PATHS = {
           "page": 50,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review its role in depression treatment, preparation, expected effects, recovery care, and patient teaching."
             ],
             [
@@ -223,7 +223,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review grandiosity, flight of ideas, disorganized speech, impulsivity, activity changes, sleep disruption, and other manic behaviors. Assess self-harm and suicide risk."
             ],
             [
@@ -245,7 +245,7 @@ window.FULL_PATHS = {
           "page": 14,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review a low-stimulation environment, room placement, clear communication, consistent limits, appropriate activities, rest, hydration, nutrition, weight, and physiologic monitoring."
             ],
             [
@@ -267,7 +267,7 @@ window.FULL_PATHS = {
           "page": 24,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review serum-level monitoring, therapeutic versus toxic findings, prescribed administration parameters, hydration, consistent sodium intake, and circumstances that increase toxicity risk."
             ],
             [
@@ -289,7 +289,7 @@ window.FULL_PATHS = {
           "page": 33,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review the role of valproate and carbamazepine, required monitoring, adverse effects, and patient teaching."
             ],
             [
@@ -311,7 +311,7 @@ window.FULL_PATHS = {
           "page": 43,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review immediate physical assessment, injury care, safety assessment, documentation, and ongoing prevention."
             ],
             [
@@ -391,7 +391,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review immediate protection of exposed tissue, infection prevention, preoperative priorities, and parent education."
             ],
             [
@@ -413,7 +413,7 @@ window.FULL_PATHS = {
           "page": 15,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review the condition, purpose of surgical correction, potential long-term complications, and family teaching."
             ],
             [
@@ -435,7 +435,7 @@ window.FULL_PATHS = {
           "page": 23,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Connect urinary protein loss with edema and other assessment findings. Review corticosteroid therapy, infection risk, fluid status, monitoring, and reportable changes."
             ],
             [
@@ -457,7 +457,7 @@ window.FULL_PATHS = {
           "page": 33,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review assessment findings, fluid retention, blood pressure, intake and output, daily weights, dietary and fluid management, and complications."
             ],
             [
@@ -479,7 +479,7 @@ window.FULL_PATHS = {
           "page": 41,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review age-related manifestations, changes in toileting patterns, prevention, hydration and voiding habits, prescribed antibiotics, and caregiver teaching."
             ],
             [
@@ -501,7 +501,7 @@ window.FULL_PATHS = {
           "page": 50,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review age-related manifestations, changes in toileting patterns, prevention, hydration and voiding habits, prescribed antibiotics, and caregiver teaching."
             ],
             [
@@ -592,7 +592,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare hallmark manifestations, transmission, appropriate precautions, supportive care, and prevention. Review the significance of Koplik spots."
             ],
             [
@@ -614,7 +614,7 @@ window.FULL_PATHS = {
           "page": 14,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare hallmark manifestations, transmission, appropriate precautions, supportive care, and prevention. Review the significance of Koplik spots."
             ],
             [
@@ -636,7 +636,7 @@ window.FULL_PATHS = {
           "page": 22,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare characteristic findings, causative organisms, contagious periods, supportive care, activity considerations, and family teaching."
             ],
             [
@@ -658,7 +658,7 @@ window.FULL_PATHS = {
           "page": 30,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare characteristic findings, causative organisms, contagious periods, supportive care, activity considerations, and family teaching."
             ],
             [
@@ -680,7 +680,7 @@ window.FULL_PATHS = {
           "page": 39,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare characteristic findings, causative organisms, contagious periods, supportive care, activity considerations, and family teaching."
             ],
             [
@@ -702,7 +702,7 @@ window.FULL_PATHS = {
           "page": 49,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare characteristic findings, causative organisms, contagious periods, supportive care, activity considerations, and family teaching."
             ],
             [
@@ -724,7 +724,7 @@ window.FULL_PATHS = {
           "page": 59,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review preceding infection or illness patterns, assessment findings, cardiac complications, treatment priorities, and the purpose of prescribed therapies."
             ],
             [
@@ -746,7 +746,7 @@ window.FULL_PATHS = {
           "page": 67,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review preceding infection or illness patterns, assessment findings, cardiac complications, treatment priorities, and the purpose of prescribed therapies."
             ],
             [
@@ -828,7 +828,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare the injury pattern with the reported history and developmental ability. Review concerning caregiver behaviors, bruising assessment, history gathering, and objective documentation."
             ],
             [
@@ -850,7 +850,7 @@ window.FULL_PATHS = {
           "page": 14,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review the nurse's reporting responsibility, the distinction between suspicion and proof, immediate protection, and appropriate explanations to caregivers."
             ],
             [
@@ -872,7 +872,7 @@ window.FULL_PATHS = {
           "page": 24,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Compare the injury pattern with the reported history and developmental ability. Review concerning caregiver behaviors, bruising assessment, history gathering, and objective documentation. Review direct, honest, nonjudgmental communication; supportive responses to disclosure; privacy; and appropriate limits on confidentiality. Avoid blame, leading questions, and pressure to disclose."
             ],
             [
@@ -894,7 +894,7 @@ window.FULL_PATHS = {
           "page": 34,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review individual and environmental risk factors, social support, behavioral and self-esteem changes, safety assessment, and available support."
             ],
             [
@@ -916,7 +916,7 @@ window.FULL_PATHS = {
           "page": 44,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review individual and environmental risk factors, social support, behavioral and self-esteem changes, safety assessment, and available support."
             ],
             [
@@ -995,7 +995,7 @@ window.FULL_PATHS = {
           "page": 6,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review social and communication patterns, repetitive behaviors, structured care, reinforcement of positive behavior, family support, and evaluation for coexisting conditions affecting school performance."
             ],
             [
@@ -1017,7 +1017,7 @@ window.FULL_PATHS = {
           "page": 14,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review inattention, hyperactivity, impulsivity, early intervention, behavioral strategies, school and family support, and multimodal treatment. Review methylphenidate administration, adverse effects, and stimulant-related teaching."
             ],
             [
@@ -1039,7 +1039,7 @@ window.FULL_PATHS = {
           "page": 30,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Distinguish dyslexia from other learning difficulties. Review caregiver activities that support language and socio-emotional development."
             ],
             [
@@ -1061,7 +1061,7 @@ window.FULL_PATHS = {
           "page": 38,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review aggression, rule violations, responses to conflict, accountability, consistent limits, and safety."
             ],
             [
@@ -1083,7 +1083,7 @@ window.FULL_PATHS = {
           "page": 46,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Distinguish obsessions from compulsions. Review anxiety, the function of rituals, initial nursing approaches, and gradual development of alternative coping strategies."
             ],
             [
@@ -1120,11 +1120,11 @@ window.FULL_PATHS = {
               "Slides 2, 3, and 6 emphasize individualized routines and coexisting school needs."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "ATI MH describes varied abilities. The older pediatric text generalizes about IQ. Assess the individual child."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L01 MH ch28 PDF176,178; MH ch15 PDF87 (echolalia only); PED ch44 PDF302 | L02 MH ch28 PDF176-178; PED ch44 PDF302 | L03 MH ch28 PDF178; ch25 PDF156-157; PED ch44 PDF302"
             ],
             [
@@ -1151,11 +1151,11 @@ window.FULL_PATHS = {
               "Slides 4-6 and notes 5-6 emphasize domains, early support, stimulant formulation, and monitoring."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "ATI MH ch. 28 p. 176 uses onset before age 12. The supplied PED ch. 44 p. 301 uses older before-age-7 wording. Check the source and the multi-setting pattern. Meal and evening-dose advice varies by product. MH pp. 152-153 and PHARM pp. 92-93 distinguish oral and patch instructions."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L04 MH ch28 PDF176-177; PED ch44 PDF301-302 | L05 MH ch28 PDF177-178; PED ch44 PDF301 | L06 MH ch25 PDF152-153; PHARM ch11 PDF92-93; PED ch44 PDF302 | L07 MH ch25 PDF152-153; PHARM ch11 PDF92-93; PED ch44 PDF302 | L08 MH ch25 PDF152-153; PHARM ch11 PDF92-93"
             ],
             [
@@ -1182,11 +1182,11 @@ window.FULL_PATHS = {
               "Slide 14 links specific school skills, social support, and responsive shared reading."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "The four-days-per-week shared reading example is from the keyed class activity. ATI discusses learning support without making that number a diagnostic cutoff."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L09 MH ch28 PDF177-178 | L10 MH ch28 PDF177-178 (general support); keyed course guidance (four days) | L11 MH ch28 PDF177-178"
             ],
             [
@@ -1213,11 +1213,11 @@ window.FULL_PATHS = {
               "Slide 12 and its speaker note emphasize rationalizing harm, accountability, safety, and consistent limits."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "Oppositional defiant disorder (ODD) is a related condition. Assess the described conduct, impact on others, and safety."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L12 MH ch28 PDF175-178 | L13 MH ch28 PDF177-178 | L14 MH ch28 PDF176-178"
             ],
             [
@@ -1244,11 +1244,11 @@ window.FULL_PATHS = {
               "Slide 13 and its speaker note distinguish intrusive thoughts, rituals, initial support, and gradual limits."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "ATI MH pp. 67-68 describes planned exposure and response prevention. Initial nursing support and planned therapy differ in timing and purpose."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L15 MH ch11 PDF66-68 | L16 MH ch11 PDF67-68; lecture initial-care approach | L17 MH ch11 PDF67-68; ch22 PDF131-132,135 (relevant SSRI safety)"
             ],
             [
@@ -1292,7 +1292,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review characteristic abdominal and urinary findings, assessment precautions, protection from injury, treatment, and family teaching."
             ],
             [
@@ -1314,7 +1314,7 @@ window.FULL_PATHS = {
           "page": 18,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review neurologic assessment, increased intracranial pressure, changes in vital signs, and findings requiring prompt follow-up."
             ],
             [
@@ -1336,7 +1336,7 @@ window.FULL_PATHS = {
           "page": 28,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review abnormal eye-reflex findings, assessment, and the need for further evaluation."
             ],
             [
@@ -1358,7 +1358,7 @@ window.FULL_PATHS = {
           "page": 38,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review therapeutic communication with an adolescent discussing prognosis, death, or fears. Consider developmental needs and family support."
             ],
             [
@@ -1436,7 +1436,7 @@ window.FULL_PATHS = {
           "page": 5,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review nutritional, cardiovascular, gastrointestinal, endocrine, and electrolyte findings. Recognize medical instability and monitoring needs."
             ],
             [
@@ -1458,7 +1458,7 @@ window.FULL_PATHS = {
           "page": 21,
           "parts": [
             [
-              "What meyers asks you to do",
+              "What Meyers asks you to do",
               "Review binge-purge behaviors, physical complications, structured meals, supervision, prevention of purging, therapeutic support, and the role of prescribed fluoxetine."
             ],
             [
@@ -1495,11 +1495,11 @@ window.FULL_PATHS = {
               "Slides 7-11 and note 11 emphasize systemic signs, medical instability, and supported restoration of nutrition."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "The lecture sources differ on pulse and temperature triggers. Use ATI MH pp. 109-111 in the acute-care context. Keep adult BMI and pediatric growth measures separate. Bupropion is contraindicated in anorexia and bulimia because of seizure risk (MH p. 135, PHARM p. 71)."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L18 MH ch19 PDF108-109 | L19 MH ch19 PDF109-110 | L20 MH ch19 PDF109-111 | L21 MH ch19 PDF110-111 | L22 MH ch19 PDF110-111 | L23 MH ch19 PDF110-111; ch11 PDF68 (reframing); ch22 PDF135; PHARM ch8 PDF71; MH ch25 PDF156-157"
             ],
             [
@@ -1526,11 +1526,11 @@ window.FULL_PATHS = {
               "Slides 7-11 and note 11 emphasize structured, nonpunitive meals, complications, and the role of fluoxetine."
             ],
             [
-              "Ati detail or source qualification",
+              "ATI detail or source qualification",
               "Lecture gives differing durations for observation after meals. ATI MH p. 110 supports observation during and after meals. Follow the individual care plan. Medication teaching preserves age, indication, and product context."
             ],
             [
-              "Ati viewer pages by lesson",
+              "ATI viewer pages by lesson",
               "L24 MH ch19 PDF108-110 | L25 MH ch19 PDF109-111 | L26 MH ch19 PDF109-111 | L27 MH ch19 PDF110; ch22 PDF131-132,135; PHARM ch8 PDF71 | L28 MH ch19 PDF110-111"
             ],
             [
@@ -1571,7 +1571,7 @@ window.FULL_PATHS = {
             ],
             [
               "Anergia",
-              "lack of energy."
+              "Lack of energy."
             ],
             [
               "Hypersomnia",
@@ -1748,11 +1748,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "baseline.",
+              "Baseline",
               "The person's usual function, used for comparison."
             ],
             [
-              "risk factor",
+              "Risk factor",
               "A feature increasing concern without proving the disorder."
             ],
             [
@@ -2142,7 +2142,7 @@ window.FULL_PATHS = {
               "Making one's presence available therapeutically."
             ],
             [
-              "response time",
+              "Response time",
               "Time allowed to process and answer."
             ],
             [
@@ -2314,7 +2314,7 @@ window.FULL_PATHS = {
               "A neutral statement about something actually noticed."
             ],
             [
-              "reflection",
+              "Reflection",
               "Acknowledging the feeling or meaning the person expresses."
             ],
             [
@@ -2719,11 +2719,11 @@ window.FULL_PATHS = {
               "Thoughts or planning about death by self-harm."
             ],
             [
-              "suicide attempt",
-              "self-directed behavior with intent to die."
+              "Suicide attempt",
+              "Self-directed behavior with intent to die."
             ],
             [
-              "NSSI)",
+              "NSSI",
               "Nonsuicidal self-injury: injury without intent to die."
             ]
           ]
@@ -2899,15 +2899,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "intent,",
+              "Intent",
               "The person's purpose or desire to act and die."
             ],
             [
-              "access to means,",
+              "Access to means",
               "Availability of a method that could cause harm."
             ],
             [
-              "lethality,",
+              "Lethality",
               "The potential for a method to cause death."
             ]
           ]
@@ -3668,15 +3668,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Bupropion - Wellbutrin",
+              "Bupropion / Wellbutrin",
               "Generic and brand names for an NDRI antidepressant."
             ],
             [
-              "NDRI).",
-              "norepinephrine-dopamine reuptake inhibitor"
+              "NDRI",
+              "Norepinephrine-dopamine reuptake inhibitor."
             ],
             [
-              "seizure threshold.",
+              "Seizure threshold",
               "The level of stimulation at which a seizure can occur."
             ]
           ]
@@ -3849,11 +3849,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Citalopram - Celexa",
+              "Citalopram / Celexa",
               "Generic and brand names for an SSRI."
             ],
             [
-              "serotonin syndrome:",
+              "Serotonin syndrome",
               "Potentially dangerous excess serotonergic activity."
             ],
             [
@@ -4040,15 +4040,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Nortriptyline - Pamelor",
+              "Nortriptyline / Pamelor",
               "Generic and brand names for a tricyclic antidepressant."
             ],
             [
-              "orthostatic hypotension,",
+              "Orthostatic hypotension",
               "A positional blood-pressure drop that can cause dizziness."
             ],
             [
-              "anticholinergic effects:",
+              "Anticholinergic effects",
               "Effects such as dry mouth, constipation, and urinary retention."
             ]
           ]
@@ -4266,7 +4266,7 @@ window.FULL_PATHS = {
               "Developing connection between parent and infant."
             ],
             [
-              "flat affect,",
+              "Flat affect",
               "Very limited visible emotional expression."
             ]
           ]
@@ -4646,7 +4646,7 @@ window.FULL_PATHS = {
               "Direct evaluation of whether the person intends to act."
             ],
             [
-              "practical support",
+              "Practical support",
               "Help with needs such as rest, meals, and safe infant care."
             ],
             [
@@ -4856,15 +4856,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "ect",
+              "ECT",
               "Electroconvulsive therapy: a controlled therapeutic brain seizure."
             ],
             [
-              "succinylcholine",
+              "Succinylcholine",
               "A muscle relaxant limiting skeletal movement during the procedure."
             ],
             [
-              "assisted ventilation",
+              "Assisted ventilation",
               "Support of breathing when spontaneous breathing is inadequate."
             ]
           ]
@@ -5039,7 +5039,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "informed consent",
+              "Informed consent",
               "An informed voluntary decision obtained through the provider's process."
             ],
             [
@@ -5236,7 +5236,7 @@ window.FULL_PATHS = {
               "Electroencephalogram: records brain electrical activity."
             ],
             [
-              "ECG,",
+              "ECG",
               "Electrocardiogram: records cardiac electrical activity."
             ],
             [
@@ -5442,11 +5442,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "mania",
+              "Mania",
               "An elevated/irritable, energized episode with marked impairment or severity."
             ],
             [
-              "hypomania",
+              "Hypomania",
               "A less severe elevated/irritable, energized episode without psychosis or marked impairment."
             ],
             [
@@ -5641,7 +5641,7 @@ window.FULL_PATHS = {
             ],
             [
               "Flight of ideas",
-              "rapid shifts between loosely connected topics."
+              "Rapid shifts between loosely connected topics."
             ],
             [
               "Pressured speech",
@@ -6023,7 +6023,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "low-stimulation",
+              "Low stimulation",
               "An environment with fewer distracting or activating inputs."
             ],
             [
@@ -6215,7 +6215,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "finger foods",
+              "Finger foods",
               "Portable foods eaten without needing to sit for a full meal."
             ],
             [
@@ -6415,7 +6415,7 @@ window.FULL_PATHS = {
               "Activities of daily living such as washing and dressing."
             ],
             [
-              "disinhibition,",
+              "Disinhibition",
               "Reduced restraint over behavior, including risky social or sexual actions."
             ],
             [
@@ -6613,7 +6613,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "narrow therapeutic range,",
+              "Narrow therapeutic range",
               "A small margin between effective and harmful concentrations."
             ],
             [
@@ -6811,7 +6811,7 @@ window.FULL_PATHS = {
               "Loss or reduction of body sodium that can affect lithium handling."
             ],
             [
-              "dehydration",
+              "Dehydration",
               "A fluid deficit that can raise lithium concentration."
             ],
             [
@@ -7012,11 +7012,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "fine tremor",
+              "Fine tremor",
               "Small-amplitude shaking that can occur as an adverse effect."
             ],
             [
-              "coarse tremor.",
+              "Coarse tremor",
               "Larger shaking that is concerning in a toxicity pattern."
             ],
             [
@@ -7235,7 +7235,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "mood stabilizer",
+              "Mood stabilizer",
               "A medicine used to manage mood episodes and relapse risk."
             ],
             [
@@ -7243,7 +7243,7 @@ window.FULL_PATHS = {
               "An antiseizure medicine also used for mood stabilization."
             ],
             [
-              "carbamazepine:",
+              "Carbamazepine",
               "An antiseizure medicine also used to reduce mania."
             ]
           ]
@@ -7426,11 +7426,11 @@ window.FULL_PATHS = {
               "Enzymes used in liver-function assessment."
             ],
             [
-              "thrombocytopenia.",
+              "Thrombocytopenia",
               "A reduced platelet count that can increase bleeding risk."
             ],
             [
-              "pancreatitis",
+              "Pancreatitis",
               "Inflammation of the pancreas; severe abdominal pain is a warning."
             ]
           ]
@@ -7627,7 +7627,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "leukopenia;",
+              "Leukopenia",
               "A low white-cell count that can increase infection risk."
             ],
             [
@@ -7635,7 +7635,7 @@ window.FULL_PATHS = {
               "Complete blood count, used to monitor blood-cell changes."
             ],
             [
-              "hyponatremia",
+              "Hyponatremia",
               "A low serum sodium concentration."
             ]
           ]
@@ -7846,11 +7846,11 @@ window.FULL_PATHS = {
               "Control of bleeding."
             ],
             [
-              "wound depth",
+              "Wound depth",
               "How far an injury extends into underlying tissue."
             ],
             [
-              "debris",
+              "Debris",
               "Material within a wound requiring assessment and appropriate care."
             ]
           ]
@@ -8043,7 +8043,7 @@ window.FULL_PATHS = {
               "The purpose or desire to cause one's own death."
             ],
             [
-              "trigger",
+              "Trigger",
               "An event, feeling, or situation preceding the behavior."
             ]
           ]
@@ -8236,7 +8236,7 @@ window.FULL_PATHS = {
               "The person's exact words, recorded in quotation marks."
             ],
             [
-              "prevention plan",
+              "Prevention plan",
               "A plan for warnings, safer coping, support, and means restriction."
             ]
           ]
@@ -8432,15 +8432,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Bladder exstrophy:",
+              "Bladder exstrophy",
               "Congenital exposure of the bladder through the abdominal wall."
             ],
             [
-              "mucosa.",
+              "Mucosa",
               "The delicate lining of the exposed bladder."
             ],
             [
-              "nonadherent covering.",
+              "Nonadherent covering",
               "A covering designed not to stick to the tissue."
             ]
           ]
@@ -8811,7 +8811,7 @@ window.FULL_PATHS = {
               "Preventing damage from moisture, pressure, friction, or adhesives."
             ],
             [
-              "infection finding",
+              "Infection finding",
               "A concerning change such as fever, redness, or deteriorating condition."
             ],
             [
@@ -9003,10 +9003,10 @@ window.FULL_PATHS = {
           "terms": [
             [
               "Cryptorchidism",
-              "one or both testes have not descended into the scrotum."
+              "One or both testes have not descended into the scrotum."
             ],
             [
-              "fertility",
+              "Fertility",
               "The capacity to reproduce."
             ],
             [
@@ -9180,11 +9180,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "orchiopexy",
+              "Orchiopexy",
               "Surgery bringing and securing the testis in the scrotum."
             ],
             [
-              "scrotum.",
+              "Scrotum",
               "The pouch that normally contains the testes."
             ],
             [
@@ -9563,10 +9563,10 @@ window.FULL_PATHS = {
             ],
             [
               "Hypoalbuminemia",
-              "low serum albumin,"
+              "Low serum albumin."
             ],
             [
-              "edema",
+              "Edema",
               "Fluid accumulation within tissues."
             ]
           ]
@@ -9754,7 +9754,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "abdominal girth,",
+              "Abdominal girth",
               "A consistent abdominal measurement used to follow distention."
             ],
             [
@@ -9944,7 +9944,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "prednisone,",
+              "Prednisone",
               "A corticosteroid used to reduce protein loss in responsive disease."
             ],
             [
@@ -9952,7 +9952,7 @@ window.FULL_PATHS = {
               "A plasma expander supporting circulating volume."
             ],
             [
-              "furosemide.",
+              "Furosemide",
               "A diuretic promoting fluid removal; potassium can fall."
             ]
           ]
@@ -10148,15 +10148,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "APSGN)",
-              "Acute poststreptococcal glomerulonephritis"
+              "APSGN",
+              "Acute poststreptococcal glomerulonephritis."
             ],
             [
               "Hematuria",
               "Blood in urine, which may appear tea- or cola-colored."
             ],
             [
-              "oliguria,",
+              "Oliguria",
               "Reduced urine output."
             ]
           ]
@@ -10335,15 +10335,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "pulmonary edema",
+              "Pulmonary edema",
               "Fluid accumulation in the lungs impairing breathing."
             ],
             [
-              "hypertension",
+              "Hypertension",
               "Elevated blood pressure requiring age/context interpretation."
             ],
             [
-              "daily weight",
+              "Daily weight",
               "A repeated measurement that helps track fluid change."
             ]
           ]
@@ -10522,11 +10522,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "antihypertensive",
+              "Antihypertensive",
               "A medication used to lower blood pressure."
             ],
             [
-              "azotemia",
+              "Azotemia",
               "Accumulation of nitrogenous waste in the blood."
             ],
             [
@@ -10922,11 +10922,11 @@ window.FULL_PATHS = {
               "A test identifying organisms and helping direct antibiotic therapy."
             ],
             [
-              "sterile catheterization",
+              "Sterile catheterization",
               "Catheter collection using sterile technique."
             ],
             [
-              "suprapubic aspiration",
+              "Suprapubic aspiration",
               "Clinician collection directly from the bladder through the lower abdominal route."
             ]
           ]
@@ -11310,7 +11310,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "VUR)",
+              "VUR",
               "Vesicoureteral reflux: backflow toward ureters/kidneys."
             ],
             [
@@ -11318,7 +11318,7 @@ window.FULL_PATHS = {
               "Voiding cystourethrogram: imaging used to evaluate urinary abnormalities/reflux."
             ],
             [
-              "renal scarring.",
+              "Renal scarring",
               "Kidney tissue damage that can follow recurrent upper-tract infection."
             ]
           ]
@@ -11504,15 +11504,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "prophylaxis,",
+              "Prophylaxis",
               "Treatment intended to prevent a problem."
             ],
             [
-              "breakthrough infection",
+              "Breakthrough infection",
               "An infection occurring despite a prevention plan."
             ],
             [
-              "voiding dysfunction.",
+              "Voiding dysfunction",
               "Difficulty with normal bladder emptying patterns."
             ]
           ]
@@ -11696,7 +11696,7 @@ window.FULL_PATHS = {
               "A prescribed device supporting drainage."
             ],
             [
-              "obstruction.",
+              "Obstruction",
               "A blockage that can reduce or stop flow."
             ],
             [
@@ -11893,16 +11893,16 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "rubeola.",
+              "Rubeola",
               "Measles; it is different from rubella."
             ],
             [
-              "Koplik spots,",
+              "Koplik spots",
               "Tiny white oral lesions, especially inside the cheeks."
             ],
             [
-              "coryza",
-              "a (runny nose)"
+              "Coryza",
+              "A runny nose."
             ]
           ],
           "note": {
@@ -12082,7 +12082,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "photophobia,",
+              "Photophobia",
               "Discomfort or sensitivity caused by light."
             ],
             [
@@ -12090,7 +12090,7 @@ window.FULL_PATHS = {
               "Airborne isolation measures, including the designated room/respirator."
             ],
             [
-              "encephalitis,",
+              "Encephalitis",
               "Inflammation involving the brain; a serious possible complication."
             ]
           ]
@@ -12276,7 +12276,7 @@ window.FULL_PATHS = {
               "A rash containing flat spots and raised bumps."
             ],
             [
-              "communicability",
+              "Communicability",
               "The period during which an infection can be transmitted."
             ],
             [
@@ -12468,11 +12468,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "parotid gland",
+              "Parotid gland",
               "A salivary gland near the ear/jaw."
             ],
             [
-              "parotitis.",
+              "Parotitis",
               "Inflammation/swelling of the parotid gland."
             ],
             [
@@ -12656,15 +12656,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "orchitis,",
+              "Orchitis",
               "Inflammation of a testis."
             ],
             [
-              "oophoritis,",
+              "Oophoritis",
               "Inflammation involving an ovary."
             ],
             [
-              "meningitis",
+              "Meningitis",
               "Inflammation involving the meninges surrounding the brain/spinal cord."
             ]
           ]
@@ -12851,7 +12851,7 @@ window.FULL_PATHS = {
               "Contact through saliva-contaminated items or close interaction."
             ],
             [
-              "hydration",
+              "Hydration",
               "Adequate body fluid status assessed through intake, output, and findings."
             ]
           ]
@@ -13036,15 +13036,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Varicella:",
+              "Varicella",
               "Chickenpox, caused by varicella-zoster virus."
             ],
             [
-              "vesicle,",
-              "a small fluid-filled blister."
+              "Vesicle",
+              "A small fluid-filled blister."
             ],
             [
-              "crust.",
+              "Crust",
               "The dried covering that follows a healing lesion."
             ]
           ]
@@ -13224,7 +13224,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "calamine",
+              "Calamine",
               "A topical comfort treatment used for itching when prescribed."
             ],
             [
@@ -13600,11 +13600,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "erythema infectiosum,",
-              "Fifth disease:"
+              "Erythema infectiosum",
+              "Fifth disease."
             ],
             [
-              "parvovirus B19",
+              "Parvovirus B19",
               "The virus causing fifth disease."
             ],
             [
@@ -13784,11 +13784,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "arthralgia",
+              "Arthralgia",
               "Joint pain."
             ],
             [
-              "anemia",
+              "Anemia",
               "Reduced red-cell/hemoglobin capacity requiring clinical assessment."
             ],
             [
@@ -13975,7 +13975,7 @@ window.FULL_PATHS = {
               "Bright facial erythema characteristic of fifth disease."
             ],
             [
-              "lacy rash.",
+              "Lacy rash",
               "A net-like rash pattern that can follow the facial rash."
             ],
             [
@@ -14164,15 +14164,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "GAS/GABHS).",
-              "group A beta-hemolytic Streptococcus"
+              "GAS / GABHS",
+              "Group A beta-hemolytic Streptococcus."
             ],
             [
               "Scarlet fever",
               "A streptococcal illness with characteristic rash/tongue findings."
             ],
             [
-              "papillae",
+              "Papillae",
               "Small projections on the tongue that can appear prominent."
             ]
           ]
@@ -14348,11 +14348,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "rapid antigen test",
+              "Rapid antigen test",
               "A test looking for a specific organism's antigen."
             ],
             [
-              "throat culture",
+              "Throat culture",
               "A specimen test used to identify throat infection."
             ],
             [
@@ -14545,7 +14545,7 @@ window.FULL_PATHS = {
               "An immune/inflammatory complication after streptococcal infection."
             ],
             [
-              "vasculitis.",
+              "Vasculitis",
               "Inflammation of blood vessels."
             ],
             [
@@ -14726,16 +14726,16 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "EBV)",
+              "EBV",
               "Epstein-Barr virus, a common cause of infectious mononucleosis."
             ],
             [
-              "lymphadenopathy",
-              "enlarged lymph nodes),"
+              "Lymphadenopathy",
+              "Enlarged lymph nodes."
             ],
             [
               "Splenomegaly",
-              "an enlarged spleen."
+              "An enlarged spleen."
             ]
           ]
         },
@@ -14917,11 +14917,11 @@ window.FULL_PATHS = {
               "A test that may be ordered in evaluation for mononucleosis."
             ],
             [
-              "atypical lymphocytes,",
+              "Atypical lymphocytes",
               "Altered lymphocytes that may appear in ordered blood studies."
             ],
             [
-              "supportive care",
+              "Supportive care",
               "Care addressing symptoms, fluids, rest, and function."
             ]
           ]
@@ -15104,11 +15104,11 @@ window.FULL_PATHS = {
               "Left upper quadrant of the abdomen."
             ],
             [
-              "splenic rupture,",
+              "Splenic rupture",
               "Tearing of the spleen with potentially serious bleeding."
             ],
             [
-              "clinician clearance",
+              "Clinician clearance",
               "A reassessment-based decision that return to an activity is safe."
             ]
           ]
@@ -15299,15 +15299,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "carditis,",
+              "Carditis",
               "Inflammation involving the heart."
             ],
             [
-              "migratory polyarthritis,",
+              "Migratory polyarthritis",
               "Inflammation affecting multiple joints in a shifting pattern."
             ],
             [
-              "chorea,",
+              "Chorea",
               "Involuntary movements."
             ]
           ]
@@ -15484,7 +15484,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "secondary prophylaxis,",
+              "Secondary prophylaxis",
               "Prevention of recurrence after a prior illness."
             ],
             [
@@ -15675,11 +15675,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "dyspnea,",
+              "Dyspnea",
               "Difficulty breathing or breathlessness."
             ],
             [
-              "cardiac follow-up.",
+              "Cardiac follow-up",
               "Continued assessment of heart function and complications."
             ],
             [
@@ -15877,11 +15877,11 @@ window.FULL_PATHS = {
               "Abnormal dilation of a coronary artery."
             ],
             [
-              "nonpurulent conjunctivitis,",
+              "Nonpurulent conjunctivitis",
               "Red/inflamed eyes without the characteristic pus drainage."
             ],
             [
-              "adenopathy.",
+              "Adenopathy",
               "Enlarged lymph nodes."
             ]
           ]
@@ -16074,11 +16074,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "IVIG/gamma globulin)",
+              "IVIG / gamma globulin",
               "Intravenous immunoglobulin used to reduce inflammatory/coronary risk."
             ],
             [
-              "antiplatelet",
+              "Antiplatelet",
               "An action reducing platelet aggregation and clot formation."
             ],
             [
@@ -16266,7 +16266,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "recurrent fever",
+              "Recurrent fever",
               "Fever returning after initial improvement or discharge."
             ],
             [
@@ -16464,15 +16464,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "physical abuse",
-              "intentional bodily harm),"
+              "Physical abuse",
+              "Intentional bodily harm."
             ],
             [
-              "emotional abuse",
+              "Emotional abuse",
               "Behavior damaging emotional safety or self-worth."
             ],
             [
-              "neglect",
+              "Neglect",
               "Failure to provide needed care, protection, or basic necessities."
             ]
           ]
@@ -16646,7 +16646,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "nonmobile infant",
+              "Nonmobile infant",
               "An infant not yet able to move in the way the history claims."
             ],
             [
@@ -16843,7 +16843,7 @@ window.FULL_PATHS = {
               "Factitious disorder imposed on another: falsification/induction of another's illness."
             ],
             [
-              "Munchausen by proxy,",
+              "Munchausen by proxy",
               "A historical name associated with FDIA."
             ],
             [
@@ -17051,7 +17051,7 @@ window.FULL_PATHS = {
               "A level of concern that initiates the required reporting process."
             ],
             [
-              "proof",
+              "Proof",
               "Established evidence; it is not required before reporting suspicion."
             ],
             [
@@ -17240,7 +17240,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "safe disposition",
+              "Safe disposition",
               "A destination and care plan that protect the child."
             ],
             [
@@ -17248,7 +17248,7 @@ window.FULL_PATHS = {
               "The designated method of gathering/preserving evidence."
             ],
             [
-              "collaboration",
+              "Collaboration",
               "Coordinated work among clinical and protection professionals."
             ]
           ]
@@ -17632,11 +17632,11 @@ window.FULL_PATHS = {
               "A question allowing the child to describe the account in their own words."
             ],
             [
-              "leading question",
+              "Leading question",
               "A question suggesting the expected answer or alleged person."
             ],
             [
-              "developmentally appropriate",
+              "Developmentally appropriate",
               "Matched to the child's understanding and communication ability."
             ]
           ]
@@ -17822,7 +17822,7 @@ window.FULL_PATHS = {
               "Acknowledging the person's feelings or experience."
             ],
             [
-              "disclosure:",
+              "Disclosure",
               "The person telling someone about harm."
             ],
             [
@@ -18214,11 +18214,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "IPV)",
+              "IPV",
               "Intimate partner violence involving current or former partners."
             ],
             [
-              "coercive control",
+              "Coercive control",
               "Behavior restricting another person's autonomy through threats or control."
             ],
             [
@@ -18407,15 +18407,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "private interview",
+              "Private interview",
               "Assessment without the partner present."
             ],
             [
-              "qualified interpreter",
+              "Qualified interpreter",
               "An appropriate independent interpreter for communication."
             ],
             [
-              "immediate danger,",
+              "Immediate danger",
               "Current threat requiring prompt protection and clinical response."
             ]
           ]
@@ -18794,7 +18794,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Bullying:",
+              "Bullying",
               "Repeated unwanted aggression with a real or perceived power imbalance."
             ],
             [
@@ -18802,7 +18802,7 @@ window.FULL_PATHS = {
               "Harm through exclusion or social relationships."
             ],
             [
-              "cyberbullying.",
+              "Cyberbullying",
               "Bullying through electronic or online communication."
             ]
           ]
@@ -18985,7 +18985,7 @@ window.FULL_PATHS = {
               "A physical symptom, such as headache or stomachache."
             ],
             [
-              "school avoidance,",
+              "School avoidance",
               "Avoiding attendance or activities because of distress or other concerns."
             ],
             [
@@ -19165,15 +19165,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "trusted adult",
+              "Trusted adult",
               "An identified adult the child can approach for help."
             ],
             [
-              "school counselor,",
+              "School counselor",
               "A school professional supporting student emotional/social needs."
             ],
             [
-              "safeguarding",
+              "Safeguarding",
               "Actions to protect the child from harm."
             ]
           ]
@@ -19370,7 +19370,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "neurodevelopmental",
+              "Neurodevelopmental",
               "Related to development of brain-based abilities and behavior."
             ],
             [
@@ -19378,7 +19378,7 @@ window.FULL_PATHS = {
               "Narrow interests, repeated actions, or a strong need for sameness."
             ],
             [
-              "echolalia",
+              "Echolalia",
               "Repeating words or phrases heard from someone else; it is a behavior, not another name for ASD."
             ]
           ],
@@ -19395,7 +19395,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "N-L01-s3",
-          "title": "social-communication",
+          "title": "Social communication",
           "body": "",
           "details": [
             [
@@ -19607,11 +19607,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "baseline",
+              "Baseline",
               "The child's usual functioning and behavior used for comparison."
             ],
             [
-              "trigger",
+              "Trigger",
               "An event, sensation, demand, or condition preceding distress."
             ],
             [
@@ -19987,15 +19987,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "inattention,",
+              "Inattention",
               "Difficulty sustaining or organizing attention and following through."
             ],
             [
-              "hyperactivity",
+              "Hyperactivity",
               "Excessive motor activity or talking for the setting."
             ],
             [
-              "impulsivity",
+              "Impulsivity",
               "Acting or interrupting before waiting or considering consequences."
             ]
           ],
@@ -20006,7 +20006,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "N-L04-s2",
-          "title": "inattention,",
+          "title": "Inattention",
           "body": "",
           "details": [
             [
@@ -20022,7 +20022,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "N-L04-s3",
-          "title": "hyperactivity",
+          "title": "Hyperactivity",
           "body": "",
           "details": [
             [
@@ -20038,7 +20038,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "N-L04-s4",
-          "title": "impulsivity",
+          "title": "Impulsivity",
           "body": "",
           "details": [
             [
@@ -20220,7 +20220,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "multimodal",
+              "Multimodal",
               "Using complementary approaches, such as behavioral treatment, school support, family work, and medication when prescribed."
             ],
             [
@@ -20400,7 +20400,7 @@ window.FULL_PATHS = {
               "Generic drug and a brand name; the exact product and release form still matter."
             ],
             [
-              "CNS) stimulant;",
+              "CNS stimulant",
               "A drug class that increases selected central nervous system activity."
             ],
             [
@@ -20615,7 +20615,7 @@ window.FULL_PATHS = {
               "Immediate-release / extended-release / sustained-release; product-specific release patterns."
             ],
             [
-              "transdermal",
+              "Transdermal",
               "Delivered through a skin patch, not swallowed."
             ],
             [
@@ -20833,11 +20833,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "palpitations",
+              "Palpitations",
               "An awareness of a fast, forceful, or irregular heartbeat; assess associated findings."
             ],
             [
-              "hallucination",
+              "Hallucination",
               "A perception without an external stimulus, such as hearing a voice that is not present."
             ],
             [
@@ -21013,7 +21013,7 @@ window.FULL_PATHS = {
               "A reading-related learning difficulty; not a synonym for all learning disorders."
             ],
             [
-              "dyscalculia",
+              "Dyscalculia",
               "A mathematics-related learning difficulty."
             ],
             [
@@ -21209,7 +21209,7 @@ window.FULL_PATHS = {
               "Noticing and responding to the child's communication and interests."
             ],
             [
-              "socio-emotional",
+              "Socio-emotional",
               "Relating to others and developing understanding and regulation of feelings."
             ]
           ]
@@ -21376,11 +21376,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "IEP)",
+              "IEP",
               "Individualized education program: a formal plan for eligible educational services and goals."
             ],
             [
-              "es e",
+              "ESE",
               "Exceptional student education, a course/school-services term; it is not a disease name."
             ],
             [
@@ -21552,7 +21552,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Conduct disorder:",
+              "Conduct disorder",
               "Persistent behavior violating others' rights or major rules."
             ],
             [
@@ -21560,7 +21560,7 @@ window.FULL_PATHS = {
               "Explaining an injurious action as justified instead of taking responsibility."
             ],
             [
-              "ODD)",
+              "ODD",
               "Oppositional defiant disorder: a related defiant/argumentative pattern, not the same diagnosis."
             ]
           ],
@@ -21736,7 +21736,7 @@ window.FULL_PATHS = {
               "Stating expected behavior and a consistent, proportionate response to unsafe behavior."
             ],
             [
-              "power struggle",
+              "Power struggle",
               "An escalating contest for control that distracts from safety and the agreed plan."
             ],
             [
@@ -21918,7 +21918,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "accountability",
+              "Accountability",
               "Acknowledging one's action and its effects and practicing a safer response."
             ],
             [
@@ -22094,11 +22094,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "obsession",
+              "Obsession",
               "An intrusive, unwanted thought, urge, or image that causes distress."
             ],
             [
-              "compulsion",
+              "Compulsion",
               "A repeated behavior or mental act used to reduce distress or respond to a feared consequence."
             ],
             [
@@ -22470,11 +22470,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "CBT)",
+              "CBT",
               "Cognitive behavioral therapy: work on thought and behavior patterns."
             ],
             [
-              "ERP)",
+              "ERP",
               "Exposure and response prevention: planned exposure to a feared cue with prevention of the compulsive response."
             ],
             [
@@ -22660,15 +22660,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Wilms tumor = nephroblastoma,",
+              "Wilms tumor / nephroblastoma",
               "Names for a childhood kidney tumor."
             ],
             [
-              "flank",
+              "Flank",
               "The side region between ribs and hip."
             ],
             [
-              "Hematuria,",
+              "Hematuria",
               "Blood in urine."
             ]
           ]
@@ -22852,7 +22852,7 @@ window.FULL_PATHS = {
               "The tissue boundary surrounding a tumor."
             ],
             [
-              "palpation",
+              "Palpation",
               "Examining by touch or pressure."
             ],
             [
@@ -23032,11 +23032,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "nephrectomy",
+              "Nephrectomy",
               "Surgical removal of a kidney."
             ],
             [
-              "chemotherapy",
+              "Chemotherapy",
               "Drug treatment directed against cancer cells."
             ],
             [
@@ -23227,11 +23227,11 @@ window.FULL_PATHS = {
               "Protecting remaining kidney function."
             ],
             [
-              "bleeding precaution",
+              "Bleeding precaution",
               "A measure reducing injury/bleeding risk when indicated."
             ],
             [
-              "oncologic response.",
+              "Oncologic response",
               "The cancer's response to the treatment plan."
             ]
           ]
@@ -23419,7 +23419,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "ataxia",
+              "Ataxia",
               "Unsteady or poorly coordinated movement."
             ],
             [
@@ -23613,11 +23613,11 @@ window.FULL_PATHS = {
               "Intracranial pressure: pressure within the skull."
             ],
             [
-              "bulging fontanel,",
+              "Bulging fontanel",
               "An outwardly tense infant soft spot that needs context-based assessment."
             ],
             [
-              "level of consciousness,",
+              "Level of consciousness",
               "The person's degree of alertness and responsiveness."
             ]
           ]
@@ -23811,7 +23811,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "MRI/CT",
+              "MRI / CT",
               "Imaging methods used in neurological evaluation."
             ],
             [
@@ -24020,15 +24020,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Retinoblastoma:",
-              "a childhood retinal malignancy."
+              "Retinoblastoma",
+              "A childhood retinal malignancy."
             ],
             [
-              "leukocoria:",
+              "Leukocoria",
               "A white pupillary reflection instead of the expected red reflex."
             ],
             [
-              "strabismus",
+              "Strabismus",
               "Misalignment of the eyes."
             ]
           ],
@@ -24214,7 +24214,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "red reflex",
+              "Red reflex",
               "The expected reddish reflection seen during appropriate eye examination."
             ],
             [
@@ -24608,15 +24608,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Osteosarcoma (osteogenic sarcoma)",
+              "Osteosarcoma / osteogenic sarcoma",
               "Names for a bone-forming malignancy."
             ],
             [
-              "metaphysis",
+              "Metaphysis",
               "The region near the end of a long bone, close to the growth plate."
             ],
             [
-              "pathologic fracture",
+              "Pathologic fracture",
               "A fracture through bone weakened by disease."
             ]
           ]
@@ -24807,7 +24807,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "prognosis,",
+              "Prognosis",
               "The expected course/outcome, interpreted with the treating team's information."
             ],
             [
@@ -25003,15 +25003,15 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "anticipatory grief",
+              "Anticipatory grief",
               "Grief before an expected or possible loss/death."
             ],
             [
-              "bargaining",
+              "Bargaining",
               "Negotiating for more time or a different outcome."
             ],
             [
-              "acceptance",
+              "Acceptance",
               "Acknowledging the situation and considering what comes next."
             ]
           ]
@@ -25198,7 +25198,7 @@ window.FULL_PATHS = {
               "A sibling returning to earlier behaviors under stress."
             ],
             [
-              "family coping,",
+              "Family coping",
               "How family members manage the illness and its effects."
             ],
             [
@@ -25385,7 +25385,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "phantom limb pain",
+              "Phantom limb pain",
               "Real pain perceived in a limb that has been amputated."
             ],
             [
@@ -25584,7 +25584,7 @@ window.FULL_PATHS = {
               "An individual/family practice or value to explore rather than assume."
             ],
             [
-              "spiritual adviser",
+              "Spiritual adviser",
               "A requested person providing religious or spiritual support."
             ]
           ]
@@ -25763,7 +25763,7 @@ window.FULL_PATHS = {
               "Interference with ordinary necessary or meaningful activities."
             ],
             [
-              "grief counseling.",
+              "Grief counseling",
               "Specialist support for difficulty adapting to loss."
             ]
           ]
@@ -25956,11 +25956,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Anorexia nervosa (AN)",
+              "Anorexia nervosa / AN",
               "The eating disorder; not merely the symptom of reduced appetite."
             ],
             [
-              "restriction,",
+              "Restriction",
               "Limiting energy intake below needs."
             ],
             [
@@ -26142,7 +26142,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "lanugo",
+              "Lanugo",
               "Fine, soft, downy body hair that can occur with severe undernutrition."
             ],
             [
@@ -26150,7 +26150,7 @@ window.FULL_PATHS = {
               "Slow heart rate / low body temperature; assess severity and clinical context."
             ],
             [
-              "amenorrhea.",
+              "Amenorrhea",
               "Absence of menstruation; may occur with undernutrition but is not mandatory for AN."
             ]
           ]
@@ -26161,7 +26161,7 @@ window.FULL_PATHS = {
           "body": "",
           "details": [
             [
-              "possible finding,",
+              "Possible finding",
               "Bradycardia, hypotension, orthostasis, cold intolerance"
             ],
             [
@@ -26177,7 +26177,7 @@ window.FULL_PATHS = {
           "body": "",
           "details": [
             [
-              "possible finding,",
+              "Possible finding",
               "Constipation, dehydration"
             ],
             [
@@ -26193,7 +26193,7 @@ window.FULL_PATHS = {
           "body": "",
           "details": [
             [
-              "possible finding,",
+              "Possible finding",
               "Menstrual change, low bone density, weakness"
             ],
             [
@@ -26209,7 +26209,7 @@ window.FULL_PATHS = {
           "body": "",
           "details": [
             [
-              "possible finding,",
+              "Possible finding",
               "Lanugo, brittle hair, cool skin"
             ],
             [
@@ -26388,7 +26388,7 @@ window.FULL_PATHS = {
               "An ECG measure; prolongation can signal increased dysrhythmia risk."
             ],
             [
-              "medical instability",
+              "Medical instability",
               "Physiologic findings that require prompt clinical evaluation and a higher level of monitoring or care."
             ]
           ]
@@ -26577,11 +26577,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "registered dietitian,",
+              "Registered dietitian",
               "A nutrition professional who helps develop and adjust the feeding plan."
             ],
             [
-              "enteral support",
+              "Enteral support",
               "Nutrition delivered through the gastrointestinal tract by a prescribed tube route when needed."
             ],
             [
@@ -26801,7 +26801,7 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Refeeding syndrome:",
+              "Refeeding syndrome",
               "Dangerous metabolic, electrolyte and fluid shifts during nutritional restoration after severe malnutrition."
             ],
             [
@@ -27171,11 +27171,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "binge eating",
+              "Binge eating",
               "An unusually large amount in a discrete period with a sense of loss of control."
             ],
             [
-              "compensatory behavior.",
+              "Compensatory behavior",
               "An action intended to counter intake or prevent weight gain, such as purging, fasting or excessive exercise."
             ],
             [
@@ -27190,7 +27190,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L24-s2",
-          "title": "a n",
+          "title": "AN",
           "body": "",
           "details": [
             [
@@ -27202,7 +27202,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L24-s3",
-          "title": "BN)",
+          "title": "BN",
           "body": "",
           "details": [
             [
@@ -27387,11 +27387,11 @@ window.FULL_PATHS = {
           "kind": "idea",
           "terms": [
             [
-              "Russell's sign.",
+              "Russell's sign",
               "Hand or knuckle calluses/scars associated with inducing vomiting."
             ],
             [
-              "parotid glands",
+              "Parotid glands",
               "Salivary glands near the jaw that may enlarge with recurrent purging."
             ],
             [
@@ -27402,7 +27402,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L25-s2",
-          "title": "vomiting",
+          "title": "Vomiting",
           "body": "",
           "details": [
             [
@@ -27626,7 +27626,7 @@ window.FULL_PATHS = {
               "Planned support/monitoring after eating to reduce purging risk."
             ],
             [
-              "nonpunitive",
+              "Nonpunitive",
               "Directed toward treatment and safety rather than blame, shame or retaliation."
             ],
             [
