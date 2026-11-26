@@ -87,7 +87,7 @@
     return `<div class="lesson-top"><div class="lesson-tools"><div class="lesson-path-navigation"><a class="lesson-back" href="${pathHref(p)}" aria-label="All lessons in ${esc(p.name)}"><span class="all-lessons-label">All lessons</span><span class="short-lessons-label" aria-hidden="true">Lessons</span></a><span class="path-tracker" title="${stats.complete} of ${stats.lessons} lessons complete"><span class="sr-only">Whole </span>Path <strong>${pathPercent(stats)}%</strong><span aria-hidden="true">·</span><span class="current-lesson" aria-label="Current lesson ${esc(lessonCode)}">${esc(lessonCode)}</span></span></div><details class="lesson-context"><summary aria-label="Lesson details"><span class="lesson-details-prefix">Lesson </span>details</summary><div class="lesson-context-body"><p class="eyebrow">${l.path==='HY'?'Meat and potatoes · ':'Full path · '}${esc(s.name)}</p>${l.topic?`<p class="topic-name">${esc(l.topic)}</p>`:''}<p class="focus-line">${esc(l.focus)}</p></div></details></div><h1 class="lesson-title">${esc(l.title)}</h1><div class="step-meta"><span class="phase">${review?'Missed-check review':phase==='Step'?'Learn the idea':'Check your understanding'}</span><span>${phase} ${index} of ${total}</span></div><progress value="${index}" max="${total}" aria-label="${phase} ${index} of ${total}"></progress></div>`;
   }
   function sourceButton() { return '<button type="button" class="text-button local-sources">Sources</button>'; }
-  function sourceFooter() { return `<div class="card-bottom"><span class="save-status">${storageOK?'Your place is saved':'Session only · storage unavailable'}</span>${sourceButton()}</div>`; }
+  function sourceFooter() { return `<div class="card-bottom"><span class="save-status">${storageOK?'Your place is saved':'Session only · storage unavailable'}</span><span class="card-tools"><button class="text-button highlight-trigger" type="button" title="Select text, then tap Highlight" hidden>Highlight</button>${sourceButton()}</span></div>`; }
   function outline(l) {
     return `<details class="outline"><summary>Lesson outline</summary><ol>${l.steps.map((s,i)=>`<li><a href="${lessonHref(l.id,i)}">${esc(presentation.title(s))}${state.read[s.id]?' · Read':''}</a></li>`).join('')}</ol><a href="${lessonHref(l.id,l.steps.length)}">Five checks</a>${l.pre?.length?`<h3>Foundation lessons</h3><ul>${l.pre.map(n=>lessonMap.get(`${l.path==='E'&&n<18?'N':l.path}-L${String(n).padStart(2,'0')}`)).filter(Boolean).map(x=>`<li><a href="${lessonHref(x.id)}">${esc(x.title)}</a></li>`).join('')}</ul>`:''}</details>`;
   }
@@ -267,6 +267,11 @@
     document.title=current?`${current.lesson.title} · NUR2460 Exam 4`:activePath?`${activePath.name} · NUR2460 Exam 4`:'NUR2460 · Exam 4 study paths';
   }
   document.querySelector('#global-sources').onclick=openSources;
+  document.querySelector('#refresh-app').onclick=()=>{
+    save();if(!storageOK)return;
+    const url=new URL(location.href);url.searchParams.set('refresh',String(Date.now()));
+    location.replace(url.href);
+  };
   document.querySelector('.skip').onclick=event=>{event.preventDefault();main.focus();};
   document.querySelector('#close-sources').onclick=()=>dialog.close();
   dialog.addEventListener('click',event=>{if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();}});

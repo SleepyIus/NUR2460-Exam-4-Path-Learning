@@ -11,7 +11,7 @@
     const notice=document.createElement('div');notice.className='highlight-notice';notice.setAttribute('role','status');notice.hidden=true;
     document.body.append(bar,notice);
     const equal=(a,b)=>a.block===b.block&&a.start===b.start&&a.end===b.end&&a.quote===b.quote;
-    const blockFor=node=>(node?.nodeType===Node.ELEMENT_NODE?node:node?.parentElement)?.closest('[data-highlight-block]');
+    const isControl=node=>bar.contains(node)||Boolean(node?.closest?.('.highlight-trigger'));
     function dismiss(clear=false){pending=null;bar.hidden=true;if(clear)window.getSelection()?.removeAllRanges();}
     function message(text){clearTimeout(noticeTimer);notice.textContent=text;notice.hidden=false;noticeTimer=setTimeout(()=>{notice.hidden=true;},2500);}
     function controls(mode,items){pending={mode,items,screen};action.textContent=mode==='remove'?'Remove highlight':'Highlight';bar.hidden=false;notice.hidden=true;}
@@ -19,8 +19,10 @@
     function selected(){
       const selection=window.getSelection();
       if(!card||!screen||!selection||selection.isCollapsed||selection.rangeCount!==1)return[];
-      const range=selection.getRangeAt(0),first=blockFor(range.startContainer),last=blockFor(range.endContainer);
-      if(!first||!last||!card.contains(first)||!card.contains(last)||range.toString().length>10000)return[];
+      const range=selection.getRangeAt(0);
+      // Native selections can end on a paragraph's parent, not just its text.
+      // Clip to the marked blocks inside this card instead of rejecting them.
+      if(!card.contains(range.startContainer)||!card.contains(range.endContainer)||range.toString().length>10000)return[];
       const entries=[];
       for(const block of blocks()){
         if(!block.getClientRects().length||!range.intersectsNode(block))continue;
@@ -37,7 +39,7 @@
       clearTimeout(timer);timer=setTimeout(()=>{
         const entries=selected();
         if(entries.length)controls('add',entries);
-        else if(pending?.mode!=='remove'&&!bar.contains(document.activeElement))dismiss();
+        else if(pending?.mode!=='remove'&&!isControl(document.activeElement))dismiss();
       },80);
     }
     function paint(){
@@ -74,16 +76,33 @@
       dismiss(true);paint();
       message(saved===false?'Highlight kept for this session. Storage is unavailable.':mode==='remove'?'Highlight removed':'Highlight saved');
     }
-    // Keep the native selection alive while tapping the small action bar.
+    function keepSelection(event){
+      const entries=selected();
+      if(entries.length)controls('add',entries);
+      event.preventDefault();
+    }
+    function highlightNow(){
+      const entries=selected();
+      if(entries.length)controls('add',entries);
+      if(pending?.mode==='add'&&pending.screen===screen)saveSelection();
+      else message('Select some lesson text, then tap Highlight.');
+    }
+    // Capture the range before tapping a control can collapse native selection.
     bar.addEventListener('pointerdown',event=>event.preventDefault());
+    bar.addEventListener('mousedown',event=>event.preventDefault());
     action.addEventListener('click',saveSelection);
     bar.querySelector('.highlight-cancel').addEventListener('click',()=>dismiss(true));
     document.addEventListener('selectionchange',selectionChanged);
+    // Touch handles and trackpads do not always finish with a click. Recheck
+    // after the interaction and when a suspended Home Screen app resumes.
+    for(const event of ['pointerup','touchend','keyup'])document.addEventListener(event,selectionChanged,{passive:true});
+    window.addEventListener('pageshow',selectionChanged);
+    document.addEventListener('visibilitychange',()=>{if(!document.hidden)selectionChanged();});
     document.addEventListener('pointerdown',event=>{
-      if(!bar.contains(event.target)&&!event.target.closest?.('mark.user-highlight'))dismiss();
+      if(!isControl(event.target)&&!event.target.closest?.('mark.user-highlight'))dismiss();
     });
     document.addEventListener('click',event=>{
-      if(!card||bar.contains(event.target))return;
+      if(!card||isControl(event.target))return;
       const entries=selected();
       if(entries.length){
         // Selecting option text must not also toggle its radio/checkbox.
@@ -120,6 +139,12 @@
       assign('#question-title','question');assign('.choice > span','option');assign('.matrix-row legend','matrix-row');
       assign('.answer-bank p','answer-bank');assign('.match-row > span:first-child','match-prompt');
       assign('.rationale h4','rationale-heading');assign('.rationale p','rationale-body');assign('.feedback > p','rationale-summary');
+      const trigger=card.querySelector('.highlight-trigger');
+      if(trigger){
+        trigger.hidden=false;
+        trigger.onpointerdown=keepSelection;trigger.onmousedown=keepSelection;
+        trigger.onclick=highlightNow;
+      }
       paint();
     }
     return {mount,unmount};

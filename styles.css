@@ -204,3 +204,8 @@ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-ri
 .feedback-banner>p.feedback-note{margin:12px 0 0;font-size:.8rem}
 .rationale-option{margin:12px 0}.rationale-option .verdict{margin-bottom:2px}
 @media(forced-colors:active){.choice.answer-missed,.chip-missed{border-style:dashed}.choice.answer-wrong,.chip-wrong{border-style:double}}
+/* Small, always-available controls for browser and Home Screen study. */
+.card-tools,.site-tools{display:flex;align-items:center;gap:14px;flex-shrink:0}
+.card-bottom,.site-footer{flex-wrap:wrap}
+.card-tools,.site-tools{margin-left:auto}
+.highlight-trigger,.highlight-toolbar{-webkit-user-select:none;user-select:none}

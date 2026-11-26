@@ -72,3 +72,10 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 - Matrix feedback marks each row and names the exact missing choices. The reported example now shows two of three rows correct and identifies Row 2's missing B (Functional effect). Correct rows stay compact.
 - Checked feedback generation for all 750 checks across all six formats, including 834 valid incorrect-answer variations; no answer status appears before submission. Course data and scoring helpers are unchanged.
 - Browser-tested the reported example, a wrong single-choice selection, hidden feedback, refresh persistence, and light/OLED dark appearance. Checked 320, 430, 932, 834, and 1194px widths without horizontal overflow. No browser console errors. These are browser viewport tests, not physical-device testing.
+
+Home Screen highlighting update:
+- Added a persistent Highlight action beside Sources in teaching and check cards. It captures the current selection before control interaction can clear it and provides a brief hint when no text is selected.
+- Selection detection accepts paragraph-parent boundaries, clips to highlightable card content, and rechecks after touch, pointer, keyboard, and app-resume events.
+- Browser-tested a full paragraph spanning normal and bold text, saving/removing highlights, navigation, and the manual fallback with selectionchange notifications deliberately suppressed. A simulated touch-end recovered the automatic toolbar with selectionchange suppressed.
+- Refresh app requests fresh page HTML while retaining the current route and device storage; verified highlights and unfinished matching answers survive, rationales remain hidden before submission, and scoring still works afterward.
+- Checked 1194px iPad layout, 430px phone layout, and 320px narrow layout in light/OLED dark modes. Controls remain at least 44px tall; no horizontal overflow or browser console errors. Physical iPad/iPhone Home Screen app behavior still requires device confirmation.
