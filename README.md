@@ -33,7 +33,7 @@ The full subject paths retain the original teaching, terminology, examples, comp
 
 ## Publish or update on GitHub Pages
 
-1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `core.js`, `content.js`, `full-paths.js`, and `favicon.svg`. Keep `.nojekyll` if your upload method includes hidden files.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `core.js`, `content.js`, `full-paths.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
 2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
 3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 
