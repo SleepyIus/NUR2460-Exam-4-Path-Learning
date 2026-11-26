@@ -3,21 +3,21 @@
   'use strict';
   function create({getState,onChange}) {
     const core=window.StudyCore,colors=['yellow','green','blue','pink'];
-    let card=null,screen=null,pending=null,records=[],timer=0,noticeTimer=0;
+    let card=null,screen=null,pending=null,records=[],timer=0,noticeTimer=0,lastColor='yellow';
     const bar=document.createElement('div');
     bar.className='highlight-toolbar';bar.hidden=true;
     bar.setAttribute('role','toolbar');bar.setAttribute('aria-label','Text formatting');
-    bar.innerHTML=`<div class="highlight-colors" role="group" aria-label="Highlight color">${colors.map(color=>`<button type="button" class="highlight-swatch" data-style="${color}" data-highlight-color="${color}" aria-label="${color[0].toUpperCase()+color.slice(1)} highlight" title="${color[0].toUpperCase()+color.slice(1)} highlight" aria-pressed="false"><span aria-hidden="true">✓</span></button>`).join('')}<button type="button" class="highlight-cancel" aria-label="Dismiss formatting controls">Done</button></div><div class="highlight-formats"><button type="button" data-style="underline" aria-pressed="false"><span class="underline-label">Underline</span></button><button type="button" data-style="strike" aria-pressed="false"><span class="strike-label">Strikethrough</span></button><button type="button" class="highlight-remove" aria-label="Remove formatting">Remove</button></div>`;
+    bar.innerHTML=`<div class="highlight-colors" role="group" aria-label="Color">${colors.map(color=>`<button type="button" class="highlight-swatch" data-color="${color}" data-highlight-color="${color}" aria-label="${color[0].toUpperCase()+color.slice(1)}" title="${color[0].toUpperCase()+color.slice(1)}" aria-pressed="false"><span aria-hidden="true">✓</span></button>`).join('')}<button type="button" class="highlight-cancel" aria-label="Dismiss formatting controls">Done</button></div><div class="highlight-formats" role="group" aria-label="Apply style in selected color"><button type="button" data-style="solid" aria-label="Solid highlight" aria-pressed="false">Solid</button><button type="button" data-style="underline" aria-pressed="false"><span class="underline-label">Underline</span></button><button type="button" data-style="strike" aria-label="Strikethrough" title="Strikethrough" aria-pressed="false"><span class="strike-label">Strike</span></button><button type="button" class="highlight-remove" aria-label="Remove formatting">Remove</button></div>`;
     const notice=document.createElement('div');notice.className='highlight-notice';notice.setAttribute('role','status');notice.hidden=true;
     document.body.append(bar,notice);
     const isControl=node=>bar.contains(node)||Boolean(node?.closest?.('.highlight-trigger'));
     const overlaps=(a,b)=>a.block===b.block&&a.start<b.end&&b.start<a.end;
     function dismiss(clear=false){pending=null;bar.hidden=true;if(clear)window.getSelection()?.removeAllRanges();}
     function message(text){clearTimeout(noticeTimer);notice.textContent=text;notice.hidden=false;noticeTimer=setTimeout(()=>{notice.hidden=true;},2500);}
-    function hasStyle(items,style){
+    function hasStyle(items,style,color){
       return items.every(item=>{
         let covered=item.start;
-        for(const h of records.filter(h=>h.block===item.block&&core.highlightStyle(h)===style).sort((a,b)=>a.start-b.start)){
+        for(const h of records.filter(h=>h.block===item.block&&core.highlightStyle(h)===style&&(color===undefined||core.highlightColor(h)===color)).sort((a,b)=>a.start-b.start)){
           if(h.start>covered)break;
           if(h.end>covered)covered=h.end;
           if(covered>=item.end)return true;
@@ -25,10 +25,22 @@
         return false;
       });
     }
-    function controls(items,locked=false){
-      pending={items,screen,locked};
-      for(const button of bar.querySelectorAll('[data-style]'))button.setAttribute('aria-pressed',String(hasStyle(items,button.dataset.style)));
+    function updatePalette(){
+      if(!pending)return;
+      const {items,color}=pending;bar.dataset.lineColor=color;
+      for(const button of bar.querySelectorAll('[data-color]'))button.setAttribute('aria-pressed',String(button.dataset.color===color));
+      for(const button of bar.querySelectorAll('[data-style]')){
+        const style=button.dataset.style==='solid'?color:button.dataset.style;
+        button.setAttribute('aria-pressed',String(hasStyle(items,style,color)));
+      }
       bar.querySelector('.highlight-remove').disabled=!records.some(h=>items.some(item=>overlaps(h,item)));
+    }
+    function controls(items,locked=false){
+      // Repeated selection events must not reset a color the learner just chose.
+      const same=pending?.screen===screen&&JSON.stringify(pending.items)===JSON.stringify(items);
+      const existing=colors.find(color=>hasStyle(items,color))||records.filter(h=>items.some(item=>overlaps(h,item))).map(core.highlightColor).find(color=>colors.includes(color));
+      pending={items,screen,locked:locked||Boolean(same&&pending.locked),color:same?pending.color:(existing||lastColor)};
+      updatePalette();
       bar.hidden=false;notice.hidden=true;
     }
     function blocks(){return card?[...card.querySelectorAll('[data-highlight-block]')]:[];}
@@ -59,7 +71,7 @@
     }
     function paint(){
       if(!card)return;
-      for(const mark of card.querySelectorAll('mark.user-highlight')){const parent=mark.parentNode;mark.replaceWith(...mark.childNodes);parent.normalize();}
+      for(const mark of card.querySelectorAll('mark.user-highlight')){const parent=mark.parentNode;mark.replaceWith(document.createTextNode(mark.textContent));parent.normalize();}
       records=core.highlightRanges(getState().highlights?.[screen]||[]);
       for(const block of blocks()){
         const text=block.textContent;
@@ -70,7 +82,7 @@
         const segments=[];
         for(let i=0;i<boundaries.length-1;i++){
           const start=boundaries[i],end=boundaries[i+1],active=matches.filter(h=>h.start<=start&&h.end>=end);
-          if(active.length)segments.push({start,end,styles:active.map(core.highlightStyle)});
+          if(active.length)segments.push({start,end,active,styles:active.map(core.highlightStyle)});
         }
         const walker=document.createTreeWalker(block,NodeFilter.SHOW_TEXT),nodes=[];
         let node,offset=0;
@@ -87,11 +99,19 @@
             mark.classList.toggle('has-underline',segment.styles.includes('underline'));
             mark.classList.toggle('has-strike',segment.styles.includes('strike'));
             mark.dataset.markBlock=block.dataset.highlightBlock;mark.dataset.markStart=segment.start;mark.dataset.markEnd=segment.end;
-            piece.replaceWith(mark);mark.append(piece);firstMark=mark;
+            piece.replaceWith(mark);
+            let container=mark;
+            for(const style of ['underline','strike']){
+              const h=segment.active.find(h=>core.highlightStyle(h)===style);if(!h)continue;
+              const line=document.createElement('span');line.className='user-'+style;
+              if(h.color)line.dataset.lineColor=h.color;
+              container.append(line);container=line;
+            }
+            container.append(piece);firstMark=mark;
           }
           if(firstMark){
             firstMark.tabIndex=0;firstMark.setAttribute('role','button');
-            const label=segment.styles.map(s=>colors.includes(s)?s+' highlight':s==='strike'?'strikethrough':s).join(', ');
+            const label=segment.active.map(h=>{const style=core.highlightStyle(h);return colors.includes(style)?style+' highlight':(h.color?h.color+' ':'')+(style==='strike'?'strikethrough':style);}).join(', ');
             firstMark.setAttribute('aria-label',label+': '+text.slice(segment.start,segment.end)+'. Edit formatting.');
           }
         }
@@ -99,9 +119,11 @@
     }
     function saveStyle(style){
       if(!pending||pending.screen!==screen)return;
-      const {items}=pending,remove=style===null||(!colors.includes(style)&&hasStyle(items,style));
+      const {items,color}=pending;
+      if(style==='solid')style=color;
+      const remove=style===null||hasStyle(items,style,color);
       const all={...(getState().highlights||{})};
-      const next=core.formatHighlights(all[screen]||[],items,style,remove);
+      const next=core.formatHighlights(all[screen]||[],items,style,remove,color);
       if(next.length)all[screen]=next;else delete all[screen];
       const saved=onChange(all);
       dismiss(true);paint();
@@ -122,6 +144,9 @@
     }
     // Capture native selection before touching either set of controls.
     for(const event of ['pointerdown','mousedown'])bar.addEventListener(event,e=>{if(pending)pending.locked=true;e.preventDefault();});
+    for(const button of bar.querySelectorAll('[data-color]'))button.addEventListener('click',()=>{
+      if(!pending)return;lastColor=button.dataset.color;pending.color=lastColor;updatePalette();
+    });
     for(const button of bar.querySelectorAll('[data-style]'))button.addEventListener('click',()=>saveStyle(button.dataset.style));
     bar.querySelector('.highlight-remove').addEventListener('click',()=>saveStyle(null));
     bar.querySelector('.highlight-cancel').addEventListener('click',()=>dismiss(true));

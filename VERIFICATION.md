@@ -86,3 +86,9 @@ Highlight colors and text formatting:
 - Browser-tested selections spanning normal/bold text, overlapping styles, editing/removing marks, refresh persistence, keyboard access, and the persistent Highlight action with selectionchange deliberately suppressed.
 - Verified formatting answer-choice text does not select its radio button or reveal feedback. Scoring and annotations remain intact after submitting an answer. All 750 checks across six formats and 834 incorrect-answer variations passed the existing feedback checks.
 - Checked 320px and 430px phone layouts and 1194px iPad layout, light and OLED dark appearance, 44px tap targets, and unclipped palette labels. Text/background contrast for all eight theme/color combinations exceeds 4.5:1. No browser console errors. These are browser tests, not physical-device tests.
+
+Separate colors and styles, including colored lines:
+- Color swatches now choose a color without applying a fill. Separate Solid, Underline, and Strike actions apply that color to the selected style. Each overlapping style can keep an independent color.
+- Preserved older yellow/colored highlights and uncolored lines. Validated partial line recoloring, per-style overlap resolution, independent line removal, strict color validation, and all eight colored-line variants through compressed and compatibility progress codes.
+- Browser-tested color-only selection, solid fill, colored lines without fill, differently colored overlapping lines, toggling individual styles, refresh persistence, and the persistent Highlight action with selectionchange suppressed.
+- Verified light/dark line colors, 320px and 430px phone layouts, 1194px iPad layout, and 44px controls without overflow or clipped labels. No browser console errors. Physical iOS Home Screen behavior is not simulated by these browser tests.
