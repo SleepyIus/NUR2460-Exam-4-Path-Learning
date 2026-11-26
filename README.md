@@ -5,7 +5,7 @@
 ## Publish on GitHub Pages
 
 1. Create or choose a GitHub repository for the site.
-2. Upload **the contents of this folder** to the repository's `main` branch. `index.html` must sit at the repository root beside `app.js`, `core.js`, `content.js`, `styles.css`, `favicon.svg`, and the `sources` folder. Keep `.nojekyll` if your upload method includes hidden files.
+2. Upload **the contents of this folder** to the repository's `main` branch. `index.html` must sit at the repository root beside `app.js`, `core.js`, `content.js`, `styles.css`, `favicon.svg`, and the `sources` reference index. Keep `.nojekyll` if your upload method includes hidden files.
 3. Open the repository's **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**, then **main** and **/(root)**. Click **Save**.
 5. Wait for deployment to finish. Open the website address shown in Pages settings. This repository’s address is `https://sleepyius.github.io/NUR2460-Exam-4-Path-Learning/`.
@@ -20,7 +20,7 @@ These steps follow [GitHub's publishing-source instructions](https://docs.github
 - **Review missed checks** offers a fresh attempt. A correct retry removes the check from the missed list. An incorrect retry keeps it there.
 - Every lesson is available from the home page. The lesson outline also lets you revisit individual teaching steps or the checks.
 - Browser local storage keeps your place, draft selections, submitted answers, completed lessons, and missed checks on the current device. Progress does not sync between devices or browsers. Clearing site data or private browsing can remove it. Local-file previews and the published GitHub Pages address have separate storage.
-- Source PDFs retain any marks in the supplied originals; those marks do not initialize website progress.
+- **Sources** shows original file names and PDF viewer page references. The PDFs remain private and are not included in this publishing folder. Use your original copies to read the cited pages.
 
 ## Content and files
 
@@ -31,7 +31,7 @@ The high-yield PDF is the backbone: **8 subjects, 13 lessons, 65 checks**. Teach
 - `content.js` — lesson content and original checks.
 - `core.js` — exact-answer scoring and saved-state validation.
 - `app.js` — navigation, feedback, sources, and browser storage.
-- `sources/` — the high-yield PDF and eight matching full paths, accessible through **Sources**.
+- `sources/README.md` — names of the private source PDFs; the website also shows relevant page references.
 - `VERIFICATION.md` — content and behavior verification record.
 
 For a local HTTP preview, run `python3 -m http.server 8000` in this folder and open `http://localhost:8000/`. Keep the terminal running while previewing.

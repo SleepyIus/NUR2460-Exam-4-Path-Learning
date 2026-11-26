@@ -209,15 +209,15 @@
     const l=sourceContext?.lesson;
     const s=l?subjectMap.get(l.subject):null;
     const step=l&&sourceContext.index<l.steps.length?l.steps[sourceContext.index]:null;
-    let body=`<p class="muted">Teaching follows the supplied high-yield PDF and Meyers’ updated study guide and blueprint. Checks retain the original wording, option order, answer key, and rationale. Page numbers below are PDF viewer pages.</p>`;
+    let body=`<p class="muted">Teaching follows the supplied high-yield PDF and Meyers’ updated study guide and blueprint. Checks retain the original wording, option order, answer key, and rationale. Page numbers below are PDF viewer pages. Refer to your private copies; the PDFs are not hosted on this website.</p>`;
     if(l){
-      body+=`<section class="source-entry"><h3>This lesson · ${esc(l.title)}</h3><p>Topic codes: ${l.codes.join(', ')}.</p><p>NUR2460 Exam 4 – High-Yield Guided Learning Path</p><a href="./sources/high-yield.pdf#page=${l.page}" target="_blank" rel="noopener">Teaching and checks · page ${l.page}</a><br><a href="./sources/high-yield.pdf#page=${l.keyPage}" target="_blank" rel="noopener">Original answer key · page ${l.keyPage}</a></section>`;
-      body+=`<section class="source-entry"><h3>Matching full path</h3><p>${esc(s.sourceFile)}</p>${step?.more?`<p>This step’s optional explanation: page ${step.more.page}.</p>`:''}<a href="./${s.sourceUrl}#page=${step?.more?.page||1}" target="_blank" rel="noopener">Open full ${esc(s.name.toLowerCase())} path</a><p>${esc(s.references)}</p></section>`;
+      body+=`<section class="source-entry"><h3>This lesson · ${esc(l.title)}</h3><p>Topic codes: ${l.codes.join(', ')}.</p><p>NUR2460 Exam 4 – High-Yield Guided Learning Path.pdf</p><p>Teaching and checks · page ${l.page}<br>Original answer key · page ${l.keyPage}</p></section>`;
+      body+=`<section class="source-entry"><h3>Matching full path</h3><p>${esc(s.sourceFile)}</p>${step?.more?`<p>This step’s optional explanation: page ${step.more.page}.</p>`:''}<p>${esc(s.references)}</p></section>`;
       if(l.number===7)body+=`<section class="source-entry"><h3>Scarlet fever return to school</h3><p>${esc(data.sourceNotes[4][1])}</p><p>Retained from the high-yield PDF’s supplemental source note, page 29.</p></section>`;
       if(l.number===2)body+='<section class="source-entry"><h3>Postpartum source qualification</h3><p>The full depression path, page 45, describes differences in postpartum blues and depression timing across supplied sources. This qualification is also visible in the lesson.</p></section>';
     }else{
-      body+=`<section class="source-entry"><h3>High-yield backbone</h3><a href="./sources/high-yield.pdf" target="_blank" rel="noopener">Open the 13-lesson high-yield PDF</a><br><a href="./sources/high-yield.pdf#page=29" target="_blank" rel="noopener">Values and source differences · page 29</a></section>`;
-      body+=data.subjects.map(s=>`<section class="source-entry"><h3>${esc(s.name)}</h3><p>${esc(s.references)}</p><a href="./${s.sourceUrl}" target="_blank" rel="noopener">Open matching full path</a></section>`).join('');
+      body+=`<section class="source-entry"><h3>High-yield backbone</h3><p>NUR2460 Exam 4 – High-Yield Guided Learning Path.pdf</p><p>Teaching and checks · pages 2–27<br>Values and source differences · page 29</p></section>`;
+      body+=data.subjects.map(s=>`<section class="source-entry"><h3>${esc(s.name)}</h3><p>${esc(s.sourceFile)}</p><p>${esc(s.references)}</p></section>`).join('');
     }
     body+='<section class="source-entry"><h3>About progress</h3><p>Progress belongs to this website on this device and browser. A lesson is complete after every teaching step is read and all five checks are attempted. Matching and select-two checks require the exact complete answer. Source PDF progress marks are separate from website progress.</p></section>';
     document.querySelector('#sources-body').innerHTML=body;dialog.showModal();

@@ -7,7 +7,6 @@ window.STUDY_DATA = {
       "name": "Depression and Suicide Prevention",
       "weight": 16,
       "sourceFile": "01 - Depression and Suicide Prevention - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-01.pdf",
       "references": "Major Depressive Disorder notes; Mental Health PPT slides 15–23 and matching key. ATI Mental Health PDF 60–62, 76–79, 130–135, 186–188. Maternal Newborn PDF 164–165 for postpartum distinctions."
     },
     {
@@ -15,7 +14,6 @@ window.STUDY_DATA = {
       "name": "Bipolar Disorder and Mania",
       "weight": 15,
       "sourceFile": "02 - Bipolar Disorder and Mania - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-02.pdf",
       "references": "Bipolar notes; Mental Health PPT slides 24–32 and key. ATI Mental Health ch. 15 and 23, including PDF 138–140 for lithium, and Pharmacology ch. 9 for mood stabilizers."
     },
     {
@@ -23,7 +21,6 @@ window.STUDY_DATA = {
       "name": "Renal and Genitourinary",
       "weight": 10,
       "sourceFile": "03 - Renal and Genitourinary - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-03.pdf",
       "references": "GU notes, GU PPT and closing slide 19, and answered GU activity. ATI Nursing Care of Children ch. 24–26 for UTI, congenital disorders, nephrotic syndrome, and glomerulonephritis."
     },
     {
@@ -31,7 +28,6 @@ window.STUDY_DATA = {
       "name": "Communicable and Inflammatory Disorders",
       "weight": 10,
       "sourceFile": "04 - Communicable and Inflammatory Disorders - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-04.pdf",
       "references": "Immunity notes, Immune PPT and closing slide 13, and answered Immune activity. ATI Nursing Care of Children PDF 102–103, 127–128, and 244–246; ch. 20 for Kawasaki care. See the supplemental scarlet fever note."
     },
     {
@@ -39,7 +35,6 @@ window.STUDY_DATA = {
       "name": "Abuse and Interpersonal Violence",
       "weight": 10,
       "sourceFile": "05 - Abuse and Interpersonal Violence - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-05.pdf",
       "references": "Abuse & Neglect notes; Meyers’ Abuse and Neglect deck, including notes on slides 7–8, 17, and 23, and answered activity. ATI Nursing Care of Children ch. 45 and Mental Health ch. 32. Reporting details depend on jurisdiction and situation."
     },
     {
@@ -47,7 +42,6 @@ window.STUDY_DATA = {
       "name": "Neurodevelopmental and Behavioral Disorders",
       "weight": 10,
       "sourceFile": "06 - Neurodevelopmental and Behavioral Disorders - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-06.pdf",
       "references": "Childhood Mental Health notes, Mental Health PPT slides 2–6 and 12–14, speaker notes, and answered activity. ATI Mental Health PDF 67–68, 152–153, 176–178; Nursing Care of Children PDF 301–302; Pharmacology PDF 92–93."
     },
     {
@@ -55,7 +49,6 @@ window.STUDY_DATA = {
       "name": "Pediatric Oncology",
       "weight": 5,
       "sourceFile": "07 - Pediatric Oncology - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-07.pdf",
       "references": "Oncology and Grief and Spirituality notes; Pediatric Oncology PPT, closing slide 26, and answered activity. ATI Nursing Care of Children covers Wilms, brain and bone tumors, and developmental grief; the eye-reflex topic is lecture-supported."
     },
     {
@@ -63,7 +56,6 @@ window.STUDY_DATA = {
       "name": "Eating Disorders",
       "weight": 4,
       "sourceFile": "08 - Eating Disorders - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "sourceUrl": "sources/path-08.pdf",
       "references": "Childhood Mental Health notes, Mental Health PPT slides 7–11, and answered activity. ATI Mental Health PDF 108–111, 131–135, and Pharmacology PDF 71 for the bupropion contraindication."
     }
   ],

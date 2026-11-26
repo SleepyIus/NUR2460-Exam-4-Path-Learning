@@ -25,7 +25,7 @@ Verified November 25, 2026.
 - Current step, draft selection, submitted response, completed lessons, and missed checks survive refresh.
 - Completed the full site in the browser and confirmed 13/13 lessons and 65/65 attempted checks persisted after refresh.
 - Missed review starts with hidden feedback; incorrect retries remain; correct retries clear. Finishing review returns to the saved study location, including after refresh during review.
-- Sources dialog opens/closes and includes lesson-specific locators. All included assets and PDFs served successfully over HTTP.
+- Sources dialog opens/closes and includes lesson-specific locators. Source PDFs are excluded from publication; source names and page references remain available without download links.
 - No browser console errors or warnings observed during final inspection.
 - Test progress cleared before delivery; viewport override reset.
 
