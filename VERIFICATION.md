@@ -51,3 +51,11 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 - Browser-tested manual-copy fallback, preview invalidation after editing the code, and blocked storage without changing active progress.
 - Checked phone portrait/landscape, tablet, and 320px layouts, light and OLED dark mode; no horizontal overflow or console errors. These are browser simulations, not physical-device Safari or Apple Universal Clipboard tests.
 - Clinical data, all checks/rationales, scoring, and the existing progress storage key remain unchanged. PDFs remain private.
+
+## Content-first navigation update
+
+- Moved progress transfer below all nine paths, with appearance and contextual Sources in the shared footer. Replaced the large introductory panel with compact Continue/review controls and directly tappable path cards.
+- Each path leads with its lesson list; descriptions, objectives, and extra lecture context follow the lessons. Lesson/check screens lead with content, then Back/Next, then outlines, details, and saved-place information.
+- Verified all nine paths and their lesson lists, totaling 150 lessons and 750 checks. Verified teaching/check/recap ordering in each path; original clinical data and scoring files are unchanged.
+- Browser-tested hidden feedback followed by a correct submission in each of the six question formats, manual Next, Back/Next navigation, saved place after refresh, contextual Sources, footer theme control/persistence, and relocated export/import dialogs.
+- No horizontal overflow on representative home/path/lesson/review screens at 430 × 932, 932 × 430, 820 × 1180, 1180 × 820, and 320 × 720. Both light and OLED dark appearances inspected. These are browser simulations, not physical iPhone Safari tests.
