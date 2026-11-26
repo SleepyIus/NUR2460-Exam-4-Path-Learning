@@ -9,7 +9,7 @@
   function apply() {
     const dark = (preference || (system.matches ? 'dark' : 'light')) === 'dark';
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
-    document.querySelector('meta[name="theme-color"]').content = dark ? '#0e1816' : '#f3f6f5';
+    document.querySelector('meta[name="theme-color"]').content = dark ? '#000000' : '#f3f6f5';
     const button = document.querySelector('#theme-toggle');
     if (button) {
       const label = dark ? 'Switch to light mode' : 'Switch to dark mode';

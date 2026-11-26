@@ -21,7 +21,7 @@ The full subject paths retain the original teaching, terminology, examples, comp
 
 ## Study and progress
 
-Use the sun/moon button in the header to switch between light and dark mode. The website follows your device appearance until you choose a mode, then remembers that choice in this browser. While studying, the compact header keeps the lesson title and step count visible; open **Lesson details** for the subject, topic, and learning focus.
+Use the sun/moon button in the header to switch between light and dark mode. Night mode uses true-black page and lesson backgrounds for OLED screens, with soft text and colored borders and controls. The website follows your device appearance until you choose a mode, then remembers that choice in this browser. While studying, the compact header keeps the lesson title and step count visible; open **Lesson details** for the subject, topic, and learning focus.
 
 
 - Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.

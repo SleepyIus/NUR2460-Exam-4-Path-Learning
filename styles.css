@@ -54,29 +54,31 @@ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-ri
   .study-mode main{padding-left:16px;padding-right:16px}
   .study-mode .study-card{padding:22px 26px}
 }
-/* Dark surfaces and feedback retain the same meaning and readable contrast. */
-:root[data-theme=dark]{color-scheme:dark;--ink:#e5eeeb;--muted:#a7bbb6;--teal:#86d4be;--deep:#183b3c;--pale:#213c37;--paper:#162522;--bg:#0e1816;--line:#3c514a;--warn:#f0c481}
+/* OLED night mode: large surfaces are true black; accents identify actions and feedback. */
+[data-theme=dark] .hero{border:1px solid var(--line);color:var(--ink)}
+[data-theme=dark] .study-card{box-shadow:none}
+:root[data-theme=dark]{color-scheme:dark;--ink:#dce5e1;--muted:#a7bbb6;--teal:#86d4be;--deep:#000;--pale:#10251c;--paper:#000;--bg:#000;--line:#314139;--warn:#f0c481}
 [data-theme=dark] button.primary,[data-theme=dark] a.primary{color:#102e26}
 [data-theme=dark] button.primary:hover:not(:disabled),[data-theme=dark] a.primary:hover{background:#a3e4d1}
 [data-theme=dark] button.secondary,[data-theme=dark] a.secondary,[data-theme=dark] .path-lessons,[data-theme=dark] .review-list li,[data-theme=dark] dialog,[data-theme=dark] .skip{background:var(--paper);color:var(--ink);border-color:var(--line)}
 [data-theme=dark] button.secondary:hover:not(:disabled),[data-theme=dark] a.secondary:hover{background:var(--pale)}
-[data-theme=dark] .high-yield-card{background:#29291e;border-color:#8d7b46}
+[data-theme=dark] .high-yield-card{background:var(--paper);border-color:#8d7b46}
 [data-theme=dark] .hero .primary{background:var(--gold);color:#243a36}
 [data-theme=dark] .hero .primary:hover{background:#f9d798}
 [data-theme=dark] progress,[data-theme=dark] progress::-webkit-progress-bar{background:#33473f}
-[data-theme=dark] .source-note{background:#30291c;border-color:#ab8546}
+[data-theme=dark] .source-note{background:var(--paper);border-color:#ab8546}
 [data-theme=dark] .source-note h3{color:#f1ca90}
-[data-theme=dark] .explain-button,[data-theme=dark] .explanation{background:#1c342c;border-color:#466951}
-[data-theme=dark] .answer-bank{background:var(--pale)}
+[data-theme=dark] .explain-button,[data-theme=dark] .explanation{background:var(--paper);border-color:#466951}
+[data-theme=dark] .answer-bank{background:var(--paper);border:1px solid var(--line)}
 [data-theme=dark] .match-row select{background-color:var(--paper);color:var(--ink);border-color:var(--line);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='m3 6 5 5 5-5' fill='none' stroke='%2386d4be' stroke-width='2'/%3E%3C/svg%3E")}
-[data-theme=dark] .feedback-banner{background:#1e382c;border-color:#466f51}
-[data-theme=dark] .feedback-banner.incorrect{background:#3a2c20;border-color:#8b6947}
+[data-theme=dark] .feedback-banner{background:var(--paper);border-color:#466f51}
+[data-theme=dark] .feedback-banner.incorrect{background:var(--paper);border-color:#8b6947}
 [data-theme=dark] .rationale,[data-theme=dark] .lesson-list li,[data-theme=dark] .terms,[data-theme=dark] .matrix-row{border-color:var(--line)!important}
 [data-theme=dark] .rationale p{color:#c2d2cc}
 [data-theme=dark] .verdict{background:#284d39;color:#b1e6c1}
 [data-theme=dark] .verdict.wrong{background:#503b29;color:#ffd7a6}
 [data-theme=dark] .lesson-status.done{color:var(--teal)}
-[data-theme=dark] .storage-warning{background:#3a2c20;color:#f1ca90;border-color:#8b6947}
+[data-theme=dark] .storage-warning{background:var(--paper);color:#f1ca90;border-color:#8b6947}
 [data-theme=dark] button:focus-visible,[data-theme=dark] a:focus-visible,[data-theme=dark] select:focus-visible,[data-theme=dark] input:focus-visible,[data-theme=dark] summary:focus-visible{outline-color:var(--gold)}
 @media print{.lesson-tools{display:none}:root[data-theme=dark]{--ink:#18363d;--muted:#52686e;--paper:#fff;--bg:#fff;--teal:#176b63;color-scheme:light}}
 
