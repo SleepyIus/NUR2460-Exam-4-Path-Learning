@@ -79,3 +79,10 @@ Home Screen highlighting update:
 - Browser-tested a full paragraph spanning normal and bold text, saving/removing highlights, navigation, and the manual fallback with selectionchange notifications deliberately suppressed. A simulated touch-end recovered the automatic toolbar with selectionchange suppressed.
 - Refresh app requests fresh page HTML while retaining the current route and device storage; verified highlights and unfinished matching answers survive, rationales remain hidden before submission, and scoring still works afterward.
 - Checked 1194px iPad layout, 430px phone layout, and 320px narrow layout in light/OLED dark modes. Controls remain at least 44px tall; no horizontal overflow or browser console errors. Physical iPad/iPhone Home Screen app behavior still requires device confirmation.
+
+Highlight colors and text formatting:
+- Added yellow, green, blue, and pink highlighting plus independent underline and strikethrough layers. The compact palette supports editing existing marks, partial recoloring, toggling a line style, and removing all formatting from a selected passage.
+- Retained legacy yellow highlights and the existing progress-code format. Verified compressed and compatibility-code round trips, merging with incoming-color priority, partial erasure, style validation, and preservation of completed work and answers.
+- Browser-tested selections spanning normal/bold text, overlapping styles, editing/removing marks, refresh persistence, keyboard access, and the persistent Highlight action with selectionchange deliberately suppressed.
+- Verified formatting answer-choice text does not select its radio button or reveal feedback. Scoring and annotations remain intact after submitting an answer. All 750 checks across six formats and 834 incorrect-answer variations passed the existing feedback checks.
+- Checked 320px and 430px phone layouts and 1194px iPad layout, light and OLED dark appearance, 44px tap targets, and unclipped palette labels. Text/background contrast for all eight theme/color combinations exceeds 4.5:1. No browser console errors. These are browser tests, not physical-device tests.

@@ -1,27 +1,42 @@
-/* Personal text highlights. Anchors use exact text and offsets, never saved HTML. */
+/* Personal text markings. Anchors store exact text and offsets, never HTML. */
 (function () {
   'use strict';
   function create({getState,onChange}) {
+    const core=window.StudyCore,colors=['yellow','green','blue','pink'];
     let card=null,screen=null,pending=null,records=[],timer=0,noticeTimer=0;
     const bar=document.createElement('div');
     bar.className='highlight-toolbar';bar.hidden=true;
-    bar.setAttribute('role','toolbar');bar.setAttribute('aria-label','Text highlighting');
-    bar.innerHTML='<button type="button" class="highlight-action">Highlight</button><button type="button" class="highlight-cancel" aria-label="Dismiss highlighting controls">Cancel</button>';
-    const action=bar.querySelector('.highlight-action');
+    bar.setAttribute('role','toolbar');bar.setAttribute('aria-label','Text formatting');
+    bar.innerHTML=`<div class="highlight-colors" role="group" aria-label="Highlight color">${colors.map(color=>`<button type="button" class="highlight-swatch" data-style="${color}" data-highlight-color="${color}" aria-label="${color[0].toUpperCase()+color.slice(1)} highlight" title="${color[0].toUpperCase()+color.slice(1)} highlight" aria-pressed="false"><span aria-hidden="true">✓</span></button>`).join('')}<button type="button" class="highlight-cancel" aria-label="Dismiss formatting controls">Done</button></div><div class="highlight-formats"><button type="button" data-style="underline" aria-pressed="false"><span class="underline-label">Underline</span></button><button type="button" data-style="strike" aria-pressed="false"><span class="strike-label">Strikethrough</span></button><button type="button" class="highlight-remove" aria-label="Remove formatting">Remove</button></div>`;
     const notice=document.createElement('div');notice.className='highlight-notice';notice.setAttribute('role','status');notice.hidden=true;
     document.body.append(bar,notice);
-    const equal=(a,b)=>a.block===b.block&&a.start===b.start&&a.end===b.end&&a.quote===b.quote;
     const isControl=node=>bar.contains(node)||Boolean(node?.closest?.('.highlight-trigger'));
+    const overlaps=(a,b)=>a.block===b.block&&a.start<b.end&&b.start<a.end;
     function dismiss(clear=false){pending=null;bar.hidden=true;if(clear)window.getSelection()?.removeAllRanges();}
     function message(text){clearTimeout(noticeTimer);notice.textContent=text;notice.hidden=false;noticeTimer=setTimeout(()=>{notice.hidden=true;},2500);}
-    function controls(mode,items){pending={mode,items,screen};action.textContent=mode==='remove'?'Remove highlight':'Highlight';bar.hidden=false;notice.hidden=true;}
+    function hasStyle(items,style){
+      return items.every(item=>{
+        let covered=item.start;
+        for(const h of records.filter(h=>h.block===item.block&&core.highlightStyle(h)===style).sort((a,b)=>a.start-b.start)){
+          if(h.start>covered)break;
+          if(h.end>covered)covered=h.end;
+          if(covered>=item.end)return true;
+        }
+        return false;
+      });
+    }
+    function controls(items,locked=false){
+      pending={items,screen,locked};
+      for(const button of bar.querySelectorAll('[data-style]'))button.setAttribute('aria-pressed',String(hasStyle(items,button.dataset.style)));
+      bar.querySelector('.highlight-remove').disabled=!records.some(h=>items.some(item=>overlaps(h,item)));
+      bar.hidden=false;notice.hidden=true;
+    }
     function blocks(){return card?[...card.querySelectorAll('[data-highlight-block]')]:[];}
     function selected(){
       const selection=window.getSelection();
       if(!card||!screen||!selection||selection.isCollapsed||selection.rangeCount!==1)return[];
       const range=selection.getRangeAt(0);
-      // Native selections can end on a paragraph's parent, not just its text.
-      // Clip to the marked blocks inside this card instead of rejecting them.
+      // Native selections may end on a paragraph's parent rather than its text.
       if(!card.contains(range.startContainer)||!card.contains(range.endContainer)||range.toString().length>10000)return[];
       const entries=[];
       for(const block of blocks()){
@@ -38,95 +53,98 @@
     function selectionChanged(){
       clearTimeout(timer);timer=setTimeout(()=>{
         const entries=selected();
-        if(entries.length)controls('add',entries);
-        else if(pending?.mode!=='remove'&&!isControl(document.activeElement))dismiss();
+        if(entries.length)controls(entries,Boolean(pending?.locked));
+        else if(!pending?.locked&&!isControl(document.activeElement))dismiss();
       },80);
     }
     function paint(){
       if(!card)return;
       for(const mark of card.querySelectorAll('mark.user-highlight')){const parent=mark.parentNode;mark.replaceWith(...mark.childNodes);parent.normalize();}
-      records=window.StudyCore.highlightRanges(getState().highlights?.[screen]||[]);
+      records=core.highlightRanges(getState().highlights?.[screen]||[]);
       for(const block of blocks()){
         const text=block.textContent;
-        const matches=records.map((record,index)=>({record,index})).filter(({record:h})=>h.block===block.dataset.highlightBlock&&text.slice(h.start,h.end)===h.quote);
+        const matches=records.filter(h=>h.block===block.dataset.highlightBlock&&text.slice(h.start,h.end)===h.quote);
+        // Render disjoint segments so overlapping styles never split an already
+        // shortened text node or create deeply nested mark elements.
+        const boundaries=[...new Set(matches.flatMap(h=>[h.start,h.end]))].sort((a,b)=>a-b);
+        const segments=[];
+        for(let i=0;i<boundaries.length-1;i++){
+          const start=boundaries[i],end=boundaries[i+1],active=matches.filter(h=>h.start<=start&&h.end>=end);
+          if(active.length)segments.push({start,end,styles:active.map(core.highlightStyle)});
+        }
         const walker=document.createTreeWalker(block,NodeFilter.SHOW_TEXT),nodes=[];
         let node,offset=0;
         while((node=walker.nextNode())){nodes.push({node,start:offset,end:offset+node.length});offset+=node.length;}
-        for(const {record:h,index} of matches.reverse()){
+        for(const segment of segments.reverse()){
           let firstMark=null;
           for(const part of [...nodes].reverse()){
-            const start=Math.max(h.start,part.start)-part.start,end=Math.min(h.end,part.end)-part.start;
+            const start=Math.max(segment.start,part.start)-part.start,end=Math.min(segment.end,part.end)-part.start;
             if(end<=start)continue;
             if(end<part.node.length)part.node.splitText(end);
             const piece=start?part.node.splitText(start):part.node;
-            const mark=document.createElement('mark');mark.className='user-highlight';mark.dataset.highlightIndex=String(index);
+            const mark=document.createElement('mark');mark.className='user-highlight';
+            const color=segment.styles.find(style=>colors.includes(style));if(color)mark.dataset.highlightColor=color;
+            mark.classList.toggle('has-underline',segment.styles.includes('underline'));
+            mark.classList.toggle('has-strike',segment.styles.includes('strike'));
+            mark.dataset.markBlock=block.dataset.highlightBlock;mark.dataset.markStart=segment.start;mark.dataset.markEnd=segment.end;
             piece.replaceWith(mark);mark.append(piece);firstMark=mark;
           }
-          if(firstMark){firstMark.tabIndex=0;firstMark.setAttribute('role','button');firstMark.setAttribute('aria-label','Highlight: '+h.quote+'. Open removal controls.');}
+          if(firstMark){
+            firstMark.tabIndex=0;firstMark.setAttribute('role','button');
+            const label=segment.styles.map(s=>colors.includes(s)?s+' highlight':s==='strike'?'strikethrough':s).join(', ');
+            firstMark.setAttribute('aria-label',label+': '+text.slice(segment.start,segment.end)+'. Edit formatting.');
+          }
         }
       }
     }
-    function saveSelection(){
+    function saveStyle(style){
       if(!pending||pending.screen!==screen)return;
-      const {mode,items}=pending;
-      const all={...(getState().highlights||{})},existing=all[screen]||[];
-      const next=mode==='remove'?existing.filter(h=>!items.some(item=>equal(h,item))):window.StudyCore.highlightRanges([...existing,...items]);
+      const {items}=pending,remove=style===null||(!colors.includes(style)&&hasStyle(items,style));
+      const all={...(getState().highlights||{})};
+      const next=core.formatHighlights(all[screen]||[],items,style,remove);
       if(next.length)all[screen]=next;else delete all[screen];
       const saved=onChange(all);
       dismiss(true);paint();
-      message(saved===false?'Highlight kept for this session. Storage is unavailable.':mode==='remove'?'Highlight removed':'Highlight saved');
+      message(saved===false?'Formatting kept for this session. Storage is unavailable.':remove?'Formatting removed':'Formatting saved');
     }
-    function keepSelection(event){
-      const entries=selected();
-      if(entries.length)controls('add',entries);
-      event.preventDefault();
+    function editMark(mark){
+      const block=blocks().find(b=>b.dataset.highlightBlock===mark.dataset.markBlock);
+      if(!block)return;
+      const start=Number(mark.dataset.markStart),end=Number(mark.dataset.markEnd);
+      controls([{block:block.dataset.highlightBlock,start,end,quote:block.textContent.slice(start,end)}],true);
     }
-    function highlightNow(){
+    function keepSelection(event){const entries=selected();if(entries.length)controls(entries,true);event.preventDefault();}
+    function openPalette(){
       const entries=selected();
-      if(entries.length)controls('add',entries);
-      if(pending?.mode==='add'&&pending.screen===screen)saveSelection();
+      if(entries.length)controls(entries,true);
+      else if(pending?.screen===screen)controls(pending.items,true);
       else message('Select some lesson text, then tap Highlight.');
     }
-    // Capture the range before tapping a control can collapse native selection.
-    bar.addEventListener('pointerdown',event=>event.preventDefault());
-    bar.addEventListener('mousedown',event=>event.preventDefault());
-    action.addEventListener('click',saveSelection);
+    // Capture native selection before touching either set of controls.
+    for(const event of ['pointerdown','mousedown'])bar.addEventListener(event,e=>{if(pending)pending.locked=true;e.preventDefault();});
+    for(const button of bar.querySelectorAll('[data-style]'))button.addEventListener('click',()=>saveStyle(button.dataset.style));
+    bar.querySelector('.highlight-remove').addEventListener('click',()=>saveStyle(null));
     bar.querySelector('.highlight-cancel').addEventListener('click',()=>dismiss(true));
     document.addEventListener('selectionchange',selectionChanged);
-    // Touch handles and trackpads do not always finish with a click. Recheck
-    // after the interaction and when a suspended Home Screen app resumes.
     for(const event of ['pointerup','touchend','keyup'])document.addEventListener(event,selectionChanged,{passive:true});
     window.addEventListener('pageshow',selectionChanged);
     document.addEventListener('visibilitychange',()=>{if(!document.hidden)selectionChanged();});
-    document.addEventListener('pointerdown',event=>{
-      if(!isControl(event.target)&&!event.target.closest?.('mark.user-highlight'))dismiss();
-    });
+    document.addEventListener('pointerdown',event=>{if(!isControl(event.target)&&!event.target.closest?.('mark.user-highlight'))dismiss();});
     document.addEventListener('click',event=>{
       if(!card||isControl(event.target))return;
       const entries=selected();
-      if(entries.length){
-        // Selecting option text must not also toggle its radio/checkbox.
-        if(event.target.closest?.('.choice'))event.preventDefault();
-        controls('add',entries);return;
-      }
+      if(entries.length){if(event.target.closest?.('.choice'))event.preventDefault();controls(entries);return;}
       const mark=event.target.closest?.('mark.user-highlight');
-      if(mark&&card.contains(mark)){
-        event.preventDefault();const item=records[Number(mark.dataset.highlightIndex)];
-        if(item)controls('remove',[item]);
-      }
+      if(mark&&card.contains(mark)){event.preventDefault();editMark(mark);}
     },true);
     document.addEventListener('keydown',event=>{
       if(event.key==='Escape'&&!bar.hidden){event.preventDefault();dismiss(true);}
       const mark=event.target.closest?.('mark.user-highlight');
-      if(mark&&card?.contains(mark)&&['Enter',' '].includes(event.key)){
-        event.preventDefault();const item=records[Number(mark.dataset.highlightIndex)];
-        if(item){controls('remove',[item]);action.focus();}
-      }
+      if(mark&&card?.contains(mark)&&['Enter',' '].includes(event.key)){event.preventDefault();editMark(mark);bar.querySelector('[data-style]').focus();}
     });
     function unmount(){clearTimeout(timer);dismiss();card=null;screen=null;records=[];notice.hidden=true;}
     function mount(root,id){
       unmount();if(!root||!id)return;card=root;screen=id;
-      // A removable mark has its own accessible name; keep answer labels intact.
       for(const choice of card.querySelectorAll('.choice')){
         const input=choice.querySelector('input'),label=choice.querySelector(':scope > span');
         if(input&&label&&!input.hasAttribute('aria-label'))input.setAttribute('aria-label',label.textContent);
@@ -140,11 +158,7 @@
       assign('.answer-bank p','answer-bank');assign('.match-row > span:first-child','match-prompt');
       assign('.rationale h4','rationale-heading');assign('.rationale p','rationale-body');assign('.feedback > p','rationale-summary');
       const trigger=card.querySelector('.highlight-trigger');
-      if(trigger){
-        trigger.hidden=false;
-        trigger.onpointerdown=keepSelection;trigger.onmousedown=keepSelection;
-        trigger.onclick=highlightNow;
-      }
+      if(trigger){trigger.hidden=false;trigger.onpointerdown=keepSelection;trigger.onmousedown=keepSelection;trigger.onclick=openPalette;}
       paint();
     }
     return {mount,unmount};
