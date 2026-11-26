@@ -3431,7 +3431,7 @@ window.FULL_PATHS = {
           "choices": [
             "Reassessment over time",
             "Direct risk assessment",
-            "Environment/o bservation safety"
+            "Environment/observation safety"
           ],
           "rows": [
             "Secures hazards and confirms who continues observation at handoff.",
@@ -4203,7 +4203,7 @@ window.FULL_PATHS = {
           "choices": [
             "Interaction review",
             "Drug-specific physical monitoring",
-            "New mood/men tal-status concern"
+            "New mood/mental-status concern"
           ],
           "rows": [
             "New SSRI agitation plus fever after adding a serotonergic supplement.",
@@ -4800,7 +4800,7 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Depressive/fun ction concern",
+            "Depressive/function concern",
             "Parent/infant protection concern",
             "Psychosis warning"
           ],
@@ -5387,7 +5387,7 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Cognitive/funct ional recovery",
+            "Cognitive/functional recovery",
             "Brain-seizure monitoring",
             "Cardiac/airway recovery"
           ],
@@ -7787,8 +7787,8 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Liver/pancreatic concern",
-            "Sodium/skin/int eraction concern",
-            "Blood-count/bl eeding concern"
+            "Sodium/skin/interaction concern",
+            "Blood-count/bleeding concern"
           ],
           "rows": [
             "Carbamazepine: fever, sore throat, and a new rash.",
@@ -8378,7 +8378,7 @@ window.FULL_PATHS = {
           "choices": [
             "Immediate injury assessment",
             "Direct intent/risk assessment",
-            "Ongoing preve ntion/documentati on"
+            "Ongoing prevention/documentation"
           ],
           "rows": [
             "Asks what the injury was intended to do and current suicidal thoughts.",
@@ -10093,7 +10093,7 @@ window.FULL_PATHS = {
           "choices": [
             "Infection/steroid safety",
             "Fluid/skin monitoring",
-            "Protein/circulat ing-volume concern"
+            "Protein/circulating-volume concern"
           ],
           "rows": [
             "Low albumin with generalized edema and poor effective circulation.",
@@ -11255,9 +11255,9 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Upper-tract/sys temic concern",
-            "Prevention/trea tment teaching",
-            "Lower-tract/toil eting clue"
+            "Upper-tract/systemic concern",
+            "Prevention/treatment teaching",
+            "Lower-tract/toileting clue"
           ],
           "rows": [
             "Dysuria and new wetting after established toileting, with fever and flank pain.",
@@ -12413,7 +12413,7 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Supportive/co mplication care",
+            "Supportive/complication care",
             "transmission precautions.",
             "Measles recognition"
           ],
@@ -12982,7 +12982,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Parotid recognition",
-            "Comfort/compli cation assessment",
+            "Comfort/complication assessment",
             "Droplet/saliva prevention"
           ],
           "rows": [
@@ -14110,7 +14110,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Rash/timing recognition",
-            "Vulnerable-per son assessment",
+            "Vulnerable-person assessment",
             "Supportive care"
           ],
           "rows": [
@@ -15244,7 +15244,7 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Supportive/tran smission care",
+            "Supportive/transmission care",
             "Splenic safety",
             "Mono recognition"
           ],
@@ -16411,7 +16411,7 @@ window.FULL_PATHS = {
           "choices": [
             "Discharge follow-up",
             "Inflammatory recognition",
-            "Coronary/treat ment monitoring"
+            "Coronary/treatment monitoring"
           ],
           "rows": [
             "Reports recurrent fever and keeps cardiology/echo and vaccine-timing plans.",
@@ -16990,8 +16990,8 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Requires protection/team review",
-            "Observed injur y/development concern",
-            "Reported/beha vioral context"
+            "Observed injury/development concern",
+            "Reported/behavioral context"
           ],
           "rows": [
             "A child flinches and says they fear going home.",
@@ -17571,7 +17571,7 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Immediate med ical/protection action",
+            "Immediate medical/protection action",
             "Documentation /collaboration",
             "Required reporting action"
           ],
@@ -18739,7 +18739,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Privacy/direct assessment",
-            "Autonomy/sup port planning",
+            "Autonomy/support planning",
             "Immediate medical/safety needs"
           ],
           "rows": [
@@ -24553,7 +24553,7 @@ window.FULL_PATHS = {
           "choices": [
             "Family/functional support",
             "Abnormal-eye recognition",
-            "Specialist eval uation/follow-up"
+            "Specialist evaluation/follow-up"
           ],
           "rows": [
             "Explains referral and allows family questions about vision and treatment.",
@@ -25899,9 +25899,9 @@ window.FULL_PATHS = {
           "stem": "For each row, select every column supported by the stated information. More than one column may apply.",
           "fmt": "X",
           "choices": [
-            "Honest/develop mental communication",
+            "Honest/developmental communication",
             "Family/cultural support",
-            "Comfort/rehabil itation"
+            "Comfort/rehabilitation"
           ],
           "rows": [
             "Treats phantom limb pain and coordinates prosthetic rehabilitation.",

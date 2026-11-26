@@ -105,3 +105,12 @@ Oxford comma consistency:
 - Verified every data change is comma-only. All 150 lessons, 750 checks, IDs, answer keys, numerical values, and literal source file names are unchanged.
 - Saved text markings can reattach after punctuation edits when the passage is uniquely identifiable within its original block. Exact matches take priority; ambiguous or missing passages retain their original saved records rather than guessing. Tested 421 comma-edit anchors, color/style retention, and ambiguous/missing quotes.
 - Browser-verified D-L17's corrected heading and paragraph, migration of a previously saved colored underline, persistence after Refresh app, removal of the test mark, and no console errors. Feedback checks passed for all 750 checks and 834 incorrect-answer variations; colored-marking and progress-code compatibility checks passed.
+
+
+PDF word-spacing repair:
+- Compared course text with the original lesson data, including exact text matches and 160 additional source fragments; scanned all 15,866 string fields for split-word candidates. Reviewed possible joins to retain legitimate phrases such as “a voiding trial” and “a febrile child.”
+- Corrected 23 matrix-column labels across 18 lessons in six subject paths, including observation, mental-status, function, prevention/documentation, circulating-volume, and rehabilitation. These were spaces introduced by PDF line wrapping. Every course-data change removes only stray whitespace; words, punctuation, answer keys, lesson/question IDs, and all other fields remain identical.
+- Updated the local PDF conversion script to restore source-verified word boundaries, with 27 regression cases including rejection of mismatched content. No dictionary-based runtime rewriting is used.
+- Extended saved-marking reattachment to tolerate repaired spacing while retaining exact-match priority and refusing ambiguous matches. Tested 92 color/style cases, old underline migration in the browser, correct matrix scoring, and refresh persistence.
+- Browser-checked all 23 repaired labels across the 18 affected checks at 430px width without overflow; inspected the reported mental-status case in OLED dark mode. No console errors. These are browser viewport tests, not physical-device Safari tests.
+- Existing feedback checks passed for all 750 checks and 834 valid incorrect answers, along with colored-annotation and compressed/compatibility progress-code checks.

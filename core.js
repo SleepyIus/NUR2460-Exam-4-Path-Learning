@@ -47,12 +47,12 @@
   }
   function reanchorHighlight(h,text){
     if(text.slice(h.start,h.end)===h.quote)return h;
-    // Comma-only copyedits can shift a saved range or add punctuation inside
-    // it. Reattach only when its words identify one unambiguous passage.
-    const quote=h.quote.replace(/,/g,'');
+    // Comma or word-spacing copyedits can shift a saved range. Reattach only
+    // when the same characters identify one unambiguous passage in its block.
+    const quote=h.quote.replace(/[,\s]/g,'');
     if(!quote.trim())return h;
     const offsets=[],characters=[];
-    for(let i=0;i<text.length;i++)if(text[i]!==','){offsets.push(i);characters.push(text[i]);}
+    for(let i=0;i<text.length;i++)if(!/[,\s]/.test(text[i])){offsets.push(i);characters.push(text[i]);}
     const plain=characters.join(''),at=plain.indexOf(quote);
     if(at<0||plain.indexOf(quote,at+1)!==-1)return h;
     let start=offsets[at],end=offsets[at+quote.length-1]+1;
