@@ -48,6 +48,10 @@ The code includes all nine paths, read steps, completed lessons, submitted answe
 
 If automatic copying is unavailable, use **Select code**, then your device's Copy command. The import box uses ordinary Paste. **Older browser? → Create compatibility code** produces a longer code without browser compression. Invalid, incomplete, or unsupported codes leave current progress unchanged; a preview alone never imports.
 
+## Editorial style
+
+Use the Oxford (serial) comma in lists of three or more items throughout headings, teaching, definitions, questions, and rationales. Keep two-item phrases together, such as “intake and output.” Preserve source file names exactly.
+
 ## Publish or update on GitHub Pages
 
 1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `presentation-data.js`, `presentation.js`, `progress-transfer.js`, `highlights.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.

@@ -45,6 +45,21 @@
     }
     return highlightRanges(next);
   }
+  function reanchorHighlight(h,text){
+    if(text.slice(h.start,h.end)===h.quote)return h;
+    // Comma-only copyedits can shift a saved range or add punctuation inside
+    // it. Reattach only when its words identify one unambiguous passage.
+    const quote=h.quote.replace(/,/g,'');
+    if(!quote.trim())return h;
+    const offsets=[],characters=[];
+    for(let i=0;i<text.length;i++)if(text[i]!==','){offsets.push(i);characters.push(text[i]);}
+    const plain=characters.join(''),at=plain.indexOf(quote);
+    if(at<0||plain.indexOf(quote,at+1)!==-1)return h;
+    let start=offsets[at],end=offsets[at+quote.length-1]+1;
+    if(h.quote.startsWith(',')&&text[start-1]===',')start--;
+    if(h.quote.endsWith(',')&&text[end]===',')end++;
+    return {...h,start,end,quote:text.slice(start,end)};
+  }
   function mergeHighlights(a={},b={}){
     const merged={};
     for(const id of new Set([...Object.keys(a),...Object.keys(b)])){
@@ -104,6 +119,6 @@
     if(state.last?.mode==='lesson'){const p=lessons.get(state.last.lesson).path;if(p)state.pathLast[p]=state.last;}
     return state;
   }
-  root.StudyCore={fresh,ready,score,progress,lessonComplete,normalize,validHighlight,highlightStyle,highlightColor,highlightRanges,formatHighlights,mergeHighlights};
+  root.StudyCore={fresh,ready,score,progress,lessonComplete,normalize,validHighlight,highlightStyle,highlightColor,highlightRanges,formatHighlights,reanchorHighlight,mergeHighlights};
   if(typeof module!=='undefined')module.exports=root.StudyCore;
 })(typeof window!=='undefined'?window:globalThis);

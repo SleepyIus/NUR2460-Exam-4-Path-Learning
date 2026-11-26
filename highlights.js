@@ -73,6 +73,14 @@
       if(!card)return;
       for(const mark of card.querySelectorAll('mark.user-highlight')){const parent=mark.parentNode;mark.replaceWith(document.createTextNode(mark.textContent));parent.normalize();}
       records=core.highlightRanges(getState().highlights?.[screen]||[]);
+      const textByBlock=new Map(blocks().map(block=>[block.dataset.highlightBlock,block.textContent]));
+      let moved=false;
+      records=core.highlightRanges(records.map(h=>{
+        const text=textByBlock.get(h.block),next=text===undefined?h:core.reanchorHighlight(h,text);
+        if(next!==h)moved=true;
+        return next;
+      }));
+      if(moved)onChange({...getState().highlights,[screen]:records});
       for(const block of blocks()){
         const text=block.textContent;
         const matches=records.filter(h=>h.block===block.dataset.highlightBlock&&text.slice(h.start,h.end)===h.quote);

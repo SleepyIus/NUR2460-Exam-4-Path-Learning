@@ -49,7 +49,7 @@ window.STUDY_DATA = {
       "name": "Pediatric Oncology",
       "weight": 5,
       "sourceFile": "07 - Pediatric Oncology - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "references": "Oncology and Grief and Spirituality notes; Pediatric Oncology PPT, closing slide 26, and answered activity. ATI Nursing Care of Children covers Wilms, brain and bone tumors, and developmental grief; the eye-reflex topic is lecture-supported."
+      "references": "Oncology and Grief and Spirituality notes; Pediatric Oncology PPT, closing slide 26, and answered activity. ATI Nursing Care of Children covers Wilms, brain, and bone tumors, and developmental grief; the eye-reflex topic is lecture-supported."
     },
     {
       "id": "E",
@@ -109,7 +109,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "A direct question supports assessment",
-            "body": "Directly asking about suicide does not plant the idea. A denial of suicidal thoughts does not end assessment when hopelessness, behavior or other warning signs remain; continue calm, specific follow-up.",
+            "body": "Directly asking about suicide does not plant the idea. A denial of suicidal thoughts does not end assessment when hopelessness, behavior, or other warning signs remain; continue calm, specific follow-up.",
             "page": 25
           }
         },
@@ -243,7 +243,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Keep the release formulation intact",
-            "body": "It lowers the seizure threshold. Seizure disorders and anorexia nervosa or bulimia nervosa are important contraindications. Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold and the prescribed formulation. Do not crush sustained/extended-release products.",
+            "body": "It lowers the seizure threshold. Seizure disorders and anorexia nervosa or bulimia nervosa are important contraindications. Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold, and the prescribed formulation. Do not crush sustained/extended-release products.",
             "page": 35
           }
         },
@@ -254,7 +254,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Recognize serotonin syndrome",
-            "body": "Review all prescriptions, OTC products and supplements. Combining serotonergic drugs can cause serotonin syndrome: agitation or confusion, fever/sweating, tremor or rigidity and autonomic changes such as tachycardia. This cluster requires urgent evaluation.",
+            "body": "Review all prescriptions, OTC products, and supplements. Combining serotonergic drugs can cause serotonin syndrome: agitation or confusion, fever/sweating, tremor or rigidity, and autonomic changes such as tachycardia. This cluster requires urgent evaluation.",
             "page": 37
           }
         },
@@ -265,7 +265,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "What does orthostasis change?",
-            "body": "Teach the patient to sit before standing and change position slowly. If dizzy, sit or lie down to prevent falling. Support hydration, fiber and oral care within the patient's restrictions. Report persistent urinary retention, marked dizziness or other significant adverse effects.",
+            "body": "Teach the patient to sit before standing and change position slowly. If dizzy, sit or lie down to prevent falling. Support hydration, fiber, and oral care within the patient's restrictions. Report persistent urinary retention, marked dizziness, or other significant adverse effects.",
             "page": 39
           }
         },
@@ -457,7 +457,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Choose a manageable activity",
-            "body": "Offer individual, supervised noncompetitive activities, such as walking, and alternate activity with rest. Crowds, highly stimulating groups and competitive games can increase agitation.",
+            "body": "Offer individual, supervised noncompetitive activities, such as walking, and alternate activity with rest. Crowds, highly stimulating groups, and competitive games can increase agitation.",
             "page": 15
           }
         },
@@ -612,7 +612,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Fine tremor versus a changing pattern",
-            "body": "A mild fine hand tremor, thirst, increased urination, or transient mild GI effects can occur at lower levels. Persistent or worsening symptoms, neurological changes and dehydration still require assessment even if an earlier level was within range.",
+            "body": "A mild fine hand tremor, thirst, increased urination, or transient mild GI effects can occur at lower levels. Persistent or worsening symptoms, neurological changes, and dehydration still require assessment even if an earlier level was within range.",
             "page": 30
           }
         },
@@ -777,7 +777,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "What is exposed?",
-            "body": "Bladder exstrophy is a congenital defect in which the bladder is exposed through the abdominal wall. Urine can leak continuously from exposed mucosa. Associated anomalies can include epispadias, cryptorchidism or hernia.",
+            "body": "Bladder exstrophy is a congenital defect in which the bladder is exposed through the abdominal wall. Urine can leak continuously from exposed mucosa. Associated anomalies can include epispadias, cryptorchidism, or hernia.",
             "page": 6
           }
         },
@@ -788,7 +788,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "After surgical correction",
-            "body": "Monitor pain, swelling, wound condition, and urination after repair. Teach the specific activity and wound-care restrictions, prescribed analgesia and signs requiring follow-up, such as fever, increasing redness, drainage, or unexpected severe pain.",
+            "body": "Monitor pain, swelling, wound condition, and urination after repair. Teach the specific activity and wound-care restrictions, prescribed analgesia, and signs requiring follow-up, such as fever, increasing redness, drainage, or unexpected severe pain.",
             "page": 20
           }
         },
@@ -1163,7 +1163,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Which new findings need prompt assessment?",
-            "body": "Sudden left upper abdominal pain, dizziness or fainting can signal a splenic complication and needs prompt assessment. New or severe abdominal pain, collapse, poor perfusion or other acute deterioration also requires urgent review. Escalate breathing/swallowing difficulty or significant dehydration.",
+            "body": "Sudden left upper abdominal pain, dizziness, or fainting can signal a splenic complication and needs prompt assessment. New or severe abdominal pain, collapse, poor perfusion, or other acute deterioration also requires urgent review. Escalate breathing/swallowing difficulty or significant dehydration.",
             "page": 56
           }
         },
@@ -1304,7 +1304,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Connect the manifestation names",
-            "body": "Major manifestations in the course's Jones pattern are carditis, migratory polyarthritis, chorea, erythema marginatum and painless subcutaneous nodules. Chorea is involuntary movement; migratory arthritis shifts between joints; erythema marginatum is the characteristic rash.",
+            "body": "Major manifestations in the course's Jones pattern are carditis, migratory polyarthritis, chorea, erythema marginatum, and painless subcutaneous nodules. Chorea is involuntary movement; migratory arthritis shifts between joints; erythema marginatum is the characteristic rash.",
             "page": 60
           }
         },
@@ -1474,7 +1474,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Document what you can observe",
-            "body": "Record size, color, shape and exact location of injuries; describe observations rather than labeling a person an abuser. Include the patient's and caregiver's exact statements in quotation marks, time, who was present and the nurse's actions.",
+            "body": "Record size, color, shape, and exact location of injuries; describe observations rather than labeling a person an abuser. Include the patient's and caregiver's exact statements in quotation marks, time, who was present, and the nurse's actions.",
             "page": 31
           }
         },
@@ -1497,7 +1497,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "Privacy includes the interpreter",
-            "body": "Address urgent medical needs first. When the patient is medically stable, arrange a private interview for part of the encounter. Do not use the partner as an interpreter. Ask directly and nonjudgmentally about safety, threats, coercion and injuries, using a qualified interpreter when needed.",
+            "body": "Address urgent medical needs first. When the patient is medically stable, arrange a private interview for part of the encounter. Do not use the partner as an interpreter. Ask directly and nonjudgmentally about safety, threats, coercion, and injuries, using a qualified interpreter when needed.",
             "page": 38
           }
         },
@@ -2149,7 +2149,7 @@ window.STUDY_DATA = {
           "kind": "idea",
           "more": {
             "title": "What should be monitored?",
-            "body": "Coordinate with the provider and dietitian. Monitor phosphate, potassium, magnesium, fluid balance, weight, vital signs, and cardiac/respiratory findings as indicated. Administer ordered electrolyte and fluid therapy. New edema, weakness, rhythm changes or breathing difficulty during restoration requires prompt reassessment and reporting, not an assumption that weight gain proves recovery. Avoid an unsupervised rapid increase or independent feeding-rate changes.",
+            "body": "Coordinate with the provider and dietitian. Monitor phosphate, potassium, magnesium, fluid balance, weight, vital signs, and cardiac/respiratory findings as indicated. Administer ordered electrolyte and fluid therapy. New edema, weakness, rhythm changes, or breathing difficulty during restoration requires prompt reassessment and reporting, not an assumption that weight gain proves recovery. Avoid an unsupervised rapid increase or independent feeding-rate changes.",
             "page": 17
           }
         },

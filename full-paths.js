@@ -98,7 +98,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Antidepressants: bupropion, citalopram and nortriptyline",
+          "title": "Antidepressants: bupropion, citalopram, and nortriptyline",
           "page": 32,
           "parts": [
             [
@@ -169,7 +169,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 98,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 16 of 80 items to this broad area. That is scope context, not an allocation rule for the 100 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nD01 Major depressive disorder:\nrecognition and assessment\nL01 The clinical pattern\nL02 Adolescents and risk factors\nL03 Assessment and nursing care\nD02 Therapeutic communication in\ndepression\nL04 Presence and response time\nL05 Observations, reflection and I statements\nL06 Participation and safety\nD03 Suicide assessment and\nprevention\nL07 Terms and warning signs\nL08 Direct assessment\nL09 Immediate action and environment\nL10 Ongoing prevention\nD04 Antidepressants: bupropion,\ncitalopram and nortriptyline\nL11 Treatment expectations\nL12 Bupropion - Wellbutrin\nL13 Citalopram - Celexa\nL14 Nortriptyline - Pamelor\nD05 Postpartum depression and\nmaternal-infant safety\nL15 Recognition and risks\nL16 Blues, depression and psychosis\nL17 Assessment, care and teaching\nD06 Electroconvulsive therapy:\npreparation and recovery\nL18 Purpose and mechanism\nL19 Before treatment\nL20 During treatment and recovery\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 16 of 80 items to this broad area. That is scope context, not an allocation rule for the 100 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nD01 Major depressive disorder:\nrecognition and assessment\nL01 The clinical pattern\nL02 Adolescents and risk factors\nL03 Assessment and nursing care\nD02 Therapeutic communication in\ndepression\nL04 Presence and response time\nL05 Observations, reflection, and I statements\nL06 Participation and safety\nD03 Suicide assessment and\nprevention\nL07 Terms and warning signs\nL08 Direct assessment\nL09 Immediate action and environment\nL10 Ongoing prevention\nD04 Antidepressants: bupropion,\ncitalopram, and nortriptyline\nL11 Treatment expectations\nL12 Bupropion - Wellbutrin\nL13 Citalopram - Celexa\nL14 Nortriptyline - Pamelor\nD05 Postpartum depression and\nmaternal-infant safety\nL15 Recognition and risks\nL16 Blues, depression, and psychosis\nL17 Assessment, care, and teaching\nD06 Electroconvulsive therapy:\npreparation and recovery\nL18 Purpose and mechanism\nL19 Before treatment\nL20 During treatment and recovery\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -184,7 +184,7 @@ window.FULL_PATHS = {
         {
           "title": "Source locators for each topic",
           "page": 101,
-          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nD01 | Major depressive disorder: recognition and assessment\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 41 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 1, 2\nMDD original IN viewer pages 2, 3\nMH PDF76-79\nMeyers Mental Health slides15-16, notes15\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 35, 36, 37, 38\nD02 | Therapeutic communication in depression\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 42 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 4, 5, 6\nMDD original IN viewer pages 2, 3\nMH PDF77\nMeyers Mental Health slides17,22 and notes22\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 40, 41, 42, 43\nD03 | Suicide assessment and prevention\nTeaching: L07 / L08 / L09 / L10\nUpdated guide: paragraph positions 43 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 3, 4\nMDD original IN viewer pages 4, 5, 6\nMH PDF186-188\nMeyers Mental Health slides18-19,22 and notes22\nMH PDF187, suicide-precautions passage\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 51, 52, 53, 54, 55, 56\nD04 | Antidepressants: bupropion, citalopram and nortriptyline\nTeaching: L11 / L12 / L13 / L14\nUpdated guide: paragraph positions 44 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 6, 7, 8, 9, 10, 11, 12, 13\nMH PDF130-135\nMeyers Mental Health slides20-22\nMH PDF131, TCA cardiac-toxicity and nursing-actions passages\nMH PDF131, TCA interactions\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 45, 46, 47, 48\nAdditional medication cross-check: PHARM ch8, PDF68-74 (in-scope antidepressants only)."
+          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nD01 | Major depressive disorder: recognition and assessment\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 41 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 1, 2\nMDD original IN viewer pages 2, 3\nMH PDF76-79\nMeyers Mental Health slides15-16, notes15\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 35, 36, 37, 38\nD02 | Therapeutic communication in depression\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 42 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 4, 5, 6\nMDD original IN viewer pages 2, 3\nMH PDF77\nMeyers Mental Health slides17,22 and notes22\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 40, 41, 42, 43\nD03 | Suicide assessment and prevention\nTeaching: L07 / L08 / L09 / L10\nUpdated guide: paragraph positions 43 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 3, 4\nMDD original IN viewer pages 4, 5, 6\nMH PDF186-188\nMeyers Mental Health slides18-19,22 and notes22\nMH PDF187, suicide-precautions passage\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 51, 52, 53, 54, 55, 56\nD04 | Antidepressants: bupropion, citalopram, and nortriptyline\nTeaching: L11 / L12 / L13 / L14\nUpdated guide: paragraph positions 44 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nMDD original IN viewer pages 6, 7, 8, 9, 10, 11, 12, 13\nMH PDF130-135\nMeyers Mental Health slides20-22\nMH PDF131, TCA cardiac-toxicity and nursing-actions passages\nMH PDF131, TCA interactions\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 45, 46, 47, 48\nAdditional medication cross-check: PHARM ch8, PDF68-74 (in-scope antidepressants only)."
         },
         {
           "title": "D05 | Postpartum depression and maternal-infant safety",
@@ -263,7 +263,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Lithium: monitoring, hydration and toxicity",
+          "title": "Lithium: monitoring, hydration, and toxicity",
           "page": 24,
           "parts": [
             [
@@ -334,7 +334,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 83,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 15 of 80 items to this broad area. That is scope context, not an allocation rule for the 75 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nB01 Bipolar disorder: mania and\nhypomania\nL01 Episode patterns\nL02 Expected manic findings\nL03 Safety and course\nB02 Acute mania: nursing care\nand physical priorities\nL04 Environment and communication\nL05 Nutrition, fluids and rest\nL06 Safety and evaluation\nB03 Lithium: monitoring, hydration\nand toxicity\nL07 Purpose and prescribed monitoring\nL08 Fluid, sodium and interactions\nL09 Adverse effects versus toxicity\nB04 Valproate and\ncarbamazepine: safety and\nmonitoring\nL10 Role and treatment response\nL11 Valproate - Depakote and related formulations\nL12 Carbamazepine - Tegretol\nB05 Self-inflicted injury: immediate\ncare and prevention\nL13 Physical safety first\nL14 Nonjudgmental assessment\nL15 Documentation and ongoing care\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 15 of 80 items to this broad area. That is scope context, not an allocation rule for the 75 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nB01 Bipolar disorder: mania and\nhypomania\nL01 Episode patterns\nL02 Expected manic findings\nL03 Safety and course\nB02 Acute mania: nursing care\nand physical priorities\nL04 Environment and communication\nL05 Nutrition, fluids, and rest\nL06 Safety and evaluation\nB03 Lithium: monitoring, hydration,\nand toxicity\nL07 Purpose and prescribed monitoring\nL08 Fluid, sodium, and interactions\nL09 Adverse effects versus toxicity\nB04 Valproate and\ncarbamazepine: safety and\nmonitoring\nL10 Role and treatment response\nL11 Valproate - Depakote and related formulations\nL12 Carbamazepine - Tegretol\nB05 Self-inflicted injury: immediate\ncare and prevention\nL13 Physical safety first\nL14 Nonjudgmental assessment\nL15 Documentation and ongoing care\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -349,7 +349,7 @@ window.FULL_PATHS = {
         {
           "title": "Source locators for each topic",
           "page": 86,
-          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nB01 | Bipolar disorder: mania and hypomania\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 48 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 1\nBipolar original IN viewer pages 1, 2, 3\nBipolar original IN viewer pages 3, 4\nMH PDF82-84\nMeyers Mental Health slides24-26 and notes24\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 67, 68, 69, 70, 71\nB02 | Acute mania: nursing care and physical priorities\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 49 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 4, 5\nBipolar original IN viewer pages 1, 2, 3\nMH PDF83-84\nMeyers Mental Health slides27-28 and notes27\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 73, 74, 75, 76, 77, 78\nB03 | Lithium: monitoring, hydration and toxicity\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 50 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 5, 6, 7, 8, 9, 10, 11, 12\nMH PDF138-139\nMeyers Mental Health slides29-31; ATI parameters govern conflicting numbers\nMH PDF139, nursing administration\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 81, 82, 83, 84, 85, 86, 87, 88\nAdditional medication cross-check: PHARM ch9, PDF78-81.\nB04 | Valproate and carbamazepine: safety and monitoring\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 51 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 9, 10\nMH PDF140-141\nMeyers Mental Health slide32 and notes32\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 90, 91, 92\nAdditional medication cross-check: PHARM ch9, PDF78-81."
+          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nB01 | Bipolar disorder: mania and hypomania\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 48 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 1\nBipolar original IN viewer pages 1, 2, 3\nBipolar original IN viewer pages 3, 4\nMH PDF82-84\nMeyers Mental Health slides24-26 and notes24\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 67, 68, 69, 70, 71\nB02 | Acute mania: nursing care and physical priorities\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 49 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 4, 5\nBipolar original IN viewer pages 1, 2, 3\nMH PDF83-84\nMeyers Mental Health slides27-28 and notes27\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 73, 74, 75, 76, 77, 78\nB03 | Lithium: monitoring, hydration, and toxicity\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 50 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 5, 6, 7, 8, 9, 10, 11, 12\nMH PDF138-139\nMeyers Mental Health slides29-31; ATI parameters govern conflicting numbers\nMH PDF139, nursing administration\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 81, 82, 83, 84, 85, 86, 87, 88\nAdditional medication cross-check: PHARM ch9, PDF78-81.\nB04 | Valproate and carbamazepine: safety and monitoring\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 51 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nBipolar original IN viewer pages 9, 10\nMH PDF140-141\nMeyers Mental Health slide32 and notes32\nMeyers Mental Health guided notes and instructor key, keyed paragraphs 90, 91, 92\nAdditional medication cross-check: PHARM ch9, PDF78-81."
         },
         {
           "title": "B05 | Self-inflicted injury: immediate care and prevention",
@@ -431,7 +431,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Nephrotic syndrome: protein loss, edema and steroids",
+          "title": "Nephrotic syndrome: protein loss, edema, and steroids",
           "page": 23,
           "parts": [
             [
@@ -524,7 +524,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 96,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 90 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nG01 Bladder exstrophy: protection\nand perioperative care\nL01 Condition and immediate priorities\nL02 Repair and nursing care\nL03 Family teaching and evaluation\nG02 Cryptorchidism and\norchiopexy\nL04 Recognition and risks\nL05 Purpose of correction\nL06 Postoperative and long-term teaching\nG03 Nephrotic syndrome: protein\nloss, edema and steroids\nL07 Mechanism and expected findings\nL08 Monitoring and complications\nL09 Treatment and family teaching\nG04 Acute glomerulonephritis:\nfluid retention and hypertension\nL10 Mechanism and recognition\nL11 Priorities and monitoring\nL12 Treatment, diet and teaching\nG05 Pediatric urinary tract\ninfection: recognition and\nprevention\nL13 Risks and age-related findings\nL14 Assessment and treatment\nL15 Caregiver and adolescent teaching\nG06 Vesicoureteral reflux: kidney\nprotection and teaching\nL16 Mechanism and assessment\nL17 Management and prevention\nL18 After intervention and outcomes\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 90 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nG01 Bladder exstrophy: protection\nand perioperative care\nL01 Condition and immediate priorities\nL02 Repair and nursing care\nL03 Family teaching and evaluation\nG02 Cryptorchidism and\norchiopexy\nL04 Recognition and risks\nL05 Purpose of correction\nL06 Postoperative and long-term teaching\nG03 Nephrotic syndrome: protein\nloss, edema, and steroids\nL07 Mechanism and expected findings\nL08 Monitoring and complications\nL09 Treatment and family teaching\nG04 Acute glomerulonephritis:\nfluid retention and hypertension\nL10 Mechanism and recognition\nL11 Priorities and monitoring\nL12 Treatment, diet, and teaching\nG05 Pediatric urinary tract\ninfection: recognition and\nprevention\nL13 Risks and age-related findings\nL14 Assessment and treatment\nL15 Caregiver and adolescent teaching\nG06 Vesicoureteral reflux: kidney\nprotection and teaching\nL16 Mechanism and assessment\nL17 Management and prevention\nL18 After intervention and outcomes\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -539,7 +539,7 @@ window.FULL_PATHS = {
         {
           "title": "Source locators for each topic",
           "page": 99,
-          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nG01 | Bladder exstrophy: protection and perioperative care\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 15 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 4, 5\nPED PDF164-165\nOlder GU PPT slide10\nPED PDF164, bladder-exstrophy nursing actions\nGU_Meyers, actual slides 10,19\nGU guided notes instructor key, Word paragraphs 5, 7, 9, 39, 40, 41\nG02 | Cryptorchidism and orchiopexy\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 16 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 4, 5\nPED PDF165\nOlder GU PPT slide9\nGU_Meyers, actual slides 8,9,19\nGU guided notes instructor key, Word paragraphs 7, 31, 36\nG03 | Nephrotic syndrome: protein loss, edema and steroids\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 17 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 6, 7\nPED PDF169-170\nOlder GU PPT slides12-13\nPED PDF169, minimal-change nephrotic expected findings\nPED PDF170, corticosteroids and client education\nPED PDF170, plasma expander and diuretic passages\nGU_Meyers, actual slides 13,14,15,19\nGU guided notes instructor key, Word paragraphs 5, 8, 51, 52, 53, 55, 56, 57, 60, 61\nG04 | Acute glomerulonephritis: fluid retention and hypertension\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 18 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 5, 6\nPED PDF168-169\nOlder GU PPT slide11\nPED PDF168, AGN nutritional nursing care"
+          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nG01 | Bladder exstrophy: protection and perioperative care\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 15 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 4, 5\nPED PDF164-165\nOlder GU PPT slide10\nPED PDF164, bladder-exstrophy nursing actions\nGU_Meyers, actual slides 10,19\nGU guided notes instructor key, Word paragraphs 5, 7, 9, 39, 40, 41\nG02 | Cryptorchidism and orchiopexy\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 16 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 4, 5\nPED PDF165\nOlder GU PPT slide9\nGU_Meyers, actual slides 8,9,19\nGU guided notes instructor key, Word paragraphs 7, 31, 36\nG03 | Nephrotic syndrome: protein loss, edema, and steroids\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 17 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 6, 7\nPED PDF169-170\nOlder GU PPT slides12-13\nPED PDF169, minimal-change nephrotic expected findings\nPED PDF170, corticosteroids and client education\nPED PDF170, plasma expander and diuretic passages\nGU_Meyers, actual slides 13,14,15,19\nGU guided notes instructor key, Word paragraphs 5, 8, 51, 52, 53, 55, 56, 57, 60, 61\nG04 | Acute glomerulonephritis: fluid retention and hypertension\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 18 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nGU original IN viewer pages 5, 6\nPED PDF168-169\nOlder GU PPT slide11\nPED PDF168, AGN nutritional nursing care"
         },
         {
           "title": "GU_Meyers, actual slides 11,12,15,19",
@@ -588,7 +588,7 @@ window.FULL_PATHS = {
       ],
       "objectives": [
         {
-          "title": "Measles: Koplik spots, airborne spread and care",
+          "title": "Measles: Koplik spots, airborne spread, and care",
           "page": 5,
           "parts": [
             [
@@ -610,7 +610,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Mumps: parotid swelling, precautions and comfort",
+          "title": "Mumps: parotid swelling, precautions, and comfort",
           "page": 14,
           "parts": [
             [
@@ -742,7 +742,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Kawasaki disease: vasculitis, IVIG and coronary protection",
+          "title": "Kawasaki disease: vasculitis, IVIG, and coronary protection",
           "page": 67,
           "parts": [
             [
@@ -769,7 +769,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 124,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 120 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nI01 Measles: Koplik spots,\nairborne spread and care\nL01 Recognition and transmission\nL02 Assessment and care\nL03 Clinical distinctions and evaluation\nI02 Mumps: parotid swelling,\nprecautions and comfort\nL04 Recognition and spread\nL05 Nursing care and complications\nL06 Family teaching and evaluation\nI03 Varicella: evolving lesions and\ntransmission precautions\nL07 Pattern and cause\nL08 Care and safety\nL09 Teaching and evaluation\nI04 Fifth disease: rash timing and\nexposure priorities\nL10 Recognition and transmission\nL11 Support and monitoring\nL12 Important comparisons\nI05 Scarlet fever and group A\nstreptococcal illness\nL13 Cause and recognition\nL14 Assessment, care and teaching\nL15 Useful contrast\nI06 Epstein-Barr virus and\ninfectious mononucleosis\nL16 Recognition and spread\nL17 Assessment and supportive care\nL18 Splenic safety and outcomes\nI07 Rheumatic fever: post-strep\ninflammation and cardiac risk\nL19 Mechanism and manifestations\nL20 Assessment and treatment\nL21 Teaching and outcomes\nI08 Kawasaki disease: vasculitis,\nIVIG and coronary protection\nL22 Disease pattern\nL23 Treatment and monitoring\nL24 Discharge and evaluation\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 120 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nI01 Measles: Koplik spots,\nairborne spread, and care\nL01 Recognition and transmission\nL02 Assessment and care\nL03 Clinical distinctions and evaluation\nI02 Mumps: parotid swelling,\nprecautions, and comfort\nL04 Recognition and spread\nL05 Nursing care and complications\nL06 Family teaching and evaluation\nI03 Varicella: evolving lesions and\ntransmission precautions\nL07 Pattern and cause\nL08 Care and safety\nL09 Teaching and evaluation\nI04 Fifth disease: rash timing and\nexposure priorities\nL10 Recognition and transmission\nL11 Support and monitoring\nL12 Important comparisons\nI05 Scarlet fever and group A\nstreptococcal illness\nL13 Cause and recognition\nL14 Assessment, care, and teaching\nL15 Useful contrast\nI06 Epstein-Barr virus and\ninfectious mononucleosis\nL16 Recognition and spread\nL17 Assessment and supportive care\nL18 Splenic safety and outcomes\nI07 Rheumatic fever: post-strep\ninflammation and cardiac risk\nL19 Mechanism and manifestations\nL20 Assessment and treatment\nL21 Teaching and outcomes\nI08 Kawasaki disease: vasculitis,\nIVIG, and coronary protection\nL22 Disease pattern\nL23 Treatment and monitoring\nL24 Discharge and evaluation\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -784,12 +784,12 @@ window.FULL_PATHS = {
         {
           "title": "Source locators for each topic",
           "page": 127,
-          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nI01 | Measles: Koplik spots, airborne spread and care\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 21 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 2, 3\nImmunity original IN viewer pages 2\nPED PDF244-246\nOlder Immunity PPT slide3\nImmune_Meyers, actual slides 4,5,13\nImmune guided notes instructor key, Word paragraphs 23, 24, 25, 26, 27, 28, 29, 82\nI02 | Mumps: parotid swelling, precautions and comfort\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 21 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 5, 6\nPED PDF244-246\nOlder Immunity PPT slide7\nImmune_Meyers, actual slides 6,13\nImmune guided notes instructor key, Word paragraphs 31, 32, 82\nI03 | Varicella: evolving lesions and transmission precautions\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 4, 5\nPED PDF244-246\nOlder Immunity PPT slide6\nImmune_Meyers, actual slides 7,13\nImmune guided notes instructor key, Word paragraphs 37, 38, 39, 40, 41, 83\nI04 | Fifth disease: rash timing and exposure priorities\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 6\nPED PDF244-246\nMN PDF61 pregnancy-exposure context\nOlder Immunity PPT slide10\nImmune_Meyers, actual slides 8,13\nImmune guided notes instructor key, Word paragraphs 43, 44, 45, 46, 47, 48, 84"
+          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nI01 | Measles: Koplik spots, airborne spread, and care\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 21 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 2, 3\nImmunity original IN viewer pages 2\nPED PDF244-246\nOlder Immunity PPT slide3\nImmune_Meyers, actual slides 4,5,13\nImmune guided notes instructor key, Word paragraphs 23, 24, 25, 26, 27, 28, 29, 82\nI02 | Mumps: parotid swelling, precautions, and comfort\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 21 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 5, 6\nPED PDF244-246\nOlder Immunity PPT slide7\nImmune_Meyers, actual slides 6,13\nImmune guided notes instructor key, Word paragraphs 31, 32, 82\nI03 | Varicella: evolving lesions and transmission precautions\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 4, 5\nPED PDF244-246\nOlder Immunity PPT slide6\nImmune_Meyers, actual slides 7,13\nImmune guided notes instructor key, Word paragraphs 37, 38, 39, 40, 41, 83\nI04 | Fifth disease: rash timing and exposure priorities\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 6\nPED PDF244-246\nMN PDF61 pregnancy-exposure context\nOlder Immunity PPT slide10\nImmune_Meyers, actual slides 8,13\nImmune guided notes instructor key, Word paragraphs 43, 44, 45, 46, 47, 48, 84"
         },
         {
           "title": "I05 | Scarlet fever and group A streptococcal illness",
           "page": 128,
-          "text": "Teaching: L13 / L14 / L15\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 7, 8\nIN Immunity blocks129-144, scarlet-fever portion\nPED PDF102-103 for GABHS assessment/treatment; PDF127-128 for separate rheumatic-fever mechanism\nPED PDF102-103, GABHS testing and pharyngitis treatment\nImmune_Meyers, actual slides 10\nImmune guided notes instructor key, Word paragraphs 57, 58, 59\nI06 | Epstein-Barr virus and infectious mononucleosis\nTeaching: L16 / L17 / L18\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 6, 7\nPED PDF244-246\nOlder Immunity PPT slide11\nImmune_Meyers, actual slides 9,13\nImmune guided notes instructor key, Word paragraphs 50, 51, 52, 53, 54, 55, 84\nI07 | Rheumatic fever: post-strep inflammation and cardiac risk\nTeaching: L19 / L20 / L21\nUpdated guide: paragraph positions 23 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 7, 8\nPED PDF127-128\nIN Immunity rheumatic-fever portion\nPED PDF128, antibiotic prophylaxis\nImmune_Meyers, actual slides 10,13\nImmune guided notes instructor key, Word paragraphs 60, 61, 62\nI08 | Kawasaki disease: vasculitis, IVIG and coronary protection\nTeaching: L22 / L23 / L24\nUpdated guide: paragraph positions 23 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 9, 10, 11\nPED PDF129-130\nOlder Immunity PPT slides15-16\nOriginal Immunity IN image8.png, Kawasaki discharge panel; PED PDF130, report fever/follow-up\nImmune_Meyers, actual slides 11,13\nImmune guided notes instructor key, Word paragraphs 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 85"
+          "text": "Teaching: L13 / L14 / L15\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 7, 8\nIN Immunity blocks129-144, scarlet-fever portion\nPED PDF102-103 for GABHS assessment/treatment; PDF127-128 for separate rheumatic-fever mechanism\nPED PDF102-103, GABHS testing and pharyngitis treatment\nImmune_Meyers, actual slides 10\nImmune guided notes instructor key, Word paragraphs 57, 58, 59\nI06 | Epstein-Barr virus and infectious mononucleosis\nTeaching: L16 / L17 / L18\nUpdated guide: paragraph positions 22 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 6, 7\nPED PDF244-246\nOlder Immunity PPT slide11\nImmune_Meyers, actual slides 9,13\nImmune guided notes instructor key, Word paragraphs 50, 51, 52, 53, 54, 55, 84\nI07 | Rheumatic fever: post-strep inflammation and cardiac risk\nTeaching: L19 / L20 / L21\nUpdated guide: paragraph positions 23 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 7, 8\nPED PDF127-128\nIN Immunity rheumatic-fever portion\nPED PDF128, antibiotic prophylaxis\nImmune_Meyers, actual slides 10,13\nImmune guided notes instructor key, Word paragraphs 60, 61, 62\nI08 | Kawasaki disease: vasculitis, IVIG, and coronary protection\nTeaching: L22 / L23 / L24\nUpdated guide: paragraph positions 23 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nImmunity original IN viewer pages 9, 10, 11\nPED PDF129-130\nOlder Immunity PPT slides15-16\nOriginal Immunity IN image8.png, Kawasaki discharge panel; PED PDF130, report fever/follow-up\nImmune_Meyers, actual slides 11,13\nImmune guided notes instructor key, Word paragraphs 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 85"
         },
         {
           "title": "Brief supplemental lecture context",
@@ -824,7 +824,7 @@ window.FULL_PATHS = {
       ],
       "objectives": [
         {
-          "title": "Child maltreatment: recognition, assessment and FDIA",
+          "title": "Child maltreatment: recognition, assessment, and FDIA",
           "page": 5,
           "parts": [
             [
@@ -890,7 +890,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Intimate partner violence: privacy, safety and support",
+          "title": "Intimate partner violence: privacy, safety, and support",
           "page": 34,
           "parts": [
             [
@@ -912,7 +912,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Bullying: risk, behavioral changes and nursing support",
+          "title": "Bullying: risk, behavioral changes, and nursing support",
           "page": 44,
           "parts": [
             [
@@ -939,7 +939,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 83,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 75 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nA01 Child maltreatment:\nrecognition, assessment and FDIA\nL01 Types and context\nL02 Does the history match the child?\nL03 Medical child abuse and FDIA\nA02 Suspected child abuse:\nreporting and immediate protection\nL04 Suspicion versus proof\nL05 Protection and collaboration\nL06 Explaining the report\nA03 Abuse disclosure: therapeutic\ncommunication and documentation\nL07 A safe conversation\nL08 Supportive responses\nL09 Objective documentation\nA04 Intimate partner violence:\nprivacy, safety and support\nL10 Recognition and risk context\nL11 Private assessment and immediate action\nL12 Support, planning and outcomes\nA05 Bullying: risk, behavioral\nchanges and nursing support\nL13 Recognition and risks\nL14 Behavioral and physical cues\nL15 Interventions and outcomes\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 10 of 80 items to this broad area. That is scope context, not an allocation rule for the 75 learning checks.\nLesson counts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nA01 Child maltreatment:\nrecognition, assessment, and FDIA\nL01 Types and context\nL02 Does the history match the child?\nL03 Medical child abuse and FDIA\nA02 Suspected child abuse:\nreporting and immediate protection\nL04 Suspicion versus proof\nL05 Protection and collaboration\nL06 Explaining the report\nA03 Abuse disclosure: therapeutic\ncommunication and documentation\nL07 A safe conversation\nL08 Supportive responses\nL09 Objective documentation\nA04 Intimate partner violence:\nprivacy, safety, and support\nL10 Recognition and risk context\nL11 Private assessment and immediate action\nL12 Support, planning, and outcomes\nA05 Bullying: risk, behavioral\nchanges, and nursing support\nL13 Recognition and risks\nL14 Behavioral and physical cues\nL15 Interventions and outcomes\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -954,12 +954,12 @@ window.FULL_PATHS = {
         {
           "title": "Source locators for each topic",
           "page": 86,
-          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nA01 | Child maltreatment: recognition, assessment and FDIA\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 26 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 1, 2\nAbuse original IN viewer pages 2, 3, 4\nPED PDF304-306\nMH PDF194-196\nMeyers Abuse slides2-9, notes7-8\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA02 | Suspected child abuse: reporting and immediate\nprotection\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 27 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 5, 6\nAbuse original IN viewer pages 4, 5\nPED PDF305-306\nMH PDF196\nMeyers Abuse slides9,11-14,24-25\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA03 | Abuse disclosure: therapeutic communication and\ndocumentation\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 26, 28 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 4, 5\nAbuse original IN viewer pages 8, 9\nPED PDF305\nMH PDF195-196\nMeyers Abuse slides10-11,15-17 and notes17\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA04 | Intimate partner violence: privacy, safety and support\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 29 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 6, 7, 8\nAbuse original IN viewer pages 8, 9"
+          "text": "All sources are contained in the self-contained Exam 4 Review Source Pack. These locators make the teaching traceable; external files are\nnot needed to use this PDF’s lessons, checks, keys, or navigation.\nA01 | Child maltreatment: recognition, assessment, and FDIA\nTeaching: L01 / L02 / L03\nUpdated guide: paragraph positions 26 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 1, 2\nAbuse original IN viewer pages 2, 3, 4\nPED PDF304-306\nMH PDF194-196\nMeyers Abuse slides2-9, notes7-8\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA02 | Suspected child abuse: reporting and immediate\nprotection\nTeaching: L04 / L05 / L06\nUpdated guide: paragraph positions 27 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 5, 6\nAbuse original IN viewer pages 4, 5\nPED PDF305-306\nMH PDF196\nMeyers Abuse slides9,11-14,24-25\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA03 | Abuse disclosure: therapeutic communication and\ndocumentation\nTeaching: L07 / L08 / L09\nUpdated guide: paragraph positions 26, 28 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 4, 5\nAbuse original IN viewer pages 8, 9\nPED PDF305\nMH PDF195-196\nMeyers Abuse slides10-11,15-17 and notes17\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA04 | Intimate partner violence: privacy, safety, and support\nTeaching: L10 / L11 / L12\nUpdated guide: paragraph positions 29 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nAbuse original IN viewer pages 6, 7, 8\nAbuse original IN viewer pages 8, 9"
         },
         {
           "title": "Abuse original IN viewer pages 10, 11",
           "page": 87,
-          "text": "Abuse original IN viewer pages 11, 12, 13\nMH PDF194-196\nMeyers Abuse slides20-23, notes23\nOlder Abuse and training PPTs\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA05 | Bullying: risk, behavioral changes and nursing support\nTeaching: L13 / L14 / L15\nUpdated guide: paragraph positions 29 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nChildMH original IN viewer pages 18\nAbuse original IN viewer pages 2, 3, 4\nMH PDF175,177\nMeyers Abuse slides18-19,25\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nVerification record\nBuild records retain source fingerprints, exact question keys, and topic/lesson coverage. The delivered files are checked for internal link\nand bookmark targets, five checks per lesson, source-free clinical stems, text boundaries/glyphs, and rendered layout. The existing Week\n11 and comparison editions are preserved."
+          "text": "Abuse original IN viewer pages 11, 12, 13\nMH PDF194-196\nMeyers Abuse slides20-23, notes23\nOlder Abuse and training PPTs\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nA05 | Bullying: risk, behavioral changes, and nursing support\nTeaching: L13 / L14 / L15\nUpdated guide: paragraph positions 29 in the supplied internal source map. These are paragraph locators, not printed page numbers.\nChildMH original IN viewer pages 18\nAbuse original IN viewer pages 2, 3, 4\nMH PDF175,177\nMeyers Abuse slides18-19,25\nMeyer answered instructor key received November 18, 2026; paragraph/source map in current keyed-note register\nVerification record\nBuild records retain source fingerprints, exact question keys, and topic/lesson coverage. The delivered files are checked for internal link\nand bookmark targets, five checks per lesson, source-free clinical stems, text boundaries/glyphs, and rendered layout. The existing Week\n11 and comparison editions are preserved."
         }
       ]
     },
@@ -1035,7 +1035,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Dyslexia, learning difficulties and developmental support",
+          "title": "Dyslexia, learning difficulties, and developmental support",
           "page": 30,
           "parts": [
             [
@@ -1057,7 +1057,7 @@ window.FULL_PATHS = {
           ]
         },
         {
-          "title": "Conduct disorder: safety, accountability and consistent limits",
+          "title": "Conduct disorder: safety, accountability, and consistent limits",
           "page": 38,
           "parts": [
             [
@@ -1171,7 +1171,7 @@ window.FULL_PATHS = {
           "parts": [
             [
               "Scope and lecture",
-              "Dyslexia, learning difficulties and developmental support. Original lecture viewer pages: ChildMH 1,2, ChildMH 14."
+              "Dyslexia, learning difficulties, and developmental support. Original lecture viewer pages: ChildMH 1,2, ChildMH 14."
             ],
             [
               "Clinical reference locators",
@@ -1202,7 +1202,7 @@ window.FULL_PATHS = {
           "parts": [
             [
               "Scope and lecture",
-              "Conduct disorder: safety, accountability and consistent limits. Original lecture viewer pages: ChildMH 17,18."
+              "Conduct disorder: safety, accountability, and consistent limits. Original lecture viewer pages: ChildMH 17,18."
             ],
             [
               "Clinical reference locators",
@@ -1266,7 +1266,7 @@ window.FULL_PATHS = {
       "description": "The complete subject path, one idea at a time.",
       "weight": 5,
       "sourceFile": "07 - Pediatric Oncology - NUR2460 Exam 4 Meyers Guided Learning Path.pdf",
-      "references": "Oncology and Grief and Spirituality notes; Pediatric Oncology PPT, closing slide 26, and answered activity. ATI Nursing Care of Children covers Wilms, brain and bone tumors, and developmental grief; the eye-reflex topic is lecture-supported.",
+      "references": "Oncology and Grief and Spirituality notes; Pediatric Oncology PPT, closing slide 26, and answered activity. ATI Nursing Care of Children covers Wilms, brain, and bone tumors, and developmental grief; the eye-reflex topic is lecture-supported.",
       "lessonIds": [
         "O-L01",
         "O-L02",
@@ -1381,7 +1381,7 @@ window.FULL_PATHS = {
         {
           "title": "Coverage and source appendix",
           "page": 94,
-          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 5 of 80 items to this broad area. That is scope context, not an allocation rule for the 85 learning checks. Lesson\ncounts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nO01 Wilms tumor: abdominal\nprecautions and treatment\nL01 Recognition\nL02 The major assessment precaution\nL03 Treatment and postoperative care\nL04 Teaching and evaluation\nO02 Brain tumors: neurologic\nassessment and increased ICP\nL05 Recognition and localization clues\nL06 Priority assessment\nL07 Evaluation and nursing care\nO03 Retinoblastoma: abnormal\neye reflex and further evaluation\nL08 Recognition\nL09 Assessment and action\nL10 Teaching and support\nO04 Osteosarcoma and serious\nillness: adolescent communication\nL11 Condition and developmental context\nL12 Responding to prognosis, fear or death\nL13 Grief before and during serious illness\nL14 Parents, siblings and practical support\nL15 Care, comfort and rehabilitation\nL16 Spiritual and cultural care\nL17 Evaluate and revisit\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
+          "text": "The updated Meyers study guide/blueprint determines the main scope. The guide explicitly says it does not replace\nfull course content. Original IN and corresponding ATI provide clinical detail. Meyers visible slides, embedded\nspeaker notes, closing summaries, and answered activities identify emphasis; older guides/slides supplement.\nThe updated guide assigns 5 of 80 items to this broad area. That is scope context, not an allocation rule for the 85 learning checks. Lesson\ncounts reflect teaching needs rather than predicted question counts.\nGuide topic\nEvery linked lesson\nO01 Wilms tumor: abdominal\nprecautions and treatment\nL01 Recognition\nL02 The major assessment precaution\nL03 Treatment and postoperative care\nL04 Teaching and evaluation\nO02 Brain tumors: neurologic\nassessment and increased ICP\nL05 Recognition and localization clues\nL06 Priority assessment\nL07 Evaluation and nursing care\nO03 Retinoblastoma: abnormal\neye reflex and further evaluation\nL08 Recognition\nL09 Assessment and action\nL10 Teaching and support\nO04 Osteosarcoma and serious\nillness: adolescent communication\nL11 Condition and developmental context\nL12 Responding to prognosis, fear, or death\nL13 Grief before and during serious illness\nL14 Parents, siblings, and practical support\nL15 Care, comfort, and rehabilitation\nL16 Spiritual and cultural care\nL17 Evaluate and revisit\nPrepared materials and question provenance\nThe revised Condensed/Meyers reviewer and topic index organize terminology and coverage. Their current\nreviewer hashes match the source-map record. Full teaching paragraphs were retained and lightly copy-edited,\nwith new lesson goals, term tables, and examples. Relevant original sources were inspected instead of treating a\nsummary as independent authority.\nChecks combine newly written terminology matching and multi-column matrices with adapted reviewed Atomic MC/SATA items from the\nsupplied pack. Some earlier concepts recur deliberately. These are personal learning checks, not official ATI items or a claim of access to\nthe professor’s exam."
         },
         {
           "title": "What Meyers emphasized",
@@ -1710,7 +1710,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Elevated mood and increased goal-directed activity.",
-            "Pacing, restlessness and finger tapping.",
+            "Pacing, restlessness, and finger tapping.",
             "Slowed movement, speech, and responses."
           ],
           "key": [
@@ -1764,7 +1764,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L02-s2",
           "title": "Understand the pattern",
-          "body": "Prior depression and family history are important risks. Also assess stressful events, trauma, chronic illness, postpartum changes, substance use, anxiety, low self-esteem and limited social support. Risk factors guide assessment and do not diagnose an individual.",
+          "body": "Prior depression and family history are important risks. Also assess stressful events, trauma, chronic illness, postpartum changes, substance use, anxiety, low self-esteem, and limited social support. Risk factors guide assessment and do not diagnose an individual.",
           "kind": "idea"
         },
         {
@@ -1928,7 +1928,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L03-s1",
           "title": "Understand the pattern",
-          "body": "Ask directly about suicidal thoughts, intent, plans, access to means, and past attempts. A depression score supports assessment but never replaces an immediate safety assessment. Assess psychosis, hopelessness, substance use and ability to meet physical needs.",
+          "body": "Ask directly about suicidal thoughts, intent, plans, access to means, and past attempts. A depression score supports assessment but never replaces an immediate safety assessment. Assess psychosis, hopelessness, substance use, and ability to meet physical needs.",
           "kind": "idea",
           "terms": [
             [
@@ -1954,7 +1954,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L03-s3",
           "title": "Connect it to nursing care",
-          "body": "Coordinate psychotherapy, prescribed medication, nutrition and support. Set achievable goals for eating, grooming, rest and activity; build participation gradually instead of demanding a large social activity immediately.",
+          "body": "Coordinate psychotherapy, prescribed medication, nutrition, and support. Set achievable goals for eating, grooming, rest, and activity; build participation gradually instead of demanding a large social activity immediately.",
           "kind": "idea"
         },
         {
@@ -2050,7 +2050,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "D-L03-q4",
-          "stem": "Which cognitive, functional or safety changes support depression recovery?",
+          "stem": "Which cognitive, functional, or safety changes support depression recovery?",
           "fmt": "A",
           "choices": [
             "New risky spending.",
@@ -2134,7 +2134,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L04-s1",
           "title": "Understand the pattern",
-          "body": "Use calm, accepting presence. A withdrawn patient may have slowed thinking, little energy and difficulty concentrating. Sit with the person, offer brief regular contact, speak simply and allow silence and time to respond.",
+          "body": "Use calm, accepting presence. A withdrawn patient may have slowed thinking, little energy, and difficulty concentrating. Sit with the person, offer brief regular contact, speak simply, and allow silence and time to respond.",
           "kind": "idea",
           "terms": [
             [
@@ -2293,7 +2293,7 @@ window.FULL_PATHS = {
       "number": 5,
       "path": "D",
       "subject": "D",
-      "title": "Observations, reflection and I statements",
+      "title": "Observations, reflection, and I statements",
       "focus": "Distinguish acknowledgment of a feeling from agreement with a negative belief.",
       "topic": "Therapeutic communication in depression",
       "codes": [
@@ -2338,7 +2338,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L05-s4",
           "title": "Connect it to nursing care",
-          "body": "Clarification, restating, reflection, and offering self help the nurse understand the person's experience. Validate the emotion and avoid judgment, arguing, personal criticism, quick advice, false reassurance or telling the person to be grateful. Avoid blaming 'why' questions, which can sound judgmental.",
+          "body": "Clarification, restating, reflection, and offering self help the nurse understand the person's experience. Validate the emotion and avoid judgment, arguing, personal criticism, quick advice, false reassurance, or telling the person to be grateful. Avoid blaming 'why' questions, which can sound judgmental.",
           "kind": "idea"
         },
         {
@@ -2537,7 +2537,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L06-s4",
           "title": "Connect it to nursing care",
-          "body": "Evaluate whether the patient can express concerns, tolerate contact, use support and participate in realistic care goals. Maintain professional boundaries and a consistent follow-up plan.",
+          "body": "Evaluate whether the patient can express concerns, tolerate contact, use support, and participate in realistic care goals. Maintain professional boundaries and a consistent follow-up plan.",
           "kind": "idea"
         },
         {
@@ -2711,7 +2711,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L07-s1",
           "title": "Suicidal ideation",
-          "body": "Suicidal ideation includes thoughts, consideration or planning of death by self-harm. A suicide attempt involves self-directed behavior with intent to die. Intent alone does not turn thoughts into an attempt. Nonsuicidal self-injury (NSSI) occurs without intent to die, but still requires assessment of current suicide risk.",
+          "body": "Suicidal ideation includes thoughts, consideration, or planning of death by self-harm. A suicide attempt involves self-directed behavior with intent to die. Intent alone does not turn thoughts into an attempt. Nonsuicidal self-injury (NSSI) occurs without intent to die, but still requires assessment of current suicide risk.",
           "kind": "idea",
           "terms": [
             [
@@ -2737,7 +2737,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L07-s3",
           "title": "Connect it to nursing care",
-          "body": "Assess prior attempts, depression/bipolar illness, psychosis, substances, recent losses, violence/trauma, social isolation, access to lethal means and available supports. Do not use a demographic stereotype or a single protective factor to rule out risk.",
+          "body": "Assess prior attempts, depression/bipolar illness, psychosis, substances, recent losses, violence/trauma, social isolation, access to lethal means, and available supports. Do not use a demographic stereotype or a single protective factor to rule out risk.",
           "kind": "idea"
         },
         {
@@ -2809,7 +2809,7 @@ window.FULL_PATHS = {
           "stem": "What is suicidal ideation?",
           "fmt": "C",
           "choices": [
-            "Thoughts, consideration or planning of suicide.",
+            "Thoughts, consideration, or planning of suicide.",
             "Self-harm behavior with intent to die.",
             "Self-injury without intent to die."
           ],
@@ -2921,7 +2921,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L08-s3",
           "title": "Connect it to nursing care",
-          "body": "Directly asking about suicide does not plant the idea. A denial of suicidal thoughts does not end assessment when hopelessness, behavior or other warning signs remain; continue calm, specific follow-up.",
+          "body": "Directly asking about suicide does not plant the idea. A denial of suicidal thoughts does not end assessment when hopelessness, behavior, or other warning signs remain; continue calm, specific follow-up.",
           "kind": "idea"
         },
         {
@@ -3082,7 +3082,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L09-s1",
           "title": "Understand the pattern",
-          "body": "After an attempt, address an immediate medical threat such as impaired breathing, serious bleeding or overdose first while obtaining emergency help. When no medical threat supersedes it, implement suicide safety precautions before routine, nonurgent assessment tasks.",
+          "body": "After an attempt, address an immediate medical threat such as impaired breathing, serious bleeding, or overdose first while obtaining emergency help. When no medical threat supersedes it, implement suicide safety precautions before routine, nonurgent assessment tasks.",
           "kind": "idea",
           "terms": [
             [
@@ -3108,7 +3108,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L09-s3",
           "title": "Make observation continuous when prescribed",
-          "body": "Make observation continuous when prescribed, including a clear handoff: record the staff member responsible and the start/stop times so a shift change does not leave a gap. Search belongings with the patient present under the safety process. Secure cords, belts, shoelaces, razors, glass and other hazards; account for permitted utensils and watch for medication hoarding. Document findings at the required intervals without substituting charting for observation. Reassess with changes in mood, energy, treatment or setting and before discharge.",
+          "body": "Make observation continuous when prescribed, including a clear handoff: record the staff member responsible and the start/stop times so a shift change does not leave a gap. Search belongings with the patient present under the safety process. Secure cords, belts, shoelaces, razors, glass, and other hazards; account for permitted utensils and watch for medication hoarding. Document findings at the required intervals without substituting charting for observation. Reassess with changes in mood, energy, treatment, or setting and before discharge.",
           "kind": "idea"
         },
         {
@@ -3304,7 +3304,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L10-s2",
           "title": "Understand the pattern",
-          "body": "Document statements, findings, risk assessment, precautions, people notified and response to care. Evaluate current intent, access to means, support use and the patient's demonstrated ability to use the plan; do not rely solely on denial of thoughts.",
+          "body": "Document statements, findings, risk assessment, precautions, people notified, and response to care. Evaluate current intent, access to means, support use, and the patient's demonstrated ability to use the plan; do not rely solely on denial of thoughts.",
           "kind": "idea"
         },
         {
@@ -3469,7 +3469,7 @@ window.FULL_PATHS = {
       "subject": "D",
       "title": "Treatment expectations",
       "focus": "Set realistic treatment expectations without independent dose changes.",
-      "topic": "Antidepressants: bupropion, citalopram and nortriptyline",
+      "topic": "Antidepressants: bupropion, citalopram, and nortriptyline",
       "codes": [
         "D04"
       ],
@@ -3480,7 +3480,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L11-s1",
           "title": "Understand the pattern",
-          "body": "Psychotherapy and prescribed antidepressants address depression together with safety, sleep, nutrition, and support. Benefits develop over weeks; early sleep or appetite improvement does not mean full mood recovery. Reassess adherence, side effects, functioning and suicide risk before interpreting nonresponse.",
+          "body": "Psychotherapy and prescribed antidepressants address depression together with safety, sleep, nutrition, and support. Benefits develop over weeks; early sleep or appetite improvement does not mean full mood recovery. Reassess adherence, side effects, functioning, and suicide risk before interpreting nonresponse.",
           "kind": "idea",
           "terms": [
             [
@@ -3500,7 +3500,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L11-s2",
           "title": "Understand the pattern",
-          "body": "CBT helps identify and change negative thoughts and behaviors. Interpersonal therapy addresses relationships contributing to depression; individual, group or family therapy is selected according to need.",
+          "body": "CBT helps identify and change negative thoughts and behaviors. Interpersonal therapy addresses relationships contributing to depression; individual, group, or family therapy is selected according to need.",
           "kind": "idea"
         },
         {
@@ -3512,7 +3512,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L11-s4",
           "title": "Connect it to nursing care",
-          "body": "Report new suicidal thoughts, unusual behavior, worsening depression, or activation promptly, particularly early in treatment or after a dose change. Screen for bipolar symptoms; emerging elevated mood, reduced need for sleep or impulsivity needs evaluation.",
+          "body": "Report new suicidal thoughts, unusual behavior, worsening depression, or activation promptly, particularly early in treatment or after a dose change. Screen for bipolar symptoms; emerging elevated mood, reduced need for sleep, or impulsivity needs evaluation.",
           "kind": "idea"
         },
         {
@@ -3653,7 +3653,7 @@ window.FULL_PATHS = {
       "subject": "D",
       "title": "Bupropion - Wellbutrin",
       "focus": "Connect bupropion's class and seizure precautions to safe teaching.",
-      "topic": "Antidepressants: bupropion, citalopram and nortriptyline",
+      "topic": "Antidepressants: bupropion, citalopram, and nortriptyline",
       "codes": [
         "D04"
       ],
@@ -3664,7 +3664,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L12-s1",
           "title": "Understand the pattern",
-          "body": "Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI). It can cause insomnia, agitation, dry mouth, headache and appetite/weight reduction. Assess sleep, intake, mood, and response.",
+          "body": "Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI). It can cause insomnia, agitation, dry mouth, headache, and appetite/weight reduction. Assess sleep, intake, mood, and response.",
           "kind": "idea",
           "terms": [
             [
@@ -3684,13 +3684,13 @@ window.FULL_PATHS = {
         {
           "id": "D-L12-s2",
           "title": "Understand the pattern",
-          "body": "It lowers the seizure threshold. Seizure disorders and anorexia nervosa or bulimia nervosa are important contraindications. Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold and the prescribed formulation. Do not crush sustained/extended-release products.",
+          "body": "It lowers the seizure threshold. Seizure disorders and anorexia nervosa or bulimia nervosa are important contraindications. Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold, and the prescribed formulation. Do not crush sustained/extended-release products.",
           "kind": "idea"
         },
         {
           "id": "D-L12-s3",
           "title": "Connect it to nursing care",
-          "body": "Do not confuse bupropion with an SSRI or assume that every antidepressant causes weight gain. Discuss pregnancy, breastfeeding, other medicines and dose changes with the prescriber.",
+          "body": "Do not confuse bupropion with an SSRI or assume that every antidepressant causes weight gain. Discuss pregnancy, breastfeeding, other medicines, and dose changes with the prescriber.",
           "kind": "idea"
         },
         {
@@ -3801,7 +3801,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold and the prescribed formulation."
+          "reason": "Review alcohol use and abrupt withdrawal risk, other medicines that lower seizure threshold, and the prescribed formulation."
         },
         {
           "id": "D-L12-q5",
@@ -3810,7 +3810,7 @@ window.FULL_PATHS = {
           "choices": [
             "Chew the tablet before swallowing.",
             "Crush the tablet to accelerate release.",
-            "Swallow whole; do not crush, chew or cut."
+            "Swallow whole; do not crush, chew, or cut."
           ],
           "key": [
             2
@@ -3834,7 +3834,7 @@ window.FULL_PATHS = {
       "subject": "D",
       "title": "Citalopram - Celexa",
       "focus": "Recognize SSRI effects and dangerous serotonergic combinations.",
-      "topic": "Antidepressants: bupropion, citalopram and nortriptyline",
+      "topic": "Antidepressants: bupropion, citalopram, and nortriptyline",
       "codes": [
         "D04"
       ],
@@ -3845,7 +3845,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L13-s1",
           "title": "Understand the pattern",
-          "body": "Citalopram is a selective serotonin reuptake inhibitor (SSRI). Monitor nausea/GI effects, sleep changes, sexual adverse effects, agitation and worsening mood. Teach that the benefit is delayed and continued follow-up matters.",
+          "body": "Citalopram is a selective serotonin reuptake inhibitor (SSRI). Monitor nausea/GI effects, sleep changes, sexual adverse effects, agitation, and worsening mood. Teach that the benefit is delayed and continued follow-up matters.",
           "kind": "idea",
           "terms": [
             [
@@ -3865,7 +3865,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L13-s2",
           "title": "Understand the pattern",
-          "body": "Review all prescriptions, OTC products and supplements. Combining serotonergic drugs can cause serotonin syndrome: agitation or confusion, fever/sweating, tremor or rigidity and autonomic changes such as tachycardia. This cluster requires urgent evaluation.",
+          "body": "Review all prescriptions, OTC products, and supplements. Combining serotonergic drugs can cause serotonin syndrome: agitation or confusion, fever/sweating, tremor or rigidity, and autonomic changes such as tachycardia. This cluster requires urgent evaluation.",
           "kind": "idea"
         },
         {
@@ -3946,7 +3946,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "D-L13-q3",
-          "stem": "Agitation, fever, sweating, tremor and tachycardia develop on a serotonergic drug. What comes first?",
+          "stem": "Agitation, fever, sweating, tremor, and tachycardia develop on a serotonergic drug. What comes first?",
           "fmt": "C",
           "choices": [
             "Give the scheduled dose and reassess after rest.",
@@ -3991,7 +3991,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Monitor nausea/GI effects, sleep changes, sexual adverse effects, agitation and worsening mood."
+          "reason": "Monitor nausea/GI effects, sleep changes, sexual adverse effects, agitation, and worsening mood."
         },
         {
           "id": "D-L13-q5",
@@ -4025,7 +4025,7 @@ window.FULL_PATHS = {
       "subject": "D",
       "title": "Nortriptyline - Pamelor",
       "focus": "Match TCA adverse effects and overdose risk to monitoring.",
-      "topic": "Antidepressants: bupropion, citalopram and nortriptyline",
+      "topic": "Antidepressants: bupropion, citalopram, and nortriptyline",
       "codes": [
         "D04"
       ],
@@ -4036,7 +4036,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L14-s1",
           "title": "Understand the pattern",
-          "body": "Nortriptyline is a tricyclic antidepressant (TCA). Monitor orthostatic hypotension, sedation and anticholinergic effects: dry mouth, blurred vision, constipation and urinary hesitancy/retention.",
+          "body": "Nortriptyline is a tricyclic antidepressant (TCA). Monitor orthostatic hypotension, sedation, and anticholinergic effects: dry mouth, blurred vision, constipation, and urinary hesitancy/retention.",
           "kind": "idea",
           "terms": [
             [
@@ -4056,7 +4056,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L14-s2",
           "title": "Understand the pattern",
-          "body": "Teach the patient to sit before standing and change position slowly. If dizzy, sit or lie down to prevent falling. Support hydration, fiber and oral care within the patient's restrictions. Report persistent urinary retention, marked dizziness or other significant adverse effects.",
+          "body": "Teach the patient to sit before standing and change position slowly. If dizzy, sit or lie down to prevent falling. Support hydration, fiber, and oral care within the patient's restrictions. Report persistent urinary retention, marked dizziness, or other significant adverse effects.",
           "kind": "idea"
         },
         {
@@ -4068,13 +4068,13 @@ window.FULL_PATHS = {
         {
           "id": "D-L14-s4",
           "title": "Connect it to nursing care",
-          "body": "TCAs can cause serious cardiac dysrhythmias in overdose. Assess cardiac/medication history and obtain the prescribed baseline ECG and subsequent monitoring. Use limited, supervised access when suicide risk warrants it. New palpitations, fainting or suspected overdose require urgent assessment.",
+          "body": "TCAs can cause serious cardiac dysrhythmias in overdose. Assess cardiac/medication history and obtain the prescribed baseline ECG and subsequent monitoring. Use limited, supervised access when suicide risk warrants it. New palpitations, fainting, or suspected overdose require urgent assessment.",
           "kind": "idea"
         },
         {
           "id": "D-L14-s5",
           "title": "Connect it to nursing care",
-          "body": "Evaluate effectiveness through mood, sleep, eating, ADLs and social function alongside safety. Adverse effects are drug-specific; do not teach that all psychiatric drugs lower blood pressure or increase weight.",
+          "body": "Evaluate effectiveness through mood, sleep, eating, ADLs, and social function alongside safety. Adverse effects are drug-specific; do not teach that all psychiatric drugs lower blood pressure or increase weight.",
           "kind": "idea"
         },
         {
@@ -4254,7 +4254,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L15-s1",
           "title": "Understand the pattern",
-          "body": "Postpartum depression causes persistent sadness, guilt/inadequacy, anxiety, irritability, disturbed sleep/appetite, and impaired functioning after childbirth. Fatigue that persists beyond the expected recovery, flat affect, weight loss, severe anxiety or rejection of the infant warrant assessment.",
+          "body": "Postpartum depression causes persistent sadness, guilt/inadequacy, anxiety, irritability, disturbed sleep/appetite, and impaired functioning after childbirth. Fatigue that persists beyond the expected recovery, flat affect, weight loss, severe anxiety, or rejection of the infant warrant assessment.",
           "kind": "idea",
           "terms": [
             [
@@ -4274,7 +4274,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L15-s2",
           "title": "Understand the pattern",
-          "body": "Risks include prior depression, abrupt postpartum hormonal changes, limited social support, low self-esteem, an unintended pregnancy, anxiety about the parental role, socioeconomic strain, partner violence, medical illness, breastfeeding difficulties and multiple births.",
+          "body": "Risks include prior depression, abrupt postpartum hormonal changes, limited social support, low self-esteem, an unintended pregnancy, anxiety about the parental role, socioeconomic strain, partner violence, medical illness, breastfeeding difficulties, and multiple births.",
           "kind": "idea"
         },
         {
@@ -4400,7 +4400,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Risks include prior depression, abrupt postpartum hormonal changes, limited social support, low self-esteem, an unintended pregnancy, anxiety about the parental role, socioeconomic strain, partner violence, medical illness, breastfeeding difficulties and multiple births."
+          "reason": "Risks include prior depression, abrupt postpartum hormonal changes, limited social support, low self-esteem, an unintended pregnancy, anxiety about the parental role, socioeconomic strain, partner violence, medical illness, breastfeeding difficulties, and multiple births."
         },
         {
           "id": "D-L15-q5",
@@ -4431,7 +4431,7 @@ window.FULL_PATHS = {
       "number": 16,
       "path": "D",
       "subject": "D",
-      "title": "Blues, depression and psychosis",
+      "title": "Blues, depression, and psychosis",
       "focus": "Distinguish transient blues, depression, and urgent psychotic symptoms.",
       "topic": "Postpartum depression and maternal-infant safety",
       "codes": [
@@ -4444,7 +4444,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L16-s1",
           "title": "Postpartum blues",
-          "body": "Postpartum blues begin in the early days after birth and are usually brief and self-limiting. The supplied ATI Maternal Newborn passage describes resolution around ten days. Persistent, worsening or functionally impairing symptoms need evaluation rather than repeated reassurance.",
+          "body": "Postpartum blues begin in the early days after birth and are usually brief and self-limiting. The supplied ATI Maternal Newborn passage describes resolution around ten days. Persistent, worsening, or functionally impairing symptoms need evaluation rather than repeated reassurance.",
           "kind": "idea",
           "terms": [
             [
@@ -4625,7 +4625,7 @@ window.FULL_PATHS = {
       "number": 17,
       "path": "D",
       "subject": "D",
-      "title": "Assessment, care and teaching",
+      "title": "Assessment, care, and teaching",
       "focus": "Protect both parent and infant while arranging treatment and support.",
       "topic": "Postpartum depression and maternal-infant safety",
       "codes": [
@@ -4638,7 +4638,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L17-s1",
           "title": "Understand the pattern",
-          "body": "Ask directly about self-harm, suicide and harming the infant. Assess intent, plans, means, psychotic experiences and ability to provide care. Protect both parent and infant; do not leave the infant in unsafe sole care while urgent assessment is arranged.",
+          "body": "Ask directly about self-harm, suicide, and harming the infant. Assess intent, plans, means, psychotic experiences, and ability to provide care. Protect both parent and infant; do not leave the infant in unsafe sole care while urgent assessment is arranged.",
           "kind": "idea",
           "terms": [
             [
@@ -4658,7 +4658,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L17-s2",
           "title": "Understand the pattern",
-          "body": "Monitor mood, affect, and parent-infant interactions. Offer nonjudgmental opportunities to discuss feelings, validate distress and help arrange practical support for rest, meals and infant care. Encourage bonding when safe without blaming the parent for symptoms.",
+          "body": "Monitor mood, affect, and parent-infant interactions. Offer nonjudgmental opportunities to discuss feelings, validate distress, and help arrange practical support for rest, meals, and infant care. Encourage bonding when safe without blaming the parent for symptoms.",
           "kind": "idea"
         },
         {
@@ -4670,7 +4670,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L17-s4",
           "title": "Connect it to nursing care",
-          "body": "Arrange follow-up and community support, earlier than a routine postpartum visit when needed. Teach the family to report worsening mood, inability to function, suicidal thoughts, confusion or unusual beliefs promptly. Evaluate recovery through functioning and safety as well as mood.",
+          "body": "Arrange follow-up and community support, earlier than a routine postpartum visit when needed. Teach the family to report worsening mood, inability to function, suicidal thoughts, confusion, or unusual beliefs promptly. Evaluate recovery through functioning and safety as well as mood.",
           "kind": "idea"
         },
         {
@@ -4852,7 +4852,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L18-s1",
           "title": "Electroconvulsive therapy (ECT)",
-          "body": "Electroconvulsive therapy (ECT) uses a controlled electrical stimulus to produce a therapeutic brain seizure under anesthesia. It may be used for treatment-resistant or psychotic depression, severe urgent safety concerns or catatonia. The treatment team weighs benefits and medical/anesthesia risks.",
+          "body": "Electroconvulsive therapy (ECT) uses a controlled electrical stimulus to produce a therapeutic brain seizure under anesthesia. It may be used for treatment-resistant or psychotic depression, severe urgent safety concerns, or catatonia. The treatment team weighs benefits and medical/anesthesia risks.",
           "kind": "idea",
           "terms": [
             [
@@ -4991,7 +4991,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "It may be used for treatment-resistant or psychotic depression, severe urgent safety concerns or catatonia."
+          "reason": "It may be used for treatment-resistant or psychotic depression, severe urgent safety concerns, or catatonia."
         },
         {
           "id": "D-L18-q5",
@@ -5067,7 +5067,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L19-s4",
           "title": "Connect it to nursing care",
-          "body": "Explain anesthesia, the monitored treatment, recovery and possible confusion/memory effects in understandable terms. Reduce fear and provide time for questions. Avoid promising that ECT permanently cures depression.",
+          "body": "Explain anesthesia, the monitored treatment, recovery, and possible confusion/memory effects in understandable terms. Reduce fear and provide time for questions. Avoid promising that ECT permanently cures depression.",
           "kind": "idea"
         },
         {
@@ -5228,7 +5228,7 @@ window.FULL_PATHS = {
         {
           "id": "D-L20-s1",
           "title": "Understand the pattern",
-          "body": "The team gives short-acting anesthesia and a muscle relaxant, supports breathing and monitors the seizure and cardiovascular response. Follow prescribed ECG, blood pressure, and oxygen-saturation monitoring; oxygen continues until adequate spontaneous breathing returns.",
+          "body": "The team gives short-acting anesthesia and a muscle relaxant, supports breathing, and monitors the seizure and cardiovascular response. Follow prescribed ECG, blood pressure, and oxygen-saturation monitoring; oxygen continues until adequate spontaneous breathing returns.",
           "kind": "idea",
           "terms": [
             [
@@ -5254,13 +5254,13 @@ window.FULL_PATHS = {
         {
           "id": "D-L20-s3",
           "title": "Connect it to nursing care",
-          "body": "Temporary confusion, disorientation and retrograde memory difficulty can occur. Reorient calmly, assist with ADLs, protect from falls, and reassess cognition. Memory effects vary; do not guarantee that every memory change will resolve completely.",
+          "body": "Temporary confusion, disorientation, and retrograde memory difficulty can occur. Reorient calmly, assist with ADLs, protect from falls, and reassess cognition. Memory effects vary; do not guarantee that every memory change will resolve completely.",
           "kind": "idea"
         },
         {
           "id": "D-L20-s4",
           "title": "Connect it to nursing care",
-          "body": "Reinforce anesthesia-related discharge restrictions, supervision and follow-up instructions. Continuing psychiatric treatment and safety reassessment remain necessary after ECT. Evaluate mood and functioning over the treatment course as well as immediate recovery.",
+          "body": "Reinforce anesthesia-related discharge restrictions, supervision, and follow-up instructions. Continuing psychiatric treatment and safety reassessment remain necessary after ECT. Evaluate mood and functioning over the treatment course as well as immediate recovery.",
           "kind": "idea"
         },
         {
@@ -5438,7 +5438,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L01-s1",
           "title": "Understand the pattern",
-          "body": "Bipolar disorder involves episodes of altered mood and increased energy/activity, often with depressive episodes. Assess duration, severity, functional change, psychosis, substances and medical causes together.",
+          "body": "Bipolar disorder involves episodes of altered mood and increased energy/activity, often with depressive episodes. Assess duration, severity, functional change, psychosis, substances, and medical causes together.",
           "kind": "idea",
           "terms": [
             [
@@ -5464,7 +5464,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L01-s3",
           "title": "Connect it to nursing care",
-          "body": "Mania usually lasts at least one week, or any duration if hospitalization is required. Hypomania lasts at least four consecutive days and produces an observable change without the marked impairment, psychosis or need for hospitalization of mania. These times alone do not diagnose the full syndrome.",
+          "body": "Mania usually lasts at least one week, or any duration if hospitalization is required. Hypomania lasts at least four consecutive days and produces an observable change without the marked impairment, psychosis, or need for hospitalization of mania. These times alone do not diagnose the full syndrome.",
           "kind": "idea"
         },
         {
@@ -5632,7 +5632,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L02-s1",
           "title": "Understand the pattern",
-          "body": "Elevated, expansive or irritable mood can occur with reduced need for sleep, increased activity, pressured/rapid speech, distractibility, racing thoughts, impulsivity and risky spending or sexual behavior. Persistent activity with inadequate rest and intake can threaten physical stability.",
+          "body": "Elevated, expansive, or irritable mood can occur with reduced need for sleep, increased activity, pressured/rapid speech, distractibility, racing thoughts, impulsivity, and risky spending or sexual behavior. Persistent activity with inadequate rest and intake can threaten physical stability.",
           "kind": "idea",
           "terms": [
             [
@@ -5658,7 +5658,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L02-s3",
           "title": "Connect it to nursing care",
-          "body": "Assess judgment, psychosis, substance use, exploitation/sexual safety, aggression and ability to eat, drink, rest and care for self. Obtain baseline information from supports when appropriate.",
+          "body": "Assess judgment, psychosis, substance use, exploitation/sexual safety, aggression, and ability to eat, drink, rest, and care for self. Obtain baseline information from supports when appropriate.",
           "kind": "idea"
         },
         {
@@ -5733,7 +5733,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Rapid topic changes.",
-            "Exaggerated beliefs about power, status or ability.",
+            "Exaggerated beliefs about power, status, or ability.",
             "Reduced emotional expression.",
             "Loss of pleasure."
           ],
@@ -5770,11 +5770,11 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Elevated, expansive or irritable mood can occur with reduced need for sleep, increased activity, pressured/rapid speech, distractibility, racing thoughts, impulsivity and risky spending or sexual behavior."
+          "reason": "Elevated, expansive, or irritable mood can occur with reduced need for sleep, increased activity, pressured/rapid speech, distractibility, racing thoughts, impulsivity, and risky spending or sexual behavior."
         },
         {
           "id": "B-L02-q5",
-          "stem": "What can persistent mania with inadequate food, fluids and sleep cause?",
+          "stem": "What can persistent mania with inadequate food, fluids, and sleep cause?",
           "fmt": "C",
           "choices": [
             "Improved physical endurance.",
@@ -5816,7 +5816,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L03-s1",
           "title": "Understand the pattern",
-          "body": "Assess suicide and self-harm risk throughout the illness, including depression, agitation and transitions between episodes. An energized presentation does not rule out suicidal thinking.",
+          "body": "Assess suicide and self-harm risk throughout the illness, including depression, agitation, and transitions between episodes. An energized presentation does not rule out suicidal thinking.",
           "kind": "idea",
           "terms": [
             [
@@ -6039,13 +6039,13 @@ window.FULL_PATHS = {
         {
           "id": "B-L04-s2",
           "title": "Understand the pattern",
-          "body": "Use calm, brief, concrete directions. Set clear, consistent limits with predictable responses from the team. Redirect unsafe behavior early and avoid arguing, lengthy explanations, power struggles or humiliating confrontation.",
+          "body": "Use calm, brief, concrete directions. Set clear, consistent limits with predictable responses from the team. Redirect unsafe behavior early and avoid arguing, lengthy explanations, power struggles, or humiliating confrontation.",
           "kind": "idea"
         },
         {
           "id": "B-L04-s3",
           "title": "Connect it to nursing care",
-          "body": "Offer individual, supervised noncompetitive activities, such as walking, and alternate activity with rest. Crowds, highly stimulating groups and competitive games can increase agitation.",
+          "body": "Offer individual, supervised noncompetitive activities, such as walking, and alternate activity with rest. Crowds, highly stimulating groups, and competitive games can increase agitation.",
           "kind": "idea"
         },
         {
@@ -6198,7 +6198,7 @@ window.FULL_PATHS = {
       "number": 5,
       "path": "B",
       "subject": "B",
-      "title": "Nutrition, fluids and rest",
+      "title": "Nutrition, fluids, and rest",
       "focus": "Provide nutrition and rest that fit continuous activity.",
       "topic": "Acute mania: nursing care and physical priorities",
       "codes": [
@@ -6231,13 +6231,13 @@ window.FULL_PATHS = {
         {
           "id": "B-L05-s2",
           "title": "Understand the pattern",
-          "body": "Meyers' acute-care example is calorie-dense finger foods about every two hours, vital signs every one to two hours and daily weight. Apply the prescribed observation/care plan and increase assessment when the condition changes.",
+          "body": "Meyers' acute-care example is calorie-dense finger foods about every two hours, vital signs every one to two hours, and daily weight. Apply the prescribed observation/care plan and increase assessment when the condition changes.",
           "kind": "idea"
         },
         {
           "id": "B-L05-s3",
           "title": "Connect it to nursing care",
-          "body": "Monitor hydration, urine output, weight trend, exhaustion, sleep and vital signs. Persistent activity plus poor intake raises energy demand while reducing replacement. Escalate dehydration, significant weight loss, exhaustion, or abnormal vital signs.",
+          "body": "Monitor hydration, urine output, weight trend, exhaustion, sleep, and vital signs. Persistent activity plus poor intake raises energy demand while reducing replacement. Escalate dehydration, significant weight loss, exhaustion, or abnormal vital signs.",
           "kind": "idea"
         },
         {
@@ -6407,7 +6407,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L06-s1",
           "title": "Understand the pattern",
-          "body": "Assess impulsive spending, sexual disinhibition, aggression, self-inflicted injury and suicide risk. Secure hazards and provide the observation level required by current risk. Use the least restrictive effective intervention under the treatment plan.",
+          "body": "Assess impulsive spending, sexual disinhibition, aggression, self-inflicted injury, and suicide risk. Secure hazards and provide the observation level required by current risk. Use the least restrictive effective intervention under the treatment plan.",
           "kind": "idea",
           "terms": [
             [
@@ -6433,7 +6433,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L06-s3",
           "title": "Connect it to nursing care",
-          "body": "Improvement includes adequate sleep, nutrition/hydration, stable weight and vital signs, fewer unsafe behaviors and more organized participation. Judge progress from function and physical status as well as a quieter appearance.",
+          "body": "Improvement includes adequate sleep, nutrition/hydration, stable weight and vital signs, fewer unsafe behaviors, and more organized participation. Judge progress from function and physical status as well as a quieter appearance.",
           "kind": "idea"
         },
         {
@@ -6551,7 +6551,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Improvement includes adequate sleep, nutrition/hydration, stable weight and vital signs, fewer unsafe behaviors and more organized participation."
+          "reason": "Improvement includes adequate sleep, nutrition/hydration, stable weight and vital signs, fewer unsafe behaviors, and more organized participation."
         },
         {
           "id": "B-L06-q5",
@@ -6598,7 +6598,7 @@ window.FULL_PATHS = {
       "subject": "B",
       "title": "Purpose and prescribed monitoring",
       "focus": "Interpret a lithium level with phase, symptoms, and draw timing.",
-      "topic": "Lithium: monitoring, hydration and toxicity",
+      "topic": "Lithium: monitoring, hydration, and toxicity",
       "codes": [
         "B03"
       ],
@@ -6609,7 +6609,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L07-s1",
           "title": "Lithium",
-          "body": "Lithium is a mood stabilizer used for bipolar disorder. It has a narrow therapeutic range, requires serum monitoring and depends on renal function and fluid/sodium balance. Clinical findings matter alongside the number.",
+          "body": "Lithium is a mood stabilizer used for bipolar disorder. It has a narrow therapeutic range, requires serum monitoring, and depends on renal function and fluid/sodium balance. Clinical findings matter alongside the number.",
           "kind": "idea",
           "terms": [
             [
@@ -6639,13 +6639,13 @@ window.FULL_PATHS = {
         {
           "id": "B-L07-s3",
           "title": "Connect it to nursing care",
-          "body": "ATI obtains the level 10-12 hours after the last dose. Record actual dose/draw timing. Its monitoring example is every two to three days at initiation until stable, then every one to three months; the prescribed follow-up schedule governs. Monitor closely after dose changes and reassess sooner with illness, renal change or interacting medicines.",
+          "body": "ATI obtains the level 10-12 hours after the last dose. Record actual dose/draw timing. Its monitoring example is every two to three days at initiation until stable, then every one to three months; the prescribed follow-up schedule governs. Monitor closely after dose changes and reassess sooner with illness, renal change, or interacting medicines.",
           "kind": "idea"
         },
         {
           "id": "B-L07-s4",
           "title": "Connect it to nursing care",
-          "body": "Assess baseline and ongoing renal function, electrolytes, thyroid function, weight and symptoms. Effects can begin within 5-7 days, with maximum benefit sometimes taking 2-3 weeks. Take the prescribed formulation/schedule; food can reduce GI discomfort.",
+          "body": "Assess baseline and ongoing renal function, electrolytes, thyroid function, weight, and symptoms. Effects can begin within 5-7 days, with maximum benefit sometimes taking 2-3 weeks. Take the prescribed formulation/schedule; food can reduce GI discomfort.",
           "kind": "idea"
         },
         {
@@ -6790,9 +6790,9 @@ window.FULL_PATHS = {
       "number": 8,
       "path": "B",
       "subject": "B",
-      "title": "Fluid, sodium and interactions",
+      "title": "Fluid, sodium, and interactions",
       "focus": "Explain why illness, salt changes, and interacting drugs can raise risk.",
-      "topic": "Lithium: monitoring, hydration and toxicity",
+      "topic": "Lithium: monitoring, hydration, and toxicity",
       "codes": [
         "B03"
       ],
@@ -6803,7 +6803,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L08-s1",
           "title": "Understand the pattern",
-          "body": "Maintain consistent sodium intake and adequate prescribed fluids. Sodium depletion or dehydration can increase lithium concentration. Do not independently begin a low-sodium diet, salt loading or excessive water loading.",
+          "body": "Maintain consistent sodium intake and adequate prescribed fluids. Sodium depletion or dehydration can increase lithium concentration. Do not independently begin a low-sodium diet, salt loading, or excessive water loading.",
           "kind": "idea",
           "terms": [
             [
@@ -6829,7 +6829,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L08-s3",
           "title": "Connect it to nursing care",
-          "body": "Diuretics and NSAIDs can increase lithium toxicity risk. Review all new prescriptions, OTC products and supplements with the prescriber. Renal disease, hypovolemia, and relevant cardiac/thyroid conditions require special consideration.",
+          "body": "Diuretics and NSAIDs can increase lithium toxicity risk. Review all new prescriptions, OTC products, and supplements with the prescriber. Renal disease, hypovolemia, and relevant cardiac/thyroid conditions require special consideration.",
           "kind": "idea"
         },
         {
@@ -6891,7 +6891,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "B-L08-q2",
-          "stem": "Vomiting, diarrhea or excessive sweating develop on lithium. What should the patient do?",
+          "stem": "Vomiting, diarrhea, or excessive sweating develop on lithium. What should the patient do?",
           "fmt": "C",
           "choices": [
             "Continue dosing and independently increase fluids.",
@@ -6997,7 +6997,7 @@ window.FULL_PATHS = {
       "subject": "B",
       "title": "Adverse effects versus toxicity",
       "focus": "Distinguish a mild fine tremor from neurological deterioration.",
-      "topic": "Lithium: monitoring, hydration and toxicity",
+      "topic": "Lithium: monitoring, hydration, and toxicity",
       "codes": [
         "B03"
       ],
@@ -7008,7 +7008,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L09-s1",
           "title": "Understand the pattern",
-          "body": "A mild fine hand tremor, thirst, increased urination, or transient mild GI effects can occur at lower levels. Persistent or worsening symptoms, neurological changes and dehydration still require assessment even if an earlier level was within range.",
+          "body": "A mild fine hand tremor, thirst, increased urination, or transient mild GI effects can occur at lower levels. Persistent or worsening symptoms, neurological changes, and dehydration still require assessment even if an earlier level was within range.",
           "kind": "idea",
           "terms": [
             [
@@ -7044,13 +7044,13 @@ window.FULL_PATHS = {
         {
           "id": "B-L09-s4",
           "title": "Connect it to nursing care",
-          "body": "Suspected advanced/severe toxicity requires acute medical care and supportive treatment; hemodialysis may be indicated. Do not attempt home detoxification or independently induce vomiting. Evaluate renal function, hydration, neurological status and the prescribed plan before resuming doses.",
+          "body": "Suspected advanced/severe toxicity requires acute medical care and supportive treatment; hemodialysis may be indicated. Do not attempt home detoxification or independently induce vomiting. Evaluate renal function, hydration, neurological status, and the prescribed plan before resuming doses.",
           "kind": "idea"
         },
         {
           "id": "B-L09-s5",
           "title": "Connect it to nursing care",
-          "body": "Even a level of 1.0 mEq/L requires a reassuring clinical assessment: check symptoms, renal/fluid status, dose timing and the prescribed target before giving the dose. A number within range does not override toxicity symptoms.",
+          "body": "Even a level of 1.0 mEq/L requires a reassuring clinical assessment: check symptoms, renal/fluid status, dose timing, and the prescribed target before giving the dose. A number within range does not override toxicity symptoms.",
           "kind": "idea"
         },
         {
@@ -7100,7 +7100,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "B-L09-q2",
-          "stem": "Coarse tremor, confusion and poor coordination develop on lithium. What comes first?",
+          "stem": "Coarse tremor, confusion, and poor coordination develop on lithium. What comes first?",
           "fmt": "C",
           "choices": [
             "Wait for the next routine blood draw.",
@@ -7251,7 +7251,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L10-s2",
           "title": "Understand the pattern",
-          "body": "Give the prescribed formulation and schedule and monitor mood, sleep, impulsivity, eating, ADLs and interactions. Follow ordered serum levels and assess adherence and adverse effects. Do not independently stop or adjust the medication.",
+          "body": "Give the prescribed formulation and schedule and monitor mood, sleep, impulsivity, eating, ADLs, and interactions. Follow ordered serum levels and assess adherence and adverse effects. Do not independently stop or adjust the medication.",
           "kind": "idea"
         },
         {
@@ -7438,7 +7438,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L11-s2",
           "title": "Severe abdominal pain with nausea/vomiting",
-          "body": "Severe abdominal pain with nausea/vomiting can indicate pancreatitis and requires prompt evaluation. Unusual bruising, gum bleeding or other bleeding can reflect thrombocytopenia.",
+          "body": "Severe abdominal pain with nausea/vomiting can indicate pancreatitis and requires prompt evaluation. Unusual bruising, gum bleeding, or other bleeding can reflect thrombocytopenia.",
           "kind": "idea"
         },
         {
@@ -7643,7 +7643,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L12-s2",
           "title": "Understand the pattern",
-          "body": "Monitor sodium, edema, urine output and blood pressure because water retention/hyponatremia can occur. Dizziness, double vision, nystagmus or unsteady gait require safety assessment. A significant new rash needs urgent review because serious skin reactions can occur.",
+          "body": "Monitor sodium, edema, urine output, and blood pressure because water retention/hyponatremia can occur. Dizziness, double vision, nystagmus, or unsteady gait require safety assessment. A significant new rash needs urgent review because serious skin reactions can occur.",
           "kind": "idea"
         },
         {
@@ -7858,7 +7858,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L13-s2",
           "title": "Understand the pattern",
-          "body": "Check airway, breathing, circulation, level of consciousness, bleeding, and the mechanism/time of injury. Treat an immediate medical threat and obtain emergency help. For fresh self-inflicted cuts, assess bleeding, wound depth and debris before routine documentation. Assess possible ingestion, substances or concealed injuries when the history suggests them.",
+          "body": "Check airway, breathing, circulation, level of consciousness, bleeding, and the mechanism/time of injury. Treat an immediate medical threat and obtain emergency help. For fresh self-inflicted cuts, assess bleeding, wound depth, and debris before routine documentation. Assess possible ingestion, substances, or concealed injuries when the history suggests them.",
           "kind": "idea"
         },
         {
@@ -8031,7 +8031,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L14-s1",
           "title": "Understand the pattern",
-          "body": "Ask directly what happened, the person's intent at the time, current thoughts of dying, plan, access to means, and prior injuries/attempts. Explore triggers, emotions, coping, supports and what the behavior was intended to accomplish.",
+          "body": "Ask directly what happened, the person's intent at the time, current thoughts of dying, plan, access to means, and prior injuries/attempts. Explore triggers, emotions, coping, supports, and what the behavior was intended to accomplish.",
           "kind": "idea",
           "terms": [
             [
@@ -8134,7 +8134,7 @@ window.FULL_PATHS = {
             "It establishes discharge readiness.",
             "It establishes that precautions may stop.",
             "It establishes low current risk.",
-            "Assessment, precautions and an individualized safety plan."
+            "Assessment, precautions, and an individualized safety plan."
           ],
           "key": [
             3
@@ -8244,7 +8244,7 @@ window.FULL_PATHS = {
         {
           "id": "B-L15-s2",
           "title": "Understand the pattern",
-          "body": "Develop an individualized prevention plan with warning signs, coping skills, trusted contacts and a safe environment. Coordinate mental-health treatment, family involvement when appropriate and follow-up. A promise not to repeat the behavior does not replace this plan.",
+          "body": "Develop an individualized prevention plan with warning signs, coping skills, trusted contacts, and a safe environment. Coordinate mental-health treatment, family involvement when appropriate, and follow-up. A promise not to repeat the behavior does not replace this plan.",
           "kind": "idea"
         },
         {
@@ -8304,7 +8304,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "At the wound-dressing review and the final discharge interview.",
-            "At care transitions and changes in mood, energy or condition.",
+            "At care transitions and changes in mood, energy, or condition.",
             "After the next self-injury episode or a change in wound condition."
           ],
           "key": [
@@ -8322,7 +8322,7 @@ window.FULL_PATHS = {
           "stem": "What does a promise to stop self-injury fail to replace?",
           "fmt": "C",
           "choices": [
-            "Assessment, precautions and an individualized safety plan.",
+            "Assessment, precautions, and an individualized safety plan.",
             "It establishes that precautions may stop.",
             "It establishes discharge readiness.",
             "It establishes low current risk."
@@ -8428,7 +8428,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L01-s1",
           "title": "Bladder exstrophy",
-          "body": "Bladder exstrophy is a congenital defect in which the bladder is exposed through the abdominal wall. Urine can leak continuously from exposed mucosa. Associated anomalies can include epispadias, cryptorchidism or hernia.",
+          "body": "Bladder exstrophy is a congenital defect in which the bladder is exposed through the abdominal wall. Urine can leak continuously from exposed mucosa. Associated anomalies can include epispadias, cryptorchidism, or hernia.",
           "kind": "idea",
           "terms": [
             [
@@ -8613,7 +8613,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L02-s1",
           "title": "Understand the pattern",
-          "body": "Reconstruction may require staged procedures. Explain the purpose of protecting the bladder, reducing infection and supporting urinary function. Describe only the repair plan ordered for that child rather than promising one universal operation or continence outcome.",
+          "body": "Reconstruction may require staged procedures. Explain the purpose of protecting the bladder, reducing infection, and supporting urinary function. Describe only the repair plan ordered for that child rather than promising one universal operation or continence outcome.",
           "kind": "idea",
           "terms": [
             [
@@ -8633,13 +8633,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L02-s2",
           "title": "Understand the pattern",
-          "body": "After surgery, assess pain and provide comfort to limit crying and abdominal tension. Maintain prescribed positioning/immobilization and protect skin and pressure areas. Keep urinary drains/stents patent and observe output, leakage, color and signs of obstruction. Record strict intake and output after repair so a drop in drainage can be recognized promptly.",
+          "body": "After surgery, assess pain and provide comfort to limit crying and abdominal tension. Maintain prescribed positioning/immobilization and protect skin and pressure areas. Keep urinary drains/stents patent and observe output, leakage, color, and signs of obstruction. Record strict intake and output after repair so a drop in drainage can be recognized promptly.",
           "kind": "idea"
         },
         {
           "id": "G-L02-s3",
           "title": "Connect it to nursing care",
-          "body": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion or a change in the surgical site needs prompt assessment. Avoid manipulating or removing drains without the surgical plan.",
+          "body": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion, or a change in the surgical site needs prompt assessment. Avoid manipulating or removing drains without the surgical plan.",
           "kind": "idea"
         },
         {
@@ -8706,7 +8706,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion or a change in the surgical site needs prompt assessment."
+          "reason": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion, or a change in the surgical site needs prompt assessment."
         },
         {
           "id": "G-L02-q3",
@@ -8803,7 +8803,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L03-s1",
           "title": "Understand the pattern",
-          "body": "Teach caregivers hand hygiene, gentle protection of the site and the exact dressing, drain and diapering plan. Review infection findings, expected drainage and whom to contact for a change.",
+          "body": "Teach caregivers hand hygiene, gentle protection of the site, and the exact dressing, drain, and diapering plan. Review infection findings, expected drainage, and whom to contact for a change.",
           "kind": "idea",
           "terms": [
             [
@@ -8823,7 +8823,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L03-s2",
           "title": "Understand the pattern",
-          "body": "Offer reassurance through concrete explanations and involvement in appropriate care. Evaluate intact protected tissue, adequate drainage, controlled pain and absence of infection, or skin injury.",
+          "body": "Offer reassurance through concrete explanations and involvement in appropriate care. Evaluate intact protected tissue, adequate drainage, controlled pain, and absence of infection or skin injury.",
           "kind": "idea"
         },
         {
@@ -8890,7 +8890,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion or a change in the surgical site needs prompt assessment."
+          "reason": "Absent or markedly decreased drainage, fever, worsening pain, poor perfusion, or a change in the surgical site needs prompt assessment."
         },
         {
           "id": "G-L03-q3",
@@ -9196,7 +9196,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L05-s2",
           "title": "Understand the pattern",
-          "body": "Explain the procedure in developmentally appropriate terms. Assess for associated anomalies and prepare the family for anesthesia, postoperative comfort and site care as ordered.",
+          "body": "Explain the procedure in developmentally appropriate terms. Assess for associated anomalies and prepare the family for anesthesia, postoperative comfort, and site care as ordered.",
           "kind": "idea"
         },
         {
@@ -9357,7 +9357,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L06-s1",
           "title": "Understand the pattern",
-          "body": "Monitor pain, swelling, wound condition, and urination after repair. Teach the specific activity and wound-care restrictions, prescribed analgesia and signs requiring follow-up, such as fever, increasing redness, drainage, or unexpected severe pain.",
+          "body": "Monitor pain, swelling, wound condition, and urination after repair. Teach the specific activity and wound-care restrictions, prescribed analgesia, and signs requiring follow-up, such as fever, increasing redness, drainage, or unexpected severe pain.",
           "kind": "idea",
           "terms": [
             [
@@ -9383,7 +9383,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L06-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate healing, comfort, the specialist's assessment of testicular position and the family's ability to follow the care plan. Sudden acute scrotal or groin pain requires prompt evaluation rather than routine observation at home.",
+          "body": "Evaluate healing, comfort, the specialist's assessment of testicular position, and the family's ability to follow the care plan. Sudden acute scrotal or groin pain requires prompt evaluation rather than routine observation at home.",
           "kind": "idea"
         },
         {
@@ -9543,7 +9543,7 @@ window.FULL_PATHS = {
       "subject": "G",
       "title": "Mechanism and expected findings",
       "focus": "Connect protein loss to edema without assuming circulation is overfilled.",
-      "topic": "Nephrotic syndrome: protein loss, edema and steroids",
+      "topic": "Nephrotic syndrome: protein loss, edema, and steroids",
       "codes": [
         "G03"
       ],
@@ -9554,7 +9554,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L07-s1",
           "title": "Nephrotic syndrome",
-          "body": "Nephrotic syndrome involves excessive urinary protein loss, low serum albumin, edema and hyperlipidemia. Protein loss reduces the blood's ability to retain fluid in the circulation, allowing fluid to collect in tissues. Edema can coexist with reduced effective circulating volume.",
+          "body": "Nephrotic syndrome involves excessive urinary protein loss, low serum albumin, edema, and hyperlipidemia. Protein loss reduces the blood's ability to retain fluid in the circulation, allowing fluid to collect in tissues. Edema can coexist with reduced effective circulating volume.",
           "kind": "idea",
           "terms": [
             [
@@ -9580,7 +9580,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L07-s3",
           "title": "Connect it to nursing care",
-          "body": "Look for periorbital swelling, dependent/generalized edema, ascites, weight gain, reduced urine output, and frothy urine. Assess appetite, fatigue, skin integrity and respiratory effects of fluid accumulation. Massive protein loss distinguishes it from a primarily hematuric post-streptococcal pattern.",
+          "body": "Look for periorbital swelling, dependent/generalized edema, ascites, weight gain, reduced urine output, and frothy urine. Assess appetite, fatigue, skin integrity, and respiratory effects of fluid accumulation. Massive protein loss distinguishes it from a primarily hematuric post-streptococcal pattern.",
           "kind": "idea"
         },
         {
@@ -9653,7 +9653,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Nephrotic syndrome involves excessive urinary protein loss, low serum albumin, edema and hyperlipidemia."
+          "reason": "Nephrotic syndrome involves excessive urinary protein loss, low serum albumin, edema, and hyperlipidemia."
         },
         {
           "id": "G-L07-q3",
@@ -9739,7 +9739,7 @@ window.FULL_PATHS = {
       "subject": "G",
       "title": "Monitoring and complications",
       "focus": "Monitor fluid trends, infection, and circulation.",
-      "topic": "Nephrotic syndrome: protein loss, edema and steroids",
+      "topic": "Nephrotic syndrome: protein loss, edema, and steroids",
       "codes": [
         "G03"
       ],
@@ -9770,13 +9770,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L08-s2",
           "title": "Understand the pattern",
-          "body": "Assess for infection; urinary protein loss and steroid therapy increase risk. Monitor fever, lethargy, abdominal pain, and other new illness findings. Protect edematous skin, reposition gently and avoid injury. Fever requires prompt assessment, especially during corticosteroid treatment.",
+          "body": "Assess for infection; urinary protein loss and steroid therapy increase risk. Monitor fever, lethargy, abdominal pain, and other new illness findings. Protect edematous skin, reposition gently, and avoid injury. Fever requires prompt assessment, especially during corticosteroid treatment.",
           "kind": "idea"
         },
         {
           "id": "G-L08-s3",
           "title": "Connect it to nursing care",
-          "body": "Complications can include infection, hypovolemia, thromboembolic problems, and worsening renal/fluid status. Report reduced output, sudden weight gain, dyspnea, severe headache, altered behavior, significant abdominal pain or signs of circulatory deterioration.",
+          "body": "Complications can include infection, hypovolemia, thromboembolic problems, and worsening renal/fluid status. Report reduced output, sudden weight gain, dyspnea, severe headache, altered behavior, significant abdominal pain, or signs of circulatory deterioration.",
           "kind": "idea"
         },
         {
@@ -9929,7 +9929,7 @@ window.FULL_PATHS = {
       "subject": "G",
       "title": "Treatment and family teaching",
       "focus": "Distinguish the purposes of prednisone, albumin, and furosemide.",
-      "topic": "Nephrotic syndrome: protein loss, edema and steroids",
+      "topic": "Nephrotic syndrome: protein loss, edema, and steroids",
       "codes": [
         "G03"
       ],
@@ -9940,7 +9940,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L09-s1",
           "title": "Prednisone",
-          "body": "Prednisone, a corticosteroid, reduces protein loss in steroid-responsive disease. Give with meals and follow the prescribed schedule/taper. Monitor infection, BP, weight, glucose and growth. Report GI bleeding or significant new illness; do not stop prolonged therapy abruptly.",
+          "body": "Prednisone, a corticosteroid, reduces protein loss in steroid-responsive disease. Give with meals and follow the prescribed schedule/taper. Monitor infection, BP, weight, glucose, and growth. Report GI bleeding or significant new illness; do not stop prolonged therapy abruptly.",
           "kind": "idea",
           "terms": [
             [
@@ -9966,13 +9966,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L09-s3",
           "title": "Connect it to nursing care",
-          "body": "Follow the prescribed sodium/fluid and nutrition plan. Restrictions vary with edema, renal function and treatment; do not apply a universal low-protein or severely restricted-fluid diet to every child.",
+          "body": "Follow the prescribed sodium/fluid and nutrition plan. Restrictions vary with edema, renal function, and treatment; do not apply a universal low-protein or severely restricted-fluid diet to every child.",
           "kind": "idea"
         },
         {
           "id": "G-L09-s4",
           "title": "Connect it to nursing care",
-          "body": "Teach home weight/urine monitoring when ordered, medication adherence, infection precautions and relapse/reporting signs. Evaluate decreasing proteinuria and edema, stable circulation/renal function and improved activity. Biopsy is not automatically required for every steroid-responsive child.",
+          "body": "Teach home weight/urine monitoring when ordered, medication adherence, infection precautions, and relapse/reporting signs. Evaluate decreasing proteinuria and edema, stable circulation/renal function, and improved activity. Biopsy is not automatically required for every steroid-responsive child.",
           "kind": "idea"
         },
         {
@@ -10164,13 +10164,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L10-s2",
           "title": "Understand the pattern",
-          "body": "Expected findings include tea/cola or smoky urine, oliguria, edema and hypertension. Ask about recent throat or skin infection and assess fatigue, headache, poor appetite and abdominal discomfort. Hematuria and hypertension are especially useful recognition cues.",
+          "body": "Expected findings include tea/cola or smoky urine, oliguria, edema, and hypertension. Ask about recent throat or skin infection and assess fatigue, headache, poor appetite, and abdominal discomfort. Hematuria and hypertension are especially useful recognition cues.",
           "kind": "idea"
         },
         {
           "id": "G-L10-s3",
           "title": "Connect it to nursing care",
-          "body": "Review urinalysis, BUN/creatinine, electrolytes and ordered tests for preceding infection/inflammation. ATI identifies an elevated antistreptolysin-O titer and initially low C3 as supporting findings.",
+          "body": "Review urinalysis, BUN/creatinine, electrolytes, and ordered tests for preceding infection/inflammation. ATI identifies an elevated antistreptolysin-O titer and initially low C3 as supporting findings.",
           "kind": "idea"
         },
         {
@@ -10285,7 +10285,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output and stable renal/electrolyte results."
+          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output, and stable renal/electrolyte results."
         },
         {
           "id": "G-L10-q5",
@@ -10331,7 +10331,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L11-s1",
           "title": "Understand the pattern",
-          "body": "Assess blood pressure, breathing, neurologic status and fluid balance. Reduced excretion can cause pulmonary edema or hypertensive complications. Severe headache, confusion, seizures, respiratory distress or marked hypertension requires prompt action.",
+          "body": "Assess blood pressure, breathing, neurologic status, and fluid balance. Reduced excretion can cause pulmonary edema or hypertensive complications. Severe headache, confusion, seizures, respiratory distress, or marked hypertension requires prompt action.",
           "kind": "idea",
           "terms": [
             [
@@ -10357,7 +10357,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L11-s3",
           "title": "Connect it to nursing care",
-          "body": "Provide rest according to illness severity, comfort and skin care. Balance fluid management with the prescribed treatment; the child needs individualized assessment rather than an automatic nephrotic-syndrome regimen.",
+          "body": "Provide rest according to illness severity, comfort, and skin care. Balance fluid management with the prescribed treatment; the child needs individualized assessment rather than an automatic nephrotic-syndrome regimen.",
           "kind": "idea"
         },
         {
@@ -10428,7 +10428,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "G-L11-q3",
-          "stem": "Which two restrictions may be prescribed for a child with APSGN, edema and hypertension?",
+          "stem": "Which two restrictions may be prescribed for a child with APSGN, edema, and hypertension?",
           "fmt": "C",
           "choices": [
             "Protein and calcium.",
@@ -10472,7 +10472,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output and stable renal/electrolyte results."
+          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output, and stable renal/electrolyte results."
         },
         {
           "id": "G-L11-q5",
@@ -10505,7 +10505,7 @@ window.FULL_PATHS = {
       "number": 12,
       "path": "G",
       "subject": "G",
-      "title": "Treatment, diet and teaching",
+      "title": "Treatment, diet, and teaching",
       "focus": "Match medicines and dietary limits to the actual renal/fluid problem.",
       "topic": "Acute glomerulonephritis: fluid retention and hypertension",
       "codes": [
@@ -10538,19 +10538,19 @@ window.FULL_PATHS = {
         {
           "id": "G-L12-s2",
           "title": "Understand the pattern",
-          "body": "Follow ordered sodium/fluid restriction for edema or hypertension. Potassium restriction may be needed during oliguria; protein restriction is reserved for severe azotemia in the supplied passage. Match dietary changes to urine output, laboratory findings and the actual plan rather than applying every chronic renal restriction to all children.",
+          "body": "Follow ordered sodium/fluid restriction for edema or hypertension. Potassium restriction may be needed during oliguria; protein restriction is reserved for severe azotemia in the supplied passage. Match dietary changes to urine output, laboratory findings, and the actual plan rather than applying every chronic renal restriction to all children.",
           "kind": "idea"
         },
         {
           "id": "G-L12-s3",
           "title": "Connect it to nursing care",
-          "body": "Teach the family to record ordered weights/output and report reduced urine, rapid weight gain, edema, headache, or breathing changes. Keep follow-up for blood pressure, urine and renal function even if the child feels better.",
+          "body": "Teach the family to record ordered weights/output and report reduced urine, rapid weight gain, edema, headache, or breathing changes. Keep follow-up for blood pressure, urine, and renal function even if the child feels better.",
           "kind": "idea"
         },
         {
           "id": "G-L12-s4",
           "title": "Connect it to nursing care",
-          "body": "Evaluate blood pressure and fluid status returning toward the expected range, improving output and stable renal/electrolyte results. Do not promise that every child recovers fully in exactly fourteen days or assume all require corticosteroids.",
+          "body": "Evaluate blood pressure and fluid status returning toward the expected range, improving output, and stable renal/electrolyte results. Do not promise that every child recovers fully in exactly fourteen days or assume all require corticosteroids.",
           "kind": "idea"
         },
         {
@@ -10621,7 +10621,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "G-L12-q3",
-          "stem": "Which two restrictions may be prescribed for a child with APSGN, edema and hypertension?",
+          "stem": "Which two restrictions may be prescribed for a child with APSGN, edema, and hypertension?",
           "fmt": "C",
           "choices": [
             "Fat and carbohydrate.",
@@ -10665,7 +10665,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output and stable renal/electrolyte results."
+          "reason": "Evaluate blood pressure and fluid status returning toward the expected range, improving output, and stable renal/electrolyte results."
         },
         {
           "id": "G-L12-q5",
@@ -10724,7 +10724,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L13-s1",
           "title": "Understand the pattern",
-          "body": "A urinary tract infection (UTI) can involve the bladder/lower tract or kidneys/upper tract. E. coli is a common organism. Urinary stasis, obstruction, instrumentation, reflux and incomplete emptying increase risk.",
+          "body": "A urinary tract infection (UTI) can involve the bladder/lower tract or kidneys/upper tract. E. coli is a common organism. Urinary stasis, obstruction, instrumentation, reflux, and incomplete emptying increase risk.",
           "kind": "idea",
           "terms": [
             [
@@ -10744,13 +10744,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L13-s2",
           "title": "Understand the pattern",
-          "body": "Infants may show nonspecific findings: fever or temperature instability, irritability, poor feeding, vomiting, poor weight gain or lethargy. A newborn does not need to report painful urination for UTI to be considered.",
+          "body": "Infants may show nonspecific findings: fever or temperature instability, irritability, poor feeding, vomiting, poor weight gain, or lethargy. A newborn does not need to report painful urination for UTI to be considered.",
           "kind": "idea"
         },
         {
           "id": "G-L13-s3",
           "title": "Connect it to nursing care",
-          "body": "Older children can develop dysuria, urgency/frequency, suprapubic or abdominal pain, foul/cloudy urine and new wetting after established toileting. Fever, chills, flank/back pain and vomiting raise concern for pyelonephritis/systemic illness.",
+          "body": "Older children can develop dysuria, urgency/frequency, suprapubic or abdominal pain, foul/cloudy urine, and new wetting after established toileting. Fever, chills, flank/back pain, and vomiting raise concern for pyelonephritis/systemic illness.",
           "kind": "idea"
         },
         {
@@ -10817,7 +10817,7 @@ window.FULL_PATHS = {
             "Pyelonephritis involves the kidney/upper urinary tract.",
             "Bladder exstrophy exposes bladder mucosa through the abdominal wall. Compare that meaning with the question’s required assessment or warning finding."
           ],
-          "reason": "Fever, chills, flank/back pain and vomiting raise concern for pyelonephritis/systemic illness."
+          "reason": "Fever, chills, flank/back pain, and vomiting raise concern for pyelonephritis/systemic illness."
         },
         {
           "id": "G-L13-q3",
@@ -10838,7 +10838,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Teach front-to-back perineal hygiene, age-appropriate independent care, cotton underwear and avoidance of irritating bubble baths/products."
+          "reason": "Teach front-to-back perineal hygiene, age-appropriate independent care, cotton underwear, and avoidance of irritating bubble baths/products."
         },
         {
           "id": "G-L13-q4",
@@ -10914,7 +10914,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L14-s1",
           "title": "Understand the pattern",
-          "body": "Obtain the ordered urine specimen before antibiotics when feasible without delaying urgent treatment. For culture in a child younger than two years, ATI identifies sterile catheterization or suprapubic aspiration as the most accurate methods; a cooperative child may provide clean-catch midstream urine. Send the specimen promptly. Urinalysis can show leukocytes, leukocyte esterase, nitrites or blood; culture guides therapy. Interpret counts with collection method and the clinical picture rather than one universal cutoff.",
+          "body": "Obtain the ordered urine specimen before antibiotics when feasible without delaying urgent treatment. For culture in a child younger than two years, ATI identifies sterile catheterization or suprapubic aspiration as the most accurate methods; a cooperative child may provide clean-catch midstream urine. Send the specimen promptly. Urinalysis can show leukocytes, leukocyte esterase, nitrites, or blood; culture guides therapy. Interpret counts with collection method and the clinical picture rather than one universal cutoff.",
           "kind": "idea",
           "terms": [
             [
@@ -10934,19 +10934,19 @@ window.FULL_PATHS = {
         {
           "id": "G-L14-s2",
           "title": "Understand the pattern",
-          "body": "Assess temperature, hydration, intake/output, pain and signs of sepsis or obstruction. Absent output, worsening lethargy, poor perfusion or an acutely ill infant needs prompt assessment.",
+          "body": "Assess temperature, hydration, intake/output, pain, and signs of sepsis or obstruction. Absent output, worsening lethargy, poor perfusion, or an acutely ill infant needs prompt assessment.",
           "kind": "idea"
         },
         {
           "id": "G-L14-s3",
           "title": "Connect it to nursing care",
-          "body": "Give the culture-directed antibiotic and complete the course. Examples include penicillins, sulfonamides, cephalosporins or nitrofurantoin; choice depends on infection site, severity, culture, allergies, age and renal function. PO versus IV treatment depends on illness severity. A listed drug is not interchangeable for every lower-tract or kidney infection.",
+          "body": "Give the culture-directed antibiotic and complete the course. Examples include penicillins, sulfonamides, cephalosporins, or nitrofurantoin; choice depends on infection site, severity, culture, allergies, age, and renal function. PO versus IV treatment depends on illness severity. A listed drug is not interchangeable for every lower-tract or kidney infection.",
           "kind": "idea"
         },
         {
           "id": "G-L14-s4",
           "title": "Connect it to nursing care",
-          "body": "Provide fluids as permitted, regular emptying, comfort and follow-up testing/evaluation as ordered. Recurrent febrile infections can require assessment for an anatomic or reflux problem.",
+          "body": "Provide fluids as permitted, regular emptying, comfort, and follow-up testing/evaluation as ordered. Recurrent febrile infections can require assessment for an anatomic or reflux problem.",
           "kind": "idea"
         },
         {
@@ -11079,7 +11079,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Urinary stasis, obstruction, instrumentation, reflux and incomplete emptying increase risk."
+          "reason": "Urinary stasis, obstruction, instrumentation, reflux, and incomplete emptying increase risk."
         }
       ],
       "pre": [
@@ -11104,7 +11104,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L15-s1",
           "title": "Understand the pattern",
-          "body": "Encourage regular voiding and avoidance of prolonged holding. Address constipation and toileting concerns through the plan. Teach front-to-back perineal hygiene, age-appropriate independent care, cotton underwear and avoidance of irritating bubble baths/products.",
+          "body": "Encourage regular voiding and avoidance of prolonged holding. Address constipation and toileting concerns through the plan. Teach front-to-back perineal hygiene, age-appropriate independent care, cotton underwear, and avoidance of irritating bubble baths/products.",
           "kind": "idea",
           "terms": [
             [
@@ -11124,13 +11124,13 @@ window.FULL_PATHS = {
         {
           "id": "G-L15-s2",
           "title": "Understand the pattern",
-          "body": "Encourage adequate permitted fluids, correct medication measurement, full antibiotic completion and prompt reporting of recurrent fever, dysuria, flank pain or new enuresis. Adolescents may need counseling about post-intercourse voiding and avoiding irritating contraceptive products.",
+          "body": "Encourage adequate permitted fluids, correct medication measurement, full antibiotic completion, and prompt reporting of recurrent fever, dysuria, flank pain, or new enuresis. Adolescents may need counseling about post-intercourse voiding and avoiding irritating contraceptive products.",
           "kind": "idea"
         },
         {
           "id": "G-L15-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate improved comfort, temperature, intake/output and overall activity. Do not stop medication simply because symptoms improve or assume a positive nitrite result by itself proves kidney infection.",
+          "body": "Evaluate improved comfort, temperature, intake/output, and overall activity. Do not stop medication simply because symptoms improve or assume a positive nitrite result by itself proves kidney infection.",
           "kind": "idea"
         },
         {
@@ -11218,7 +11218,7 @@ window.FULL_PATHS = {
             "Pyelonephritis involves the kidney/upper urinary tract.",
             "Bladder exstrophy exposes bladder mucosa through the abdominal wall. Compare that meaning with the question’s required assessment or warning finding."
           ],
-          "reason": "Fever, chills, flank/back pain and vomiting raise concern for pyelonephritis/systemic illness."
+          "reason": "Fever, chills, flank/back pain, and vomiting raise concern for pyelonephritis/systemic illness."
         },
         {
           "id": "G-L15-q4",
@@ -11306,7 +11306,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L16-s1",
           "title": "Vesicoureteral reflux (VUR)",
-          "body": "Vesicoureteral reflux (VUR) is backward movement of urine from the bladder toward the ureters/kidneys. It can promote recurrent UTI, pyelonephritis and renal scarring. The lecture grades severity I-V, with V most severe.",
+          "body": "Vesicoureteral reflux (VUR) is backward movement of urine from the bladder toward the ureters/kidneys. It can promote recurrent UTI, pyelonephritis, and renal scarring. The lecture grades severity I-V, with V most severe.",
           "kind": "idea",
           "terms": [
             [
@@ -11332,7 +11332,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L16-s3",
           "title": "Connect it to nursing care",
-          "body": "Assess urine output, blood pressure, growth, renal function and previous infections as ordered. Backflow does not mean every child will be anuric, but absent output is an urgent assessment finding.",
+          "body": "Assess urine output, blood pressure, growth, renal function, and previous infections as ordered. Backflow does not mean every child will be anuric, but absent output is an urgent assessment finding.",
           "kind": "idea"
         },
         {
@@ -11430,7 +11430,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "G-L16-q4",
-          "stem": "Which history and findings help guide the choice between observation, prophylaxis and surgery for VUR? Select all that apply.",
+          "stem": "Which history and findings help guide the choice between observation, prophylaxis, and surgery for VUR? Select all that apply.",
           "fmt": "A",
           "choices": [
             "Urine odor as a measure of reflux grade.",
@@ -11454,7 +11454,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Treatment depends on age, severity, infections and renal findings."
+          "reason": "Treatment depends on age, severity, infections, and renal findings."
         },
         {
           "id": "G-L16-q5",
@@ -11500,7 +11500,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L17-s1",
           "title": "Understand the pattern",
-          "body": "Treatment depends on age, severity, infections and renal findings. The plan can include monitoring, prescribed prophylactic antibiotics for selected children or surgical correction. Do not present prophylaxis as mandatory for every child or promise that every case resolves spontaneously.",
+          "body": "Treatment depends on age, severity, infections, and renal findings. The plan can include monitoring, prescribed prophylactic antibiotics for selected children, or surgical correction. Do not present prophylaxis as mandatory for every child or promise that every case resolves spontaneously.",
           "kind": "idea",
           "terms": [
             [
@@ -11526,7 +11526,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L17-s3",
           "title": "Connect it to nursing care",
-          "body": "Teach the family how to recognize fever, dysuria, new wetting, poor feeding or lethargy. A child taking prophylaxis still needs evaluation for new infection symptoms.",
+          "body": "Teach the family how to recognize fever, dysuria, new wetting, poor feeding, or lethargy. A child taking prophylaxis still needs evaluation for new infection symptoms.",
           "kind": "idea"
         },
         {
@@ -11614,11 +11614,11 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "It can promote recurrent UTI, pyelonephritis and renal scarring."
+          "reason": "It can promote recurrent UTI, pyelonephritis, and renal scarring."
         },
         {
           "id": "G-L17-q4",
-          "stem": "Which history and findings help guide the choice between observation, prophylaxis and surgery for VUR? Select all that apply.",
+          "stem": "Which history and findings help guide the choice between observation, prophylaxis, and surgery for VUR? Select all that apply.",
           "fmt": "A",
           "choices": [
             "Urine odor as a measure of reflux grade.",
@@ -11642,7 +11642,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Treatment depends on age, severity, infections and renal findings."
+          "reason": "Treatment depends on age, severity, infections, and renal findings."
         },
         {
           "id": "G-L17-q5",
@@ -11688,7 +11688,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L18-s1",
           "title": "Understand the pattern",
-          "body": "Maintain urinary drainage/stent patency according to the surgical plan and measure output. Assess pain, fever, wound condition and signs of obstruction. Do not remove or manipulate a catheter/stent without orders.",
+          "body": "Maintain urinary drainage/stent patency according to the surgical plan and measure output. Assess pain, fever, wound condition, and signs of obstruction. Do not remove or manipulate a catheter/stent without orders.",
           "kind": "idea",
           "terms": [
             [
@@ -11714,7 +11714,7 @@ window.FULL_PATHS = {
         {
           "id": "G-L18-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate fewer infections, adequate output, appropriate growth and stable renal/BP findings. The goal is protection of kidneys and function, not simply an improved urine appearance.",
+          "body": "Evaluate fewer infections, adequate output, appropriate growth, and stable renal/BP findings. The goal is protection of kidneys and function, not simply an improved urine appearance.",
           "kind": "idea"
         },
         {
@@ -11806,7 +11806,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "G-L18-q4",
-          "stem": "Which history and findings help guide the choice between observation, prophylaxis and surgery for VUR? Select all that apply.",
+          "stem": "Which history and findings help guide the choice between observation, prophylaxis, and surgery for VUR? Select all that apply.",
           "fmt": "A",
           "choices": [
             "Previous infections.",
@@ -11830,7 +11830,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Treatment depends on age, severity, infections and renal findings."
+          "reason": "Treatment depends on age, severity, infections, and renal findings."
         },
         {
           "id": "G-L18-q5",
@@ -11878,7 +11878,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Recognition and transmission",
       "focus": "Recognize measles and distinguish its name and hallmark findings.",
-      "topic": "Measles: Koplik spots, airborne spread and care",
+      "topic": "Measles: Koplik spots, airborne spread, and care",
       "codes": [
         "I01"
       ],
@@ -11913,7 +11913,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L01-s2",
           "title": "Understand the pattern",
-          "body": "Prodromal fever, cough, coryza (runny nose) and conjunctivitis (inflamed/red eyes) can precede the rash. Koplik spots are tiny white lesions inside the mouth, especially inside the cheeks, and appear before the typical rash. The red/reddish-brown maculopapular rash begins on the face/hairline and spreads downward, often with a fever spike. Maculopapular describes flat red spots mixed with raised bumps.",
+          "body": "Prodromal fever, cough, coryza (runny nose), and conjunctivitis (inflamed/red eyes) can precede the rash. Koplik spots are tiny white lesions inside the mouth, especially inside the cheeks, and appear before the typical rash. The red/reddish-brown maculopapular rash begins on the face/hairline and spreads downward, often with a fever spike. Maculopapular describes flat red spots mixed with raised bumps.",
           "kind": "idea"
         },
         {
@@ -12034,7 +12034,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Conjunctivitis means inflamed/red eyes; drainage and the full pattern help interpretation."
           ],
-          "reason": "Prodromal fever, cough, coryza (runny nose) and conjunctivitis (inflamed/red eyes) can precede the rash."
+          "reason": "Prodromal fever, cough, coryza (runny nose), and conjunctivitis (inflamed/red eyes) can precede the rash."
         },
         {
           "id": "I-L01-q5",
@@ -12067,7 +12067,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Assessment and care",
       "focus": "Match supportive care to hydration, breathing, and light sensitivity.",
-      "topic": "Measles: Koplik spots, airborne spread and care",
+      "topic": "Measles: Koplik spots, airborne spread, and care",
       "codes": [
         "I01"
       ],
@@ -12078,7 +12078,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L02-s1",
           "title": "Understand the pattern",
-          "body": "Assess temperature, hydration, respiratory status, eyes/photophobia, intake and neurologic changes. Potential complications include otitis, pneumonia, encephalitis, and severe illness.",
+          "body": "Assess temperature, hydration, respiratory status, eyes/photophobia, intake, and neurologic changes. Potential complications include otitis, pneumonia, encephalitis, and severe illness.",
           "kind": "idea",
           "terms": [
             [
@@ -12098,7 +12098,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L02-s2",
           "title": "Understand the pattern",
-          "body": "Provide prescribed antipyretic/analgesic treatment, fluids and nutritious preferred foods. Promote rest and quiet activities; dim lighting for photophobia. Vitamin A may be prescribed to reduce illness severity. Use the age-specific treatment order.",
+          "body": "Provide prescribed antipyretic/analgesic treatment, fluids, and nutritious preferred foods. Promote rest and quiet activities; dim lighting for photophobia. Vitamin A may be prescribed to reduce illness severity. Use the age-specific treatment order.",
           "kind": "idea"
         },
         {
@@ -12257,7 +12257,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Clinical distinctions and evaluation",
       "focus": "Separate recognition clues from the source-specific isolation interval.",
-      "topic": "Measles: Koplik spots, airborne spread and care",
+      "topic": "Measles: Koplik spots, airborne spread, and care",
       "codes": [
         "I01"
       ],
@@ -12288,7 +12288,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L03-s2",
           "title": "Understand the pattern",
-          "body": "Report breathing difficulty, neurologic deterioration, dehydration, or worsening illness. Evaluate hydration, breathing, temperature and intake alongside prevention of transmission.",
+          "body": "Report breathing difficulty, neurologic deterioration, dehydration, or worsening illness. Evaluate hydration, breathing, temperature, and intake alongside prevention of transmission.",
           "kind": "idea"
         },
         {
@@ -12453,7 +12453,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Recognition and spread",
       "focus": "Recognize painful salivary-gland swelling and droplet spread.",
-      "topic": "Mumps: parotid swelling, precautions and comfort",
+      "topic": "Mumps: parotid swelling, precautions, and comfort",
       "codes": [
         "I02"
       ],
@@ -12484,7 +12484,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L04-s2",
           "title": "Understand the pattern",
-          "body": "Hallmarks include painful, swollen parotid glands (salivary glands near the ears), fever, headache, muscle aches, fatigue and reduced appetite. Swelling may involve one or both sides. Ear/jaw pain can worsen with chewing. Testicular inflammation can occur; an enlarged neck lymph node is not automatically parotitis.",
+          "body": "Hallmarks include painful, swollen parotid glands (salivary glands near the ears), fever, headache, muscle aches, fatigue, and reduced appetite. Swelling may involve one or both sides. Ear/jaw pain can worsen with chewing. Testicular inflammation can occur; an enlarged neck lymph node is not automatically parotitis.",
           "kind": "idea"
         },
         {
@@ -12606,7 +12606,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Assess airway/breathing if neck swelling is substantial, hydration, pain, intake, fever and neurologic or hearing changes."
+          "reason": "Assess airway/breathing if neck swelling is substantial, hydration, pain, intake, fever, and neurologic or hearing changes."
         },
         {
           "id": "I-L04-q5",
@@ -12641,7 +12641,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Nursing care and complications",
       "focus": "Assess pain, intake, and neurological or gonadal complications.",
-      "topic": "Mumps: parotid swelling, precautions and comfort",
+      "topic": "Mumps: parotid swelling, precautions, and comfort",
       "codes": [
         "I02"
       ],
@@ -12652,7 +12652,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L05-s1",
           "title": "Understand the pattern",
-          "body": "Assess airway/breathing if neck swelling is substantial, hydration, pain, intake, fever and neurologic or hearing changes. Complications can include orchitis, oophoritis, meningitis/encephalitis and hearing loss.",
+          "body": "Assess airway/breathing if neck swelling is substantial, hydration, pain, intake, fever, and neurologic or hearing changes. Complications can include orchitis, oophoritis, meningitis/encephalitis, and hearing loss.",
           "kind": "idea",
           "terms": [
             [
@@ -12745,7 +12745,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Cryptorchidism means an undescended testis, rather than a urinary outlet or exposed-bladder defect. Compare that meaning with the question’s required action or teaching appropriate to this situation."
           ],
-          "reason": "Complications can include orchitis, oophoritis, meningitis/encephalitis and hearing loss."
+          "reason": "Complications can include orchitis, oophoritis, meningitis/encephalitis, and hearing loss."
         },
         {
           "id": "I-L05-q3",
@@ -12828,7 +12828,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Family teaching and evaluation",
       "focus": "Teach saliva precautions and judge comfort/hydration recovery.",
-      "topic": "Mumps: parotid swelling, precautions and comfort",
+      "topic": "Mumps: parotid swelling, precautions, and comfort",
       "codes": [
         "I02"
       ],
@@ -12839,7 +12839,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L06-s1",
           "title": "Understand the pattern",
-          "body": "Teach respiratory/hand hygiene, avoiding shared saliva-contaminated items, adherence to precautions and immunization follow-up. Coordinate school/daycare advice with the infection-control plan.",
+          "body": "Teach respiratory/hand hygiene, avoiding shared saliva-contaminated items, adherence to precautions, and immunization follow-up. Coordinate school/daycare advice with the infection-control plan.",
           "kind": "idea",
           "terms": [
             [
@@ -12859,7 +12859,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L06-s2",
           "title": "Understand the pattern",
-          "body": "Evaluate improved comfort and oral intake, adequate hydration, stable breathing and absence of complications. Mumps primarily suggests painful parotid swelling; measles suggests Koplik spots and a descending rash.",
+          "body": "Evaluate improved comfort and oral intake, adequate hydration, stable breathing, and absence of complications. Mumps primarily suggests painful parotid swelling; measles suggests Koplik spots and a descending rash.",
           "kind": "idea"
         },
         {
@@ -13032,7 +13032,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L07-s1",
           "title": "Varicella (chickenpox)",
-          "body": "Varicella (chickenpox) is caused by varicella-zoster virus. Mild fever, fatigue, headache or poor appetite may precede the rash. Lesions appear in crops, commonly beginning centrally on the trunk/scalp and spreading.",
+          "body": "Varicella (chickenpox) is caused by varicella-zoster virus. Mild fever, fatigue, headache, or poor appetite may precede the rash. Lesions appear in crops, commonly beginning centrally on the trunk/scalp and spreading.",
           "kind": "idea",
           "terms": [
             [
@@ -13174,7 +13174,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Report breathing problems, marked lethargy, neurologic changes, dehydration or worsening skin infection."
+          "reason": "Report breathing problems, marked lethargy, neurologic changes, dehydration, or worsening skin infection."
         },
         {
           "id": "I-L07-q5",
@@ -13220,7 +13220,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L08-s1",
           "title": "Understand the pattern",
-          "body": "Assess fever, hydration, skin, respiratory symptoms and neurologic changes. Immunocompromised children need prompt review because illness can be severe. Complications include bacterial skin infection, pneumonia and encephalitis.",
+          "body": "Assess fever, hydration, skin, respiratory symptoms, and neurologic changes. Immunocompromised children need prompt review because illness can be severe. Complications include bacterial skin infection, pneumonia, and encephalitis.",
           "kind": "idea",
           "terms": [
             [
@@ -13240,7 +13240,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L08-s2",
           "title": "Understand the pattern",
-          "body": "Provide prescribed acetaminophen for fever and topical calamine or an ordered antihistamine for itching. Keep nails short/clean, use gloves/mittens when needed, keep skin clean and dry and choose loose clothing.",
+          "body": "Provide prescribed acetaminophen for fever and topical calamine or an ordered antihistamine for itching. Keep nails short/clean, use gloves/mittens when needed, keep skin clean and dry, and choose loose clothing.",
           "kind": "idea"
         },
         {
@@ -13428,7 +13428,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L09-s2",
           "title": "Understand the pattern",
-          "body": "Report breathing problems, marked lethargy, neurologic changes, dehydration or worsening skin infection. Evaluate comfort, intake, and skin healing while maintaining precautions until the appropriate endpoint.",
+          "body": "Report breathing problems, marked lethargy, neurologic changes, dehydration, or worsening skin infection. Evaluate comfort, intake, and skin healing while maintaining precautions until the appropriate endpoint.",
           "kind": "idea"
         },
         {
@@ -13596,7 +13596,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L10-s1",
           "title": "Fifth disease = erythema infectiosum",
-          "body": "Fifth disease = erythema infectiosum, caused by parvovirus B19. Fever, runny nose, headache or malaise may precede a characteristic slapped-cheek facial rash, followed by a lacy/maculopapular body or extremity rash.",
+          "body": "Fifth disease = erythema infectiosum, caused by parvovirus B19. Fever, runny nose, headache, or malaise may precede a characteristic slapped-cheek facial rash, followed by a lacy/maculopapular body or extremity rash.",
           "kind": "idea",
           "terms": [
             [
@@ -13780,7 +13780,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L11-s1",
           "title": "Understand the pattern",
-          "body": "Most uncomplicated cases receive supportive care: prescribed fever/pain relief, fluids, rest, and comfort for itching. Assess hydration, fever, activity and joint symptoms; arthralgia/arthritis can occur.",
+          "body": "Most uncomplicated cases receive supportive care: prescribed fever/pain relief, fluids, rest, and comfort for itching. Assess hydration, fever, activity, and joint symptoms; arthralgia/arthritis can occur.",
           "kind": "idea",
           "terms": [
             [
@@ -13987,7 +13987,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L12-s2",
           "title": "Understand the pattern",
-          "body": "Report an ill-appearing child, poor intake, dehydration or other deterioration. Avoid attaching an unsupported fixed exclusion period or a universal drug regimen to every case.",
+          "body": "Report an ill-appearing child, poor intake, dehydration, or other deterioration. Avoid attaching an unsupported fixed exclusion period or a universal drug regimen to every case.",
           "kind": "idea"
         },
         {
@@ -14180,7 +14180,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L13-s2",
           "title": "Understand the pattern",
-          "body": "The rash can begin in the axillae, groin or neck and spread. An initially white-coated tongue with red papillae can progress to a red strawberry tongue. These findings must be interpreted together rather than treating the tongue alone as diagnostic.",
+          "body": "The rash can begin in the axillae, groin, or neck and spread. An initially white-coated tongue with red papillae can progress to a red strawberry tongue. These findings must be interpreted together rather than treating the tongue alone as diagnostic.",
           "kind": "idea"
         },
         {
@@ -14262,7 +14262,7 @@ window.FULL_PATHS = {
           "choices": [
             "Scalp and trunk in crops.",
             "Palms and soles with peeling.",
-            "Axillae, groin or neck.",
+            "Axillae, groin, or neck.",
             "Cheeks with a lacy pattern."
           ],
           "key": [
@@ -14274,7 +14274,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "The rash can begin in the axillae, groin or neck and spread."
+          "reason": "The rash can begin in the axillae, groin, or neck and spread."
         },
         {
           "id": "I-L13-q4",
@@ -14331,7 +14331,7 @@ window.FULL_PATHS = {
       "number": 14,
       "path": "I",
       "subject": "I",
-      "title": "Assessment, care and teaching",
+      "title": "Assessment, care, and teaching",
       "focus": "Match testing and antibiotics to bacterial illness.",
       "topic": "Scarlet fever and group A streptococcal illness",
       "codes": [
@@ -14344,7 +14344,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L14-s1",
           "title": "Understand the pattern",
-          "body": "Assess throat symptoms, temperature, rash, hydration and swallowing. A throat culture or rapid antigen test evaluates group A streptococcal infection. Prescribed treatment for GABHS can include penicillin or amoxicillin; check allergies and complete the full course even when symptoms improve.",
+          "body": "Assess throat symptoms, temperature, rash, hydration, and swallowing. A throat culture or rapid antigen test evaluates group A streptococcal infection. Prescribed treatment for GABHS can include penicillin or amoxicillin; check allergies and complete the full course even when symptoms improve.",
           "kind": "idea",
           "terms": [
             [
@@ -14364,7 +14364,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L14-s2",
           "title": "Understand the pattern",
-          "body": "Provide prescribed analgesic/antipyretic treatment, fluids, tolerable soft foods and rest. Teach hand/respiratory hygiene and avoidance of shared saliva-contaminated items.",
+          "body": "Provide prescribed analgesic/antipyretic treatment, fluids, tolerable soft foods, and rest. Teach hand/respiratory hygiene and avoidance of shared saliva-contaminated items.",
           "kind": "idea"
         },
         {
@@ -14376,7 +14376,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L14-s4",
           "title": "Connect it to nursing care",
-          "body": "Teach the family to seek reassessment for worsening illness, reduced intake, breathing difficulty or later findings such as joint inflammation or cardiac symptoms. Treating streptococcal infection and recognizing complications are different care goals.",
+          "body": "Teach the family to seek reassessment for worsening illness, reduced intake, breathing difficulty, or later findings such as joint inflammation or cardiac symptoms. Treating streptococcal infection and recognizing complications are different care goals.",
           "kind": "idea"
         },
         {
@@ -14491,7 +14491,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Provide prescribed analgesic/antipyretic treatment, fluids, tolerable soft foods and rest."
+          "reason": "Provide prescribed analgesic/antipyretic treatment, fluids, tolerable soft foods, and rest."
         },
         {
           "id": "I-L14-q5",
@@ -14626,7 +14626,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Cheeks with a lacy pattern.",
-            "Axillae, groin or neck.",
+            "Axillae, groin, or neck.",
             "Palms and soles with peeling.",
             "Scalp and trunk in crops."
           ],
@@ -14639,7 +14639,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "The rash can begin in the axillae, groin or neck and spread."
+          "reason": "The rash can begin in the axillae, groin, or neck and spread."
         },
         {
           "id": "I-L15-q4",
@@ -14742,7 +14742,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L16-s2",
           "title": "Understand the pattern",
-          "body": "Expected findings include fever, marked fatigue, sore throat and lymphadenopathy (enlarged lymph nodes), often cervical. Splenomegaly means an enlarged spleen. Poor appetite, headache, rash or hepatic involvement may occur. Evaluate the whole pattern rather than assuming every prolonged sore throat is bacterial.",
+          "body": "Expected findings include fever, marked fatigue, sore throat, and lymphadenopathy (enlarged lymph nodes), often cervical. Splenomegaly means an enlarged spleen. Poor appetite, headache, rash, or hepatic involvement may occur. Evaluate the whole pattern rather than assuming every prolonged sore throat is bacterial.",
           "kind": "idea"
         },
         {
@@ -14802,9 +14802,9 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Migratory arthritis and a new murmur.",
-            "Cough, coryza and Koplik spots.",
+            "Cough, coryza, and Koplik spots.",
             "Painful parotid swelling and jaw pain.",
-            "Marked fatigue, sore throat and cervical nodes."
+            "Marked fatigue, sore throat, and cervical nodes."
           ],
           "key": [
             3
@@ -14815,7 +14815,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Expected findings include fever, marked fatigue, sore throat and lymphadenopathy (enlarged lymph nodes), often cervical."
+          "reason": "Expected findings include fever, marked fatigue, sore throat, and lymphadenopathy (enlarged lymph nodes), often cervical."
         },
         {
           "id": "I-L16-q3",
@@ -14863,7 +14863,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test and liver tests."
+          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test, and liver tests."
         },
         {
           "id": "I-L16-q5",
@@ -14909,7 +14909,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L17-s1",
           "title": "Understand the pattern",
-          "body": "Assess hydration, fatigue, throat/airway symptoms and abdominal discomfort. Ordered tests can include CBC with atypical lymphocytes, a Monospot test and liver tests. RUQ discomfort can relate to liver involvement; LUQ/upper abdominal symptoms matter with an enlarged spleen.",
+          "body": "Assess hydration, fatigue, throat/airway symptoms, and abdominal discomfort. Ordered tests can include CBC with atypical lymphocytes, a Monospot test, and liver tests. RUQ discomfort can relate to liver involvement; LUQ/upper abdominal symptoms matter with an enlarged spleen.",
           "kind": "idea",
           "terms": [
             [
@@ -14990,7 +14990,7 @@ window.FULL_PATHS = {
           "choices": [
             "Penicillin prophylaxis and activity restriction for carditis.",
             "IVIG followed by antiplatelet therapy.",
-            "Rest, hydration and a gradual return to activity.",
+            "Rest, hydration, and a gradual return to activity.",
             "Acyclovir and isolation until lesions crust."
           ],
           "key": [
@@ -15050,7 +15050,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test and liver tests."
+          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test, and liver tests."
         },
         {
           "id": "I-L17-q5",
@@ -15115,14 +15115,14 @@ window.FULL_PATHS = {
         },
         {
           "id": "I-L18-s2",
-          "title": "Sudden left upper abdominal pain, dizziness or fainting",
-          "body": "Sudden left upper abdominal pain, dizziness or fainting can signal a splenic complication and needs prompt assessment. New or severe abdominal pain, collapse, poor perfusion or other acute deterioration also requires urgent review. Escalate breathing/swallowing difficulty or significant dehydration.",
+          "title": "Sudden left upper abdominal pain, dizziness, or fainting",
+          "body": "Sudden left upper abdominal pain, dizziness, or fainting can signal a splenic complication and needs prompt assessment. New or severe abdominal pain, collapse, poor perfusion, or other acute deterioration also requires urgent review. Escalate breathing/swallowing difficulty or significant dehydration.",
           "kind": "idea"
         },
         {
           "id": "I-L18-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate improving intake, hydration, fatigue and functional tolerance. A child who feels more energetic may still need activity restrictions based on spleen assessment.",
+          "body": "Evaluate improving intake, hydration, fatigue, and functional tolerance. A child who feels more energetic may still need activity restrictions based on spleen assessment.",
           "kind": "idea"
         },
         {
@@ -15198,7 +15198,7 @@ window.FULL_PATHS = {
           "choices": [
             "Penicillin prophylaxis and activity restriction for carditis.",
             "Acyclovir and isolation until lesions crust.",
-            "Rest, hydration and a gradual return to activity.",
+            "Rest, hydration, and a gradual return to activity.",
             "IVIG followed by antiplatelet therapy."
           ],
           "key": [
@@ -15237,7 +15237,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test and liver tests."
+          "reason": "Ordered tests can include CBC with atypical lymphocytes, a Monospot test, and liver tests."
         },
         {
           "id": "I-L18-q5",
@@ -15295,7 +15295,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L19-s1",
           "title": "Acute rheumatic fever",
-          "body": "Acute rheumatic fever is an abnormal immune/inflammatory response after preceding group A beta-hemolytic streptococcal infection. The inflammatory illness can involve joints, heart, skin and the nervous system; it is broader than an isolated heart infection.",
+          "body": "Acute rheumatic fever is an abnormal immune/inflammatory response after preceding group A beta-hemolytic streptococcal infection. The inflammatory illness can involve joints, heart, skin, and the nervous system; it is broader than an isolated heart infection.",
           "kind": "idea",
           "terms": [
             [
@@ -15315,13 +15315,13 @@ window.FULL_PATHS = {
         {
           "id": "I-L19-s2",
           "title": "Understand the pattern",
-          "body": "Major manifestations in the course's Jones pattern are carditis, migratory polyarthritis, chorea, erythema marginatum and painless subcutaneous nodules. Chorea is involuntary movement; migratory arthritis shifts between joints; erythema marginatum is the characteristic rash.",
+          "body": "Major manifestations in the course's Jones pattern are carditis, migratory polyarthritis, chorea, erythema marginatum, and painless subcutaneous nodules. Chorea is involuntary movement; migratory arthritis shifts between joints; erythema marginatum is the characteristic rash.",
           "kind": "idea"
         },
         {
           "id": "I-L19-s3",
           "title": "Connect it to nursing care",
-          "body": "Minor findings include fever, arthralgia, elevated inflammatory markers and prolonged PR interval. ATI describes two major criteria OR one major plus two minor criteria with evidence of preceding acute streptococcal infection. Do not count any two symptoms as equivalent.",
+          "body": "Minor findings include fever, arthralgia, elevated inflammatory markers, and prolonged PR interval. ATI describes two major criteria OR one major plus two minor criteria with evidence of preceding acute streptococcal infection. Do not count any two symptoms as equivalent.",
           "kind": "idea"
         },
         {
@@ -15480,7 +15480,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L20-s1",
           "title": "Understand the pattern",
-          "body": "Assess heart sounds/rhythm, vital signs, breathing, fatigue, edema and urine output for carditis/heart failure. Joint pain can be prominent even when cardiac injury is the most consequential complication.",
+          "body": "Assess heart sounds/rhythm, vital signs, breathing, fatigue, edema, and urine output for carditis/heart failure. Joint pain can be prominent even when cardiac injury is the most consequential complication.",
           "kind": "idea",
           "terms": [
             [
@@ -15512,7 +15512,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L20-s4",
           "title": "Connect it to nursing care",
-          "body": "Secondary prophylaxis may use oral penicillin V, monthly IM penicillin G, or a prescribed alternative such as oral sulfadiazine. The duration depends on residual heart disease; the supplied ATI passage ranges from five years to indefinitely. Monitor allergy/anaphylaxis, rash and GI intolerance. Explain that preventing recurrent streptococcal infection helps prevent another rheumatic episode and further cardiac damage.",
+          "body": "Secondary prophylaxis may use oral penicillin V, monthly IM penicillin G, or a prescribed alternative such as oral sulfadiazine. The duration depends on residual heart disease; the supplied ATI passage ranges from five years to indefinitely. Monitor allergy/anaphylaxis, rash, and GI intolerance. Explain that preventing recurrent streptococcal infection helps prevent another rheumatic episode and further cardiac damage.",
           "kind": "idea"
         },
         {
@@ -15691,7 +15691,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L21-s2",
           "title": "Understand the pattern",
-          "body": "Report worsening fatigue, dyspnea, tachycardia, edema, reduced output or other heart-failure findings promptly. Evaluate inflammatory symptoms, function and cardiac status, not only the disappearance of a sore throat.",
+          "body": "Report worsening fatigue, dyspnea, tachycardia, edema, reduced output, or other heart-failure findings promptly. Evaluate inflammatory symptoms, function, and cardiac status, not only the disappearance of a sore throat.",
           "kind": "idea"
         },
         {
@@ -15858,7 +15858,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Disease pattern",
       "focus": "Recognize Kawasaki as systemic vasculitis with coronary risk.",
-      "topic": "Kawasaki disease: vasculitis, IVIG and coronary protection",
+      "topic": "Kawasaki disease: vasculitis, IVIG, and coronary protection",
       "codes": [
         "I08"
       ],
@@ -15889,7 +15889,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L22-s2",
           "title": "Understand the pattern",
-          "body": "The classic pattern is prolonged fever for about five days or more with at least four of five characteristic findings: bilateral nonpurulent conjunctivitis, oral/mucosal changes, polymorphous rash, extremity changes and cervical lymphadenopathy.",
+          "body": "The classic pattern is prolonged fever for about five days or more with at least four of five characteristic findings: bilateral nonpurulent conjunctivitis, oral/mucosal changes, polymorphous rash, extremity changes, and cervical lymphadenopathy.",
           "kind": "idea"
         },
         {
@@ -16059,7 +16059,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Treatment and monitoring",
       "focus": "Match IVIG and prescribed aspirin to different treatment purposes.",
-      "topic": "Kawasaki disease: vasculitis, IVIG and coronary protection",
+      "topic": "Kawasaki disease: vasculitis, IVIG, and coronary protection",
       "codes": [
         "I08"
       ],
@@ -16251,7 +16251,7 @@ window.FULL_PATHS = {
       "subject": "I",
       "title": "Discharge and evaluation",
       "focus": "Continue coronary surveillance after fever improves.",
-      "topic": "Kawasaki disease: vasculitis, IVIG and coronary protection",
+      "topic": "Kawasaki disease: vasculitis, IVIG, and coronary protection",
       "codes": [
         "I08"
       ],
@@ -16288,7 +16288,7 @@ window.FULL_PATHS = {
         {
           "id": "I-L24-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate temperature, hydration, cardiac function, inflammatory findings and coronary follow-up. Antipyretic response alone does not show that vascular risk has resolved.",
+          "body": "Evaluate temperature, hydration, cardiac function, inflammatory findings, and coronary follow-up. Antipyretic response alone does not show that vascular risk has resolved.",
           "kind": "idea"
         },
         {
@@ -16449,7 +16449,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Types and context",
       "focus": "Distinguish forms of harm without relying on stereotypes.",
-      "topic": "Child maltreatment: recognition, assessment and FDIA",
+      "topic": "Child maltreatment: recognition, assessment, and FDIA",
       "codes": [
         "A01"
       ],
@@ -16460,7 +16460,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L01-s1",
           "title": "Child maltreatment",
-          "body": "Child maltreatment includes physical abuse (intentional bodily harm), emotional abuse (threats, rejection, humiliation, or other damage to self-worth), sexual abuse (sexual acts, touching, exposure, or exploitation involving a child), and neglect (failure to provide basic needs). Neglect can involve inadequate nutrition, shelter, supervision, medical care, education or emotional nurturing. A known or apparently caring person can perpetrate abuse.",
+          "body": "Child maltreatment includes physical abuse (intentional bodily harm), emotional abuse (threats, rejection, humiliation, or other damage to self-worth), sexual abuse (sexual acts, touching, exposure, or exploitation involving a child), and neglect (failure to provide basic needs). Neglect can involve inadequate nutrition, shelter, supervision, medical care, education, or emotional nurturing. A known or apparently caring person can perpetrate abuse.",
           "kind": "idea",
           "terms": [
             [
@@ -16480,7 +16480,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L01-s2",
           "title": "Understand the pattern",
-          "body": "Abuse crosses income, race, education and family groups. Stress, isolation, substances and a history of violence can increase risk but do not prove abuse or excuse the person causing harm. Violent behavior can be learned through role modeling; a history of violence does not mean a person will inevitably become abusive. Base assessment on objective findings rather than stereotypes.",
+          "body": "Abuse crosses income, race, education, and family groups. Stress, isolation, substances, and a history of violence can increase risk but do not prove abuse or excuse the person causing harm. Violent behavior can be learned through role modeling; a history of violence does not mean a person will inevitably become abusive. Base assessment on objective findings rather than stereotypes.",
           "kind": "idea"
         },
         {
@@ -16598,7 +16598,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Stress, isolation, substances and a history of violence can increase risk but do not prove abuse or excuse the person causing harm."
+          "reason": "Stress, isolation, substances, and a history of violence can increase risk but do not prove abuse or excuse the person causing harm."
         },
         {
           "id": "A-L01-q5",
@@ -16619,7 +16619,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Neglect can involve inadequate nutrition, shelter, supervision, medical care, education or emotional nurturing."
+          "reason": "Neglect can involve inadequate nutrition, shelter, supervision, medical care, education, or emotional nurturing."
         }
       ],
       "pre": []
@@ -16631,7 +16631,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Does the history match the child?",
       "focus": "Compare the story with injury pattern and developmental ability.",
-      "topic": "Child maltreatment: recognition, assessment and FDIA",
+      "topic": "Child maltreatment: recognition, assessment, and FDIA",
       "codes": [
         "A01"
       ],
@@ -16642,7 +16642,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L02-s1",
           "title": "Understand the pattern",
-          "body": "Compare the injury pattern, reported mechanism and developmental ability. A nonmobile infant with an unexplained bruise/fracture or a changing history needs careful assessment. Delayed care, repeated visits or explanations that blame the child can add concern.",
+          "body": "Compare the injury pattern, reported mechanism, and developmental ability. A nonmobile infant with an unexplained bruise/fracture or a changing history needs careful assessment. Delayed care, repeated visits, or explanations that blame the child can add concern.",
           "kind": "idea",
           "terms": [
             [
@@ -16662,19 +16662,19 @@ window.FULL_PATHS = {
         {
           "id": "A-L02-s2",
           "title": "Understand the pattern",
-          "body": "Bruises over shins, knees or forehead may fit an active child's history. Ears, neck, trunk, buttocks or inner thighs, object-shaped marks, sharply bordered immersion burns or multiple injuries at different healing stages are concerning patterns. Describe what is observed; do not claim proof from one location or invent an injury date from bruise color alone.",
+          "body": "Bruises over shins, knees, or forehead may fit an active child's history. Ears, neck, trunk, buttocks, or inner thighs, object-shaped marks, sharply bordered immersion burns, or multiple injuries at different healing stages are concerning patterns. Describe what is observed; do not claim proof from one location or invent an injury date from bruise color alone.",
           "kind": "idea"
         },
         {
           "id": "A-L02-s3",
           "title": "Connect it to nursing care",
-          "body": "Observe withdrawal, fear of a caregiver/going home, regression, aggression, sleep/eating changes, enuresis or unusual compliance. A child may protect the caregiver. Lack of disclosure or visible distress does not exclude harm.",
+          "body": "Observe withdrawal, fear of a caregiver/going home, regression, aggression, sleep/eating changes, enuresis, or unusual compliance. A child may protect the caregiver. Lack of disclosure or visible distress does not exclude harm.",
           "kind": "idea"
         },
         {
           "id": "A-L02-s4",
           "title": "Connect it to nursing care",
-          "body": "Treat urgent injuries, assess head to toe and consider growth, previous records and caregiver-child interaction. Observe comfort, eye contact, blaming/belittling, delayed care and repeated answers on the child's behalf. Obtain a private, objective, developmentally appropriate history when possible; do not force undressing or repeatedly interrogate the child.",
+          "body": "Treat urgent injuries, assess head to toe, and consider growth, previous records, and caregiver-child interaction. Observe comfort, eye contact, blaming/belittling, delayed care, and repeated answers on the child's behalf. Obtain a private, objective, developmentally appropriate history when possible; do not force undressing or repeatedly interrogate the child.",
           "kind": "idea"
         },
         {
@@ -16789,7 +16789,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Ears, neck, trunk, buttocks or inner thighs, object-shaped marks, sharply bordered immersion burns or multiple injuries at different healing stages are concerning patterns."
+          "reason": "Ears, neck, trunk, buttocks, or inner thighs, object-shaped marks, sharply bordered immersion burns, or multiple injuries at different healing stages are concerning patterns."
         },
         {
           "id": "A-L02-q5",
@@ -16824,7 +16824,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Medical child abuse and FDIA",
       "focus": "Distinguish the child's harm from a caregiver psychiatric label.",
-      "topic": "Child maltreatment: recognition, assessment and FDIA",
+      "topic": "Child maltreatment: recognition, assessment, and FDIA",
       "codes": [
         "A01"
       ],
@@ -16861,7 +16861,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L03-s3",
           "title": "Connect it to nursing care",
-          "body": "Protect the child, verify history with records and the care team, document discrepancies and report reasonable suspicion through the required process. Do not wait to establish the caregiver's psychiatric diagnosis. Do not confront a caregiver alone or arrange an unsupervised separation as a diagnostic experiment.",
+          "body": "Protect the child, verify history with records and the care team, document discrepancies, and report reasonable suspicion through the required process. Do not wait to establish the caregiver's psychiatric diagnosis. Do not confront a caregiver alone or arrange an unsupervised separation as a diagnostic experiment.",
           "kind": "idea"
         },
         {
@@ -17190,7 +17190,7 @@ window.FULL_PATHS = {
             "One reassuring observation or statement cannot replace the required assessment and demonstrated safety/function.",
             "Fits the stated criterion."
           ],
-          "reason": "Evaluate that medical care, protection, reporting, documentation and follow-up are completed; a caregiver's agreement alone does not establish safety."
+          "reason": "Evaluate that medical care, protection, reporting, documentation, and follow-up are completed; a caregiver's agreement alone does not establish safety."
         },
         {
           "id": "A-L04-q5",
@@ -17236,7 +17236,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L05-s1",
           "title": "Understand the pattern",
-          "body": "Address immediate medical threats, keep the child safe and involve the provider, child-protection team, social work and forensic services as appropriate. Arrange a safe disposition and avoid returning the child to an unsafe situation without the protective plan.",
+          "body": "Address immediate medical threats, keep the child safe, and involve the provider, child-protection team, social work, and forensic services as appropriate. Arrange a safe disposition and avoid returning the child to an unsafe situation without the protective plan.",
           "kind": "idea",
           "terms": [
             [
@@ -17256,13 +17256,13 @@ window.FULL_PATHS = {
         {
           "id": "A-L05-s2",
           "title": "Safety and reporting happen together.",
-          "body": "Safety and reporting happen together. A teaching pathway showing recognition, assessment, safety, documentation and reporting is not a rigid rule that delays protection or reporting until earlier boxes are finished.",
+          "body": "Safety and reporting happen together. A teaching pathway showing recognition, assessment, safety, documentation, and reporting is not a rigid rule that delays protection or reporting until earlier boxes are finished.",
           "kind": "idea"
         },
         {
           "id": "A-L05-s3",
           "title": "Connect it to nursing care",
-          "body": "Preserve evidence through the designated process and document findings, statements, time, people present, interventions, notifications and response. Avoid accusing the caregiver or trying to extract a confession.",
+          "body": "Preserve evidence through the designated process and document findings, statements, time, people present, interventions, notifications, and response. Avoid accusing the caregiver or trying to extract a confession.",
           "kind": "idea"
         },
         {
@@ -17380,7 +17380,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Address immediate medical threats, keep the child safe and involve the provider, child-protection team, social work and forensic services as appropriate."
+          "reason": "Address immediate medical threats, keep the child safe, and involve the provider, child-protection team, social work, and forensic services as appropriate."
         },
         {
           "id": "A-L05-q5",
@@ -17426,7 +17426,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L06-s1",
           "title": "Understand the pattern",
-          "body": "Speak calmly, directly, honestly, and without blame. Explain that the findings require a child-safety report, what the process involves and the immediate care plan. Seek team support for the conversation when needed for safety.",
+          "body": "Speak calmly, directly, honestly, and without blame. Explain that the findings require a child-safety report, what the process involves, and the immediate care plan. Seek team support for the conversation when needed for safety.",
           "kind": "idea",
           "terms": [
             [
@@ -17452,7 +17452,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L06-s3",
           "title": "Connect it to nursing care",
-          "body": "Explain confidentiality limits to the child in understandable language. Evaluate that medical care, protection, reporting, documentation and follow-up are completed; a caregiver's agreement alone does not establish safety.",
+          "body": "Explain confidentiality limits to the child in understandable language. Evaluate that medical care, protection, reporting, documentation, and follow-up are completed; a caregiver's agreement alone does not establish safety.",
           "kind": "idea"
         },
         {
@@ -17564,7 +17564,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Explain that the findings require a child-safety report, what the process involves and the immediate care plan."
+          "reason": "Explain that the findings require a child-safety report, what the process involves, and the immediate care plan."
         },
         {
           "id": "A-L06-q5",
@@ -17624,7 +17624,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L07-s1",
           "title": "Understand the pattern",
-          "body": "Provide a private, quiet, nonthreatening setting and speak at the child's eye level. Use a calm voice, explain what will happen and offer developmentally appropriate choices. Allow silence, play or drawing when helpful.",
+          "body": "Provide a private, quiet, nonthreatening setting and speak at the child's eye level. Use a calm voice, explain what will happen, and offer developmentally appropriate choices. Allow silence, play, or drawing when helpful.",
           "kind": "idea",
           "terms": [
             [
@@ -17644,7 +17644,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L07-s2",
           "title": "Understand the pattern",
-          "body": "Ask open, nonleading questions, such as \"Tell me what happened.\" Let the child use their own words. Avoid naming an alleged perpetrator in the question, suggesting an answer, repeatedly asking the same question or pressuring disclosure.",
+          "body": "Ask open, nonleading questions, such as \"Tell me what happened.\" Let the child use their own words. Avoid naming an alleged perpetrator in the question, suggesting an answer, repeatedly asking the same question, or pressuring disclosure.",
           "kind": "idea"
         },
         {
@@ -17840,7 +17840,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L08-s3",
           "title": "Connect it to nursing care",
-          "body": "If the child says \"I was bad, so he hit me,\" clarify that nothing the child did makes it acceptable to hurt them. Avoid \"What did you do to make him angry?\", disbelief, shock or statements defending the caregiver.",
+          "body": "If the child says \"I was bad, so he hit me,\" clarify that nothing the child did makes it acceptable to hurt them. Avoid \"What did you do to make him angry?\", disbelief, shock, or statements defending the caregiver.",
           "kind": "idea"
         },
         {
@@ -17964,7 +17964,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Avoid \"What did you do to make him angry?\", disbelief, shock or statements defending the caregiver."
+          "reason": "Avoid \"What did you do to make him angry?\", disbelief, shock, or statements defending the caregiver."
         },
         {
           "id": "A-L08-q5",
@@ -18010,7 +18010,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L09-s1",
           "title": "Understand the pattern",
-          "body": "Record size, color, shape and exact location of injuries; describe observations rather than labeling a person an abuser. Include the patient's and caregiver's exact statements in quotation marks, time, who was present and the nurse's actions.",
+          "body": "Record size, color, shape, and exact location of injuries; describe observations rather than labeling a person an abuser. Include the patient's and caregiver's exact statements in quotation marks, time, who was present, and the nurse's actions.",
           "kind": "idea",
           "terms": [
             [
@@ -18111,7 +18111,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Interpretations presented as direct quotations.",
-            "Observed facts, reported history and interpretations.",
+            "Observed facts, reported history, and interpretations.",
             "Assumptions merged with observed injury findings.",
             "History rewritten as witnessed fact."
           ],
@@ -18151,7 +18151,7 @@ window.FULL_PATHS = {
             "Pressure or repeated interrogation can add distress and interfere with a reliable, supportive account.",
             "Fits the stated criterion."
           ],
-          "reason": "Allow silence, play or drawing when helpful."
+          "reason": "Allow silence, play, or drawing when helpful."
         },
         {
           "id": "A-L09-q5",
@@ -18199,7 +18199,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Recognition and risk context",
       "focus": "Recognize coercive control and barriers to safety.",
-      "topic": "Intimate partner violence: privacy, safety and support",
+      "topic": "Intimate partner violence: privacy, safety, and support",
       "codes": [
         "A04"
       ],
@@ -18210,7 +18210,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L10-s1",
           "title": "Intimate partner violence (IPV)",
-          "body": "Intimate partner violence (IPV) is a pattern of assaultive or controlling behavior between current or former partners. It can include physical, sexual, emotional and financial harm, isolation, stalking, coercion and control, regardless of gender or marital status.",
+          "body": "Intimate partner violence (IPV) is a pattern of assaultive or controlling behavior between current or former partners. It can include physical, sexual, emotional, and financial harm, isolation, stalking, coercion, and control, regardless of gender or marital status.",
           "kind": "idea",
           "terms": [
             [
@@ -18230,7 +18230,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L10-s2",
           "title": "Understand the pattern",
-          "body": "Look for low self-esteem, fear, powerlessness, isolation, financial/emotional dependence, depression, PTSD or substances. Physical cues may include injuries inconsistent with the explanation, repeated emergency visits, head/neck injuries, or a partner who answers everything or refuses privacy.",
+          "body": "Look for low self-esteem, fear, powerlessness, isolation, financial/emotional dependence, depression, PTSD, or substances. Physical cues may include injuries inconsistent with the explanation, repeated emergency visits, head/neck injuries, or a partner who answers everything or refuses privacy.",
           "kind": "idea"
         },
         {
@@ -18392,7 +18392,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Private assessment and immediate action",
       "focus": "Arrange privacy after urgent medical needs are addressed.",
-      "topic": "Intimate partner violence: privacy, safety and support",
+      "topic": "Intimate partner violence: privacy, safety, and support",
       "codes": [
         "A04"
       ],
@@ -18403,7 +18403,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L11-s1",
           "title": "Understand the pattern",
-          "body": "Address urgent medical needs first. When the patient is medically stable, arrange a private interview for part of the encounter. Do not use the partner as an interpreter. Ask directly and nonjudgmentally about safety, threats, coercion and injuries, using a qualified interpreter when needed.",
+          "body": "Address urgent medical needs first. When the patient is medically stable, arrange a private interview for part of the encounter. Do not use the partner as an interpreter. Ask directly and nonjudgmentally about safety, threats, coercion, and injuries, using a qualified interpreter when needed.",
           "kind": "idea",
           "terms": [
             [
@@ -18423,7 +18423,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L11-s2",
           "title": "Understand the pattern",
-          "body": "Assess immediate danger, weapons, threats, self-harm/suicide risk and the safety of children or other dependents. Treat urgent injuries and coordinate the safety response. Do not confront the partner or force a disclosure in front of them.",
+          "body": "Assess immediate danger, weapons, threats, self-harm/suicide risk, and the safety of children or other dependents. Treat urgent injuries and coordinate the safety response. Do not confront the partner or force a disclosure in front of them.",
           "kind": "idea"
         },
         {
@@ -18547,7 +18547,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Assess immediate danger, weapons, threats, self-harm/suicide risk and the safety of children or other dependents."
+          "reason": "Assess immediate danger, weapons, threats, self-harm/suicide risk, and the safety of children or other dependents."
         },
         {
           "id": "A-L11-q5",
@@ -18568,7 +18568,7 @@ window.FULL_PATHS = {
             "Pressure or repeated interrogation can add distress and interfere with a reliable, supportive account.",
             "Fits the stated criterion."
           ],
-          "reason": "Ask directly and nonjudgmentally about safety, threats, coercion and injuries, using a qualified interpreter when needed."
+          "reason": "Ask directly and nonjudgmentally about safety, threats, coercion, and injuries, using a qualified interpreter when needed."
         }
       ],
       "pre": [
@@ -18580,9 +18580,9 @@ window.FULL_PATHS = {
       "number": 12,
       "path": "A",
       "subject": "A",
-      "title": "Support, planning and outcomes",
+      "title": "Support, planning, and outcomes",
       "focus": "Respect autonomy while building a practical safety plan.",
-      "topic": "Intimate partner violence: privacy, safety and support",
+      "topic": "Intimate partner violence: privacy, safety, and support",
       "codes": [
         "A04"
       ],
@@ -18613,13 +18613,13 @@ window.FULL_PATHS = {
         {
           "id": "A-L12-s2",
           "title": "Understand the pattern",
-          "body": "Collaborate on a practical safety plan: a safe destination, trusted contacts, essential documents/medicines, resources, and a safe way to seek help. Check whether written/phone information can be kept safely. Offer shelter, advocacy, legal and mental-health referrals according to need.",
+          "body": "Collaborate on a practical safety plan: a safe destination, trusted contacts, essential documents/medicines, resources, and a safe way to seek help. Check whether written/phone information can be kept safely. Offer shelter, advocacy, legal, and mental-health referrals according to need.",
           "kind": "idea"
         },
         {
           "id": "A-L12-s3",
           "title": "Connect it to nursing care",
-          "body": "Ongoing care addresses physical injury, trauma, depression, social supports and dependent safety. Evaluate access to support and a feasible plan; continued contact with a partner does not make the patient responsible for the violence.",
+          "body": "Ongoing care addresses physical injury, trauma, depression, social supports, and dependent safety. Evaluate access to support and a feasible plan; continued contact with a partner does not make the patient responsible for the violence.",
           "kind": "idea"
         },
         {
@@ -18779,7 +18779,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Recognition and risks",
       "focus": "Distinguish bullying from an isolated disagreement.",
-      "topic": "Bullying: risk, behavioral changes and nursing support",
+      "topic": "Bullying: risk, behavioral changes, and nursing support",
       "codes": [
         "A05"
       ],
@@ -18810,7 +18810,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L13-s2",
           "title": "Understand the pattern",
-          "body": "Risk contexts include few supportive friendships, isolation, low self-esteem, anxiety/depression, difficulty asserting needs, poor peer support or being perceived as different. These factors identify support needs, not blame or an inevitable outcome.",
+          "body": "Risk contexts include few supportive friendships, isolation, low self-esteem, anxiety/depression, difficulty asserting needs, poor peer support, or being perceived as different. These factors identify support needs, not blame or an inevitable outcome.",
           "kind": "idea"
         },
         {
@@ -18931,7 +18931,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Risk contexts include few supportive friendships, isolation, low self-esteem, anxiety/depression, difficulty asserting needs, poor peer support or being perceived as different."
+          "reason": "Risk contexts include few supportive friendships, isolation, low self-esteem, anxiety/depression, difficulty asserting needs, poor peer support, or being perceived as different."
         },
         {
           "id": "A-L13-q5",
@@ -18966,7 +18966,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Behavioral and physical cues",
       "focus": "Connect behavior changes with private safety and mood assessment.",
-      "topic": "Bullying: risk, behavioral changes and nursing support",
+      "topic": "Bullying: risk, behavioral changes, and nursing support",
       "codes": [
         "A05"
       ],
@@ -18977,7 +18977,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L14-s1",
           "title": "Understand the pattern",
-          "body": "Findings may include school avoidance, withdrawal, worsening grades, headaches or stomachaches, disrupted sleep/appetite, anxiety, low confidence, injuries or missing belongings.",
+          "body": "Findings may include school avoidance, withdrawal, worsening grades, headaches or stomachaches, disrupted sleep/appetite, anxiety, low confidence, injuries, or missing belongings.",
           "kind": "idea",
           "terms": [
             [
@@ -18997,7 +18997,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L14-s2",
           "title": "Understand the pattern",
-          "body": "Ask directly and privately about what is happening and whether the child feels safe. Screen for depression, self-harm and suicidal thoughts. Do not dismiss a complaint as normal teasing when fear, repetition or a power imbalance is present.",
+          "body": "Ask directly and privately about what is happening and whether the child feels safe. Screen for depression, self-harm, and suicidal thoughts. Do not dismiss a complaint as normal teasing when fear, repetition, or a power imbalance is present.",
           "kind": "idea"
         },
         {
@@ -19115,7 +19115,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Findings may include school avoidance, withdrawal, worsening grades, headaches or stomachaches, disrupted sleep/appetite, anxiety, low confidence, injuries or missing belongings."
+          "reason": "Findings may include school avoidance, withdrawal, worsening grades, headaches or stomachaches, disrupted sleep/appetite, anxiety, low confidence, injuries, or missing belongings."
         },
         {
           "id": "A-L14-q5",
@@ -19150,7 +19150,7 @@ window.FULL_PATHS = {
       "subject": "A",
       "title": "Interventions and outcomes",
       "focus": "Coordinate support and evaluate daily function and safety.",
-      "topic": "Bullying: risk, behavioral changes and nursing support",
+      "topic": "Bullying: risk, behavioral changes, and nursing support",
       "codes": [
         "A05"
       ],
@@ -19161,7 +19161,7 @@ window.FULL_PATHS = {
         {
           "id": "A-L15-s1",
           "title": "Understand the pattern",
-          "body": "Validate the child's experience, reinforce that they deserve safety and identify trusted adults. Build coping, confidence and a concrete response plan with family, a school counselor, mental-health services and community supports as appropriate.",
+          "body": "Validate the child's experience, reinforce that they deserve safety, and identify trusted adults. Build coping, confidence, and a concrete response plan with family, a school counselor, mental-health services, and community supports as appropriate.",
           "kind": "idea",
           "terms": [
             [
@@ -19181,13 +19181,13 @@ window.FULL_PATHS = {
         {
           "id": "A-L15-s2",
           "title": "Understand the pattern",
-          "body": "Document objective findings and disclosures and follow safeguarding/reporting duties when abuse is suspected. Do not advise the child simply to ignore danger, retaliate physically or manage the situation alone.",
+          "body": "Document objective findings and disclosures and follow safeguarding/reporting duties when abuse is suspected. Do not advise the child simply to ignore danger, retaliate physically, or manage the situation alone.",
           "kind": "idea"
         },
         {
           "id": "A-L15-s3",
           "title": "Connect it to nursing care",
-          "body": "Evaluate safety, school participation, sleep, peer support and willingness/ability to obtain help. Reassess suicide risk when distress or withdrawal worsens; the absence of a visible injury does not establish recovery.",
+          "body": "Evaluate safety, school participation, sleep, peer support, and willingness/ability to obtain help. Reassess suicide risk when distress or withdrawal worsens; the absence of a visible injury does not establish recovery.",
           "kind": "idea"
         },
         {
@@ -19308,7 +19308,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Evaluate safety, school participation, sleep, peer support and willingness/ability to obtain help."
+          "reason": "Evaluate safety, school participation, sleep, peer support, and willingness/ability to obtain help."
         },
         {
           "id": "A-L15-q5",
@@ -19432,7 +19432,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "Examples to recognize",
-              "Different language, cognitive, sensory and self-care abilities"
+              "Different language, cognitive, sensory, and self-care abilities"
             ],
             [
               "Clinical implication",
@@ -19450,7 +19450,7 @@ window.FULL_PATHS = {
         {
           "id": "N-L01-s7",
           "title": "Risk context is not a diagnosis",
-          "body": "The supplied ATI sources describe a possible genetic component and an incompletely understood cause. Developmental screening and specialist evaluation investigate the pattern; no single caregiver action, repetitive behavior or family-history item establishes ASD. Early assessment and intervention can improve function.",
+          "body": "The supplied ATI sources describe a possible genetic component and an incompletely understood cause. Developmental screening and specialist evaluation investigate the pattern; no single caregiver action, repetitive behavior, or family-history item establishes ASD. Early assessment and intervention can improve function.",
           "kind": "idea"
         },
         {
@@ -19514,7 +19514,7 @@ window.FULL_PATHS = {
           "reasons": [
             "Language fluency does not exclude ASD; assess both major patterns and individual function.",
             "Restricted routines do not establish a specific academic-skill difficulty.",
-            "Communication, cognition and support needs require individual assessment.",
+            "Communication, cognition, and support needs require individual assessment.",
             "Speech ability varies across the spectrum and is not an exclusion by itself."
           ]
         },
@@ -19625,7 +19625,7 @@ window.FULL_PATHS = {
           "title": "Follow the sequence",
           "sequence": [
             "Change from baseline",
-            "Physical, sensory, developmental and school assessment",
+            "Physical, sensory, developmental, and school assessment",
             "Individualized response"
           ],
           "body": "",
@@ -19716,7 +19716,7 @@ window.FULL_PATHS = {
             0
           ],
           "reasons": [
-            "Antecedents, the behavior and what follows can reveal a pattern and guide support.",
+            "Antecedents, the behavior, and what follows can reveal a pattern and guide support.",
             "Impact matters, but inconvenience does not identify the mechanism.",
             "The diagnosis alone does not explain the change or trigger.",
             "Another child's pattern does not establish this child's trigger."
@@ -19729,7 +19729,7 @@ window.FULL_PATHS = {
           "choices": [
             "A higher dose based on the diagnosis alone.",
             "Sleep and recent routine changes.",
-            "Pain, eating and elimination patterns.",
+            "Pain, eating, and elimination patterns.",
             "Potential coexisting learning or mood concerns.",
             "Caregiver and teacher observations."
           ],
@@ -19744,7 +19744,7 @@ window.FULL_PATHS = {
             "Sleep and transitions can contribute to behavior.",
             "Physical needs may be communicated through behavior.",
             "New school issues may reflect needs alongside ASD.",
-            "Multiple settings clarify baseline, triggers and impairment."
+            "Multiple settings clarify baseline, triggers, and impairment."
           ]
         },
         {
@@ -19816,7 +19816,7 @@ window.FULL_PATHS = {
         {
           "id": "N-L03-s3",
           "title": "If an atypical antipsychotic is prescribed",
-          "body": "Risperidone is one symptom-targeted option; monitor the target behavior together with sedation, orthostatic symptoms, weight, glucose/metabolic effects and abnormal movements. Olanzapine is a related atypical antipsychotic, not another name for risperidone. A quieter child who cannot participate because of sedation has not necessarily improved.",
+          "body": "Risperidone is one symptom-targeted option; monitor the target behavior together with sedation, orthostatic symptoms, weight, glucose/metabolic effects, and abnormal movements. Olanzapine is a related atypical antipsychotic, not another name for risperidone. A quieter child who cannot participate because of sedation has not necessarily improved.",
           "kind": "idea"
         },
         {
@@ -19923,7 +19923,7 @@ window.FULL_PATHS = {
             "Reinforcement should be meaningful to the individual.",
             "Consistency supports predictability across settings.",
             "Silence may reflect distress or sedation rather than useful engagement.",
-            "SLP, OT or PT may support different needs.",
+            "SLP, OT, or PT may support different needs.",
             "Medication can target symptoms but does not cure ASD."
           ]
         },
@@ -19971,7 +19971,7 @@ window.FULL_PATHS = {
       "path": "N",
       "subject": "N",
       "title": "ADHD: separate the three domains",
-      "focus": "Distinguish inattention, hyperactivity and impulsivity and assess impairment across settings.",
+      "focus": "Distinguish inattention, hyperactivity, and impulsivity and assess impairment across settings.",
       "topic": "ADHD and methylphenidate",
       "codes": [
         "N02"
@@ -20136,7 +20136,7 @@ window.FULL_PATHS = {
           "choices": [
             "Classify the report as combined ADHD.",
             "Exclude ADHD because sleep changed.",
-            "Gather sleep, health and cross-setting history.",
+            "Gather sleep, health, and cross-setting history.",
             "Request stimulant treatment from the report."
           ],
           "key": [
@@ -20155,7 +20155,7 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "Activity during one exciting visit as the full basis.",
-            "Sleep, learning and mood concerns.",
+            "Sleep, learning, and mood concerns.",
             "Sustained pattern of attention or impulse problems.",
             "Function at home and at school.",
             "A sibling's dose as the treatment baseline."
@@ -20204,7 +20204,7 @@ window.FULL_PATHS = {
       "path": "N",
       "subject": "N",
       "title": "ADHD: build a multimodal plan",
-      "focus": "Combine behavioral, school, family and medication supports rather than expecting one to do everything.",
+      "focus": "Combine behavioral, school, family, and medication supports rather than expecting one to do everything.",
       "topic": "ADHD and methylphenidate",
       "codes": [
         "N02"
@@ -20298,8 +20298,8 @@ window.FULL_PATHS = {
             2
           ],
           "reasons": [
-            "Plans involve the child, caregiver and school and should target shared goals.",
-            "Meaningful benefit includes task completion, safer impulses and participation, not quietness alone.",
+            "Plans involve the child, caregiver, and school and should target shared goals.",
+            "Meaningful benefit includes task completion, safer impulses, and participation, not quietness alone.",
             "Medication may improve regulation while behavioral and school supports build skills and access.",
             "Supports are complementary rather than reserved for medication failure."
           ]
@@ -20366,7 +20366,7 @@ window.FULL_PATHS = {
             "Reduced interaction alone is not improvement when function worsens.",
             "Appetite loss is an adverse effect, and no functional benefit is shown.",
             "Sedation and missed participation are not desired ADHD outcomes.",
-            "These outcomes reflect attention, impulse control and functional participation."
+            "These outcomes reflect attention, impulse control, and functional participation."
           ]
         }
       ],
@@ -20416,7 +20416,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "More likely adverse effect",
-              "Insomnia, reduced appetite or weight loss"
+              "Insomnia, reduced appetite, or weight loss"
             ]
           ],
           "kind": "idea"
@@ -20428,7 +20428,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "More likely adverse effect",
-              "Chest pain, dysrhythmia or significant BP change"
+              "Chest pain, dysrhythmia, or significant BP change"
             ]
           ],
           "kind": "idea"
@@ -20533,7 +20533,7 @@ window.FULL_PATHS = {
             "Peer function omitted once grades improve.",
             "Pulse and blood pressure.",
             "Dose effectiveness inferred from weight loss.",
-            "Appetite, height and weight trends."
+            "Appetite, height, and weight trends."
           ],
           "key": [
             0,
@@ -20655,7 +20655,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "Care connection",
-              "May add stimulation, irritability, insomnia or cardiovascular effects."
+              "May add stimulation, irritability, insomnia, or cardiovascular effects."
             ]
           ],
           "kind": "idea"
@@ -20675,7 +20675,7 @@ window.FULL_PATHS = {
         {
           "id": "N-L07-s6",
           "title": "Connect it to nursing care",
-          "body": "For the patch instructions in the supplied ATI text, apply in the morning to one hip, alternate hips daily, and leave it on no longer than nine hours; follow the prescription. Remove the patch and report hives or papules. Store medication securely and do not share it. Review all prescribed drugs, OTC cold/decongestant products and supplements. Caffeine and sympathomimetic decongestants can increase stimulation. MAOI use requires prescriber review and an appropriate interval, not concurrent administration.",
+          "body": "For the patch instructions in the supplied ATI text, apply in the morning to one hip, alternate hips daily, and leave it on no longer than nine hours; follow the prescription. Remove the patch and report hives or papules. Store medication securely and do not share it. Review all prescribed drugs, OTC cold/decongestant products, and supplements. Caffeine and sympathomimetic decongestants can increase stimulation. MAOI use requires prescriber review and an appropriate interval, not concurrent administration.",
           "kind": "idea"
         },
         {
@@ -20800,7 +20800,7 @@ window.FULL_PATHS = {
             0
           ],
           "reasons": [
-            "The reviewed ATI patch passage describes morning hip placement, daily hip rotation and a maximum nine-hour wear period.",
+            "The reviewed ATI patch passage describes morning hip placement, daily hip rotation, and a maximum nine-hour wear period.",
             "Daily hip alternation is specified.",
             "A patch is not an unsupervised substitute for a missed oral formulation.",
             "The supplied passage limits wear to no longer than nine hours and describes morning placement."
@@ -21282,7 +21282,7 @@ window.FULL_PATHS = {
             "Listening can be useful, but reciprocal caregiver-child interaction is not described.",
             "Constant correction can discourage participation and replaces responsive support with testing.",
             "Excessive demand can frustrate rather than support successful practice.",
-            "Reciprocal engagement combines vocabulary, communication and social-emotional connection."
+            "Reciprocal engagement combines vocabulary, communication, and social-emotional connection."
           ]
         },
         {
@@ -21485,7 +21485,7 @@ window.FULL_PATHS = {
           "stem": "Which actions support an individualized educational plan?",
           "fmt": "A",
           "choices": [
-            "Coordinate school, caregiver and relevant referrals.",
+            "Coordinate school, caregiver, and relevant referrals.",
             "Measure skill and participation over time.",
             "Use the same services regardless of assessed function.",
             "Connect the assessed skill gap to targeted instruction.",
@@ -21626,7 +21626,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Difficulty decoding words during reading class.",
-            "Repeated theft, property destruction and aggression.",
+            "Repeated theft, property destruction, and aggression.",
             "Arguing about a bedtime after a stressful day.",
             "Repeating a phrase to relieve fear of harm."
           ],
@@ -21667,7 +21667,7 @@ window.FULL_PATHS = {
           "choices": [
             "A moral judgment that the child is bad.",
             "Destruction of others' property.",
-            "Deceit, theft or serious rule violations.",
+            "Deceit, theft, or serious rule violations.",
             "Safety and coexisting needs.",
             "Aggression toward people or animals."
           ],
@@ -22018,7 +22018,7 @@ window.FULL_PATHS = {
           "reasons": [
             "A medication response cannot demonstrate responsibility for behavior.",
             "Coexisting conditions and functional needs still require individualized care.",
-            "Symptom-targeted medication does not replace consistent limits, skills or assessment.",
+            "Symptom-targeted medication does not replace consistent limits, skills, or assessment.",
             "Safety assessment remains necessary."
           ]
         },
@@ -22225,7 +22225,7 @@ window.FULL_PATHS = {
           "stem": "Which features should the nurse assess when OCD is suspected?",
           "fmt": "A",
           "choices": [
-            "Intrusive thoughts, urges or images.",
+            "Intrusive thoughts, urges, or images.",
             "Time spent and interference with daily activities.",
             "Visible behaviors and mental rituals.",
             "Distress and triggers.",
@@ -22386,7 +22386,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Whether the child agrees the fear is unreasonable.",
-            "Skin integrity, intake and functional burden.",
+            "Skin integrity, intake, and functional burden.",
             "Whether one good school grade excludes impairment.",
             "Whether the child can hide the ritual from others."
           ],
@@ -22407,7 +22407,7 @@ window.FULL_PATHS = {
           "choices": [
             "Promise that nothing bad could ever happen.",
             "Remove every ritual without the treatment plan.",
-            "Assess effects on sleep, meals, school and skin.",
+            "Assess effects on sleep, meals, school, and skin.",
             "Shame the child for time lost to rituals.",
             "Use a calm nonjudgmental approach."
           ],
@@ -22486,7 +22486,7 @@ window.FULL_PATHS = {
         {
           "id": "N-L17-s2",
           "title": "Connect it to nursing care",
-          "body": "Support the agreed therapy, gradual coping practice, and caregiver plan. A prescribed SSRI such as sertraline or fluoxetine may help symptoms; monitor adherence, adverse effects and mood/suicidal changes, especially during initiation or changes. Do not independently adjust or stop it. Evaluate less ritual time, better anxiety tolerance, healing skin, and return to daily function; temporary distress during planned practice does not by itself establish treatment failure.",
+          "body": "Support the agreed therapy, gradual coping practice, and caregiver plan. A prescribed SSRI such as sertraline or fluoxetine may help symptoms; monitor adherence, adverse effects, and mood/suicidal changes, especially during initiation or changes. Do not independently adjust or stop it. Evaluate less ritual time, better anxiety tolerance, healing skin, and return to daily function; temporary distress during planned practice does not by itself establish treatment failure.",
           "kind": "idea"
         },
         {
@@ -22591,7 +22591,7 @@ window.FULL_PATHS = {
             4
           ],
           "reasons": [
-            "Independent stopping, doubling or switching is unsafe.",
+            "Independent stopping, doubling, or switching is unsafe.",
             "Medication complements the broader plan.",
             "Adherence matters but cannot establish symptom and functional benefit.",
             "Medication benefit is not an immediate cure and needs ongoing assessment.",
@@ -22656,7 +22656,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L01-s1",
           "title": "Wilms tumor = nephroblastoma",
-          "body": "Wilms tumor = nephroblastoma, a pediatric kidney tumor. A firm, painless flank/abdominal mass is a characteristic finding. Hematuria, hypertension, fever, pallor, lethargy or a one-sided abdominal bulge may also occur.",
+          "body": "Wilms tumor = nephroblastoma, a pediatric kidney tumor. A firm, painless flank/abdominal mass is a characteristic finding. Hematuria, hypertension, fever, pallor, lethargy, or a one-sided abdominal bulge may also occur.",
           "kind": "idea",
           "terms": [
             [
@@ -22864,7 +22864,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L02-s2",
           "title": "Understand the pattern",
-          "body": "Use observation, vital signs, urine assessment and the ordered diagnostic plan rather than repeated palpation to verify the mass. A question asking for the safest nursing assessment tests this protection principle.",
+          "body": "Use observation, vital signs, urine assessment, and the ordered diagnostic plan rather than repeated palpation to verify the mass. A question asking for the safest nursing assessment tests this protection principle.",
           "kind": "idea"
         },
         {
@@ -23048,13 +23048,13 @@ window.FULL_PATHS = {
         {
           "id": "O-L03-s2",
           "title": "Understand the pattern",
-          "body": "Prepare the child and family with developmentally appropriate explanations. After surgery assess circulation, breathing, pain, urine output and blood pressure, incision/drainage and bowel function. Protect remaining renal function and monitor treatment-related infection or bleeding risk.",
+          "body": "Prepare the child and family with developmentally appropriate explanations. After surgery assess circulation, breathing, pain, urine output and blood pressure, incision/drainage, and bowel function. Protect remaining renal function and monitor treatment-related infection or bleeding risk.",
           "kind": "idea"
         },
         {
           "id": "O-L03-s3",
           "title": "Connect it to nursing care",
-          "body": "Provide prescribed fluids, analgesia and gradual activity/nutrition under the postoperative plan. Give family support for procedures, body changes, and ongoing cancer therapy.",
+          "body": "Provide prescribed fluids, analgesia, and gradual activity/nutrition under the postoperative plan. Give family support for procedures, body changes, and ongoing cancer therapy.",
           "kind": "idea"
         },
         {
@@ -23172,7 +23172,7 @@ window.FULL_PATHS = {
             "Medication changes require the drug-specific prescribed plan; independent changes can cause harm or relapse.",
             "Fits the stated criterion."
           ],
-          "reason": "Provide prescribed fluids, analgesia and gradual activity/nutrition under the postoperative plan."
+          "reason": "Provide prescribed fluids, analgesia, and gradual activity/nutrition under the postoperative plan."
         },
         {
           "id": "O-L03-q5",
@@ -23239,7 +23239,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L04-s2",
           "title": "Understand the pattern",
-          "body": "Report fever, poor output, worsening pain, abdominal change or other deterioration promptly. Evaluate safe tissue handling, stable urine/renal findings, healing and family understanding alongside the oncologic response.",
+          "body": "Report fever, poor output, worsening pain, abdominal change, or other deterioration promptly. Evaluate safe tissue handling, stable urine/renal findings, healing, and family understanding alongside the oncologic response.",
           "kind": "idea"
         },
         {
@@ -23357,7 +23357,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Evaluate safe tissue handling, stable urine/renal findings, healing and family understanding alongside the oncologic response."
+          "reason": "Evaluate safe tissue handling, stable urine/renal findings, healing, and family understanding alongside the oncologic response."
         },
         {
           "id": "O-L04-q5",
@@ -23415,7 +23415,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L05-s1",
           "title": "Understand the pattern",
-          "body": "A brain tumor can affect function through its location, edema, obstructed CSF flow or hemorrhage. Important cues include headache, morning vomiting, ataxia (an unsteady or poorly coordinated gait), visual changes, lethargy, seizures and focal neurologic deficits.",
+          "body": "A brain tumor can affect function through its location, edema, obstructed CSF flow, or hemorrhage. Important cues include headache, morning vomiting, ataxia (an unsteady or poorly coordinated gait), visual changes, lethargy, seizures, and focal neurologic deficits.",
           "kind": "idea",
           "terms": [
             [
@@ -23435,13 +23435,13 @@ window.FULL_PATHS = {
         {
           "id": "O-L05-s2",
           "title": "Understand the pattern",
-          "body": "Assess a change in gait, balance, behavior, school performance, strength, vision, speech and endocrine/growth patterns. Morning vomiting with headache or progressive neurologic change deserves follow-up even without a gastrointestinal illness.",
+          "body": "Assess a change in gait, balance, behavior, school performance, strength, vision, speech, and endocrine/growth patterns. Morning vomiting with headache or progressive neurologic change deserves follow-up even without a gastrointestinal illness.",
           "kind": "idea"
         },
         {
           "id": "O-L05-s3",
           "title": "Connect it to nursing care",
-          "body": "Cerebellar lesions can affect coordination/balance, occipital lesions vision and hypothalamic lesions growth, temperature or other regulatory functions. These are assessment clues, not precise stand-alone localization tests.",
+          "body": "Cerebellar lesions can affect coordination/balance, occipital lesions vision, and hypothalamic lesions growth, temperature, or other regulatory functions. These are assessment clues, not precise stand-alone localization tests.",
           "kind": "idea"
         },
         {
@@ -23508,7 +23508,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting or worsening headache needs prompt evaluation."
+          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting, or worsening headache needs prompt evaluation."
         },
         {
           "id": "O-L05-q3",
@@ -23529,7 +23529,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Important cues include headache, morning vomiting, ataxia (an unsteady or poorly coordinated gait), visual changes, lethargy, seizures and focal neurologic deficits."
+          "reason": "Important cues include headache, morning vomiting, ataxia (an unsteady or poorly coordinated gait), visual changes, lethargy, seizures, and focal neurologic deficits."
         },
         {
           "id": "O-L05-q4",
@@ -23559,7 +23559,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Assess a change in gait, balance, behavior, school performance, strength, vision, speech and endocrine/growth patterns."
+          "reason": "Assess a change in gait, balance, behavior, school performance, strength, vision, speech, and endocrine/growth patterns."
         },
         {
           "id": "O-L05-q5",
@@ -23605,7 +23605,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L06-s1",
           "title": "Understand the pattern",
-          "body": "Trend mental status/level of consciousness, pupils, motor function, vital signs and seizures. A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting or worsening headache needs prompt evaluation.",
+          "body": "Trend mental status/level of consciousness, pupils, motor function, vital signs, and seizures. A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting, or worsening headache needs prompt evaluation.",
           "kind": "idea",
           "terms": [
             [
@@ -23625,7 +23625,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L06-s2",
           "title": "Understand the pattern",
-          "body": "In an infant, increased-ICP cues can include a bulging fontanel, separated sutures, distended scalp veins, high-pitched cry and poor feeding. Assess age-appropriate signs and a change from baseline; an infant cannot describe the headache or visual symptoms an older child may report.",
+          "body": "In an infant, increased-ICP cues can include a bulging fontanel, separated sutures, distended scalp veins, high-pitched cry, and poor feeding. Assess age-appropriate signs and a change from baseline; an infant cannot describe the headache or visual symptoms an older child may report.",
           "kind": "idea"
         },
         {
@@ -23761,7 +23761,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting or worsening headache needs prompt evaluation."
+          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting, or worsening headache needs prompt evaluation."
         },
         {
           "id": "O-L06-q5",
@@ -23782,7 +23782,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "This delays the response to the warning finding or urgent need identified by the question."
           ],
-          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting or worsening headache needs prompt evaluation."
+          "reason": "A decline from baseline, increasing lethargy, new focal deficit, repeated vomiting, or worsening headache needs prompt evaluation."
         }
       ],
       "pre": [
@@ -23827,19 +23827,19 @@ window.FULL_PATHS = {
         {
           "id": "O-L07-s2",
           "title": "Understand the pattern",
-          "body": "Treatment can include surgery, chemotherapy and/or radiation according to the tumor and plan. The goal includes tumor treatment while preserving neurologic function.",
+          "body": "Treatment can include surgery, chemotherapy, and/or radiation according to the tumor and plan. The goal includes tumor treatment while preserving neurologic function.",
           "kind": "idea"
         },
         {
           "id": "O-L07-s3",
           "title": "Connect it to nursing care",
-          "body": "Before and after intervention, follow prescribed positioning, fluid regulation, comfort measures, and seizure/safety precautions. Monitor neurologic status frequently, vital signs, intake/output and new endocrine or fluid-balance changes.",
+          "body": "Before and after intervention, follow prescribed positioning, fluid regulation, comfort measures, and seizure/safety precautions. Monitor neurologic status frequently, vital signs, intake/output, and new endocrine or fluid-balance changes.",
           "kind": "idea"
         },
         {
           "id": "O-L07-s4",
           "title": "Connect it to nursing care",
-          "body": "Teach caregivers to report new neurologic findings, severe/worsening headache, repeated vomiting, seizures or altered alertness. Evaluate stable/improving neurologic function and safe recovery rather than only relief of one symptom.",
+          "body": "Teach caregivers to report new neurologic findings, severe/worsening headache, repeated vomiting, seizures, or altered alertness. Evaluate stable/improving neurologic function and safe recovery rather than only relief of one symptom.",
           "kind": "idea"
         },
         {
@@ -24040,7 +24040,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L08-s2",
           "title": "Understand the pattern",
-          "body": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity or an abnormal red reflex. Pain, redness, swelling or severe visual loss can occur later. Arrange evaluation of the warning finding even when the child has no pain.",
+          "body": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity, or an abnormal red reflex. Pain, redness, swelling, or severe visual loss can occur later. Arrange evaluation of the warning finding even when the child has no pain.",
           "kind": "idea"
         },
         {
@@ -24164,7 +24164,7 @@ window.FULL_PATHS = {
             "Strabismus is eye misalignment, not a white reflection.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity or an abnormal red reflex."
+          "reason": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity, or an abnormal red reflex."
         },
         {
           "id": "O-L08-q5",
@@ -24210,7 +24210,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L09-s1",
           "title": "Understand the pattern",
-          "body": "Assess the eye/reflex finding, vision behavior, alignment, family history and associated symptoms. An unexplained white pupil or abnormal red reflex needs prompt ophthalmologic evaluation, even if noticed only in a picture.",
+          "body": "Assess the eye/reflex finding, vision behavior, alignment, family history, and associated symptoms. An unexplained white pupil or abnormal red reflex needs prompt ophthalmologic evaluation, even if noticed only in a picture.",
           "kind": "idea",
           "terms": [
             [
@@ -24236,7 +24236,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L09-s3",
           "title": "Connect it to nursing care",
-          "body": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy or enucleation. Prepare the family for the actual specialist plan rather than implying one operation is inevitable.",
+          "body": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy, or enucleation. Prepare the family for the actual specialist plan rather than implying one operation is inevitable.",
           "kind": "idea"
         },
         {
@@ -24324,7 +24324,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy or enucleation."
+          "reason": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy, or enucleation."
         },
         {
           "id": "O-L09-q4",
@@ -24354,7 +24354,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity or an abnormal red reflex."
+          "reason": "Other findings can include strabismus (crossed or misaligned eyes), reduced visual acuity, or an abnormal red reflex."
         },
         {
           "id": "O-L09-q5",
@@ -24375,7 +24375,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Evaluate completion of referral, understanding and safe adaptation to visual needs."
+          "reason": "Evaluate completion of referral, understanding, and safe adaptation to visual needs."
         }
       ],
       "pre": [
@@ -24400,7 +24400,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L10-s1",
           "title": "Understand the pattern",
-          "body": "Use simple explanations, allow questions and address vision, appearance, procedures, and family distress. Genetic counseling and family/eye follow-up may be important when indicated.",
+          "body": "Use simple explanations, allow questions, and address vision, appearance, procedures, and family distress. Genetic counseling and family/eye follow-up may be important when indicated.",
           "kind": "idea",
           "terms": [
             [
@@ -24420,7 +24420,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L10-s2",
           "title": "Understand the pattern",
-          "body": "Teach the need for timely evaluation and follow-up of the other eye as prescribed. Evaluate completion of referral, understanding and safe adaptation to visual needs.",
+          "body": "Teach the need for timely evaluation and follow-up of the other eye as prescribed. Evaluate completion of referral, understanding, and safe adaptation to visual needs.",
           "kind": "idea"
         },
         {
@@ -24514,7 +24514,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy or enucleation."
+          "reason": "Treatments depend on disease extent and preservation of vision/life and can include eye-sparing therapies, chemotherapy, or enucleation."
         },
         {
           "id": "O-L10-q4",
@@ -24604,7 +24604,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L11-s1",
           "title": "Osteosarcoma (osteogenic sarcoma)",
-          "body": "Osteosarcoma (osteogenic sarcoma) is a bone-forming malignancy, often near the metaphysis of long bones during adolescent growth, including around the knee. Persistent bone pain, swelling, limp, reduced range of motion or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains.",
+          "body": "Osteosarcoma (osteogenic sarcoma) is a bone-forming malignancy, often near the metaphysis of long bones during adolescent growth, including around the knee. Persistent bone pain, swelling, limp, reduced range of motion, or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains.",
           "kind": "idea",
           "terms": [
             [
@@ -24630,13 +24630,13 @@ window.FULL_PATHS = {
         {
           "id": "O-L11-s3",
           "title": "Connect it to nursing care",
-          "body": "Adolescents may fear death, loss of independence, changed appearance, disrupted school/peer relationships, infertility or amputation. Assess what matters to the individual.",
+          "body": "Adolescents may fear death, loss of independence, changed appearance, disrupted school/peer relationships, infertility, or amputation. Assess what matters to the individual.",
           "kind": "idea"
         },
         {
           "id": "O-L11-s4",
           "title": "Connect it to nursing care",
-          "body": "An adolescent may understand death as inevitable and irreversible yet still experience it as a distant event. Ask about the individual's understanding, prior experiences and worries. Serious illness can interrupt identity, independence and connection with peers; concern about appearance can be especially important.",
+          "body": "An adolescent may understand death as inevitable and irreversible yet still experience it as a distant event. Ask about the individual's understanding, prior experiences, and worries. Serious illness can interrupt identity, independence, and connection with peers; concern about appearance can be especially important.",
           "kind": "idea"
         },
         {
@@ -24724,7 +24724,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Persistent bone pain, swelling, limp, reduced range of motion or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
+          "reason": "Persistent bone pain, swelling, limp, reduced range of motion, or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
         },
         {
           "id": "O-L11-q4",
@@ -24757,7 +24757,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Persistent bone pain, swelling, limp, reduced range of motion or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
+          "reason": "Persistent bone pain, swelling, limp, reduced range of motion, or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
         },
         {
           "id": "O-L11-q5",
@@ -24790,7 +24790,7 @@ window.FULL_PATHS = {
       "number": 12,
       "path": "O",
       "subject": "O",
-      "title": "Responding to prognosis, fear or death",
+      "title": "Responding to prognosis, fear, or death",
       "focus": "Respond honestly to questions about prognosis and death.",
       "topic": "Osteosarcoma and serious illness: adolescent communication",
       "codes": [
@@ -24823,7 +24823,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L12-s2",
           "title": "Understand the pattern",
-          "body": "Listen, acknowledge fear and tolerate silence. Avoid \"You will be fine,\" changing the subject, debating feelings or making a prognosis beyond the team's information. Arrange a shared discussion with the treating team when the question needs specific medical detail.",
+          "body": "Listen, acknowledge fear, and tolerate silence. Avoid \"You will be fine,\" changing the subject, debating feelings, or making a prognosis beyond the team's information. Arrange a shared discussion with the treating team when the question needs specific medical detail.",
           "kind": "idea"
         },
         {
@@ -24960,7 +24960,7 @@ window.FULL_PATHS = {
           "stem": "What should guide a discussion about death with an adolescent?",
           "fmt": "C",
           "choices": [
-            "The individual’s understanding, experience and worries.",
+            "The individual’s understanding, experience, and worries.",
             "An assumption based on age alone.",
             "The nurse’s own spiritual beliefs.",
             "A fixed script used for every family."
@@ -24999,7 +24999,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L13-s1",
           "title": "Anticipatory grief",
-          "body": "Anticipatory grief can begin before an expected or possible death. Illness, limb loss, changes in independence and disruption of familiar life can also create losses. Invite the adolescent and family to discuss the losses that matter to them.",
+          "body": "Anticipatory grief can begin before an expected or possible death. Illness, limb loss, changes in independence, and disruption of familiar life can also create losses. Invite the adolescent and family to discuss the losses that matter to them.",
           "kind": "idea",
           "terms": [
             [
@@ -25019,7 +25019,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L13-s2",
           "title": "Understand the pattern",
-          "body": "The Kubler-Ross five-stage framework includes denial (difficulty believing the diagnosis or loss), anger (directed toward self, others or objects), bargaining (negotiating for more time or a cure), depression (sadness about being unable to change the situation) and acceptance (acknowledging what is happening and planning ahead). Recognize the feelings; individuals do not necessarily experience them in the same order or for the same duration.",
+          "body": "The Kubler-Ross five-stage framework includes denial (difficulty believing the diagnosis or loss), anger (directed toward self, others, or objects), bargaining (negotiating for more time or a cure), depression (sadness about being unable to change the situation), and acceptance (acknowledging what is happening and planning ahead). Recognize the feelings; individuals do not necessarily experience them in the same order or for the same duration.",
           "kind": "idea"
         },
         {
@@ -25177,7 +25177,7 @@ window.FULL_PATHS = {
       "number": 14,
       "path": "O",
       "subject": "O",
-      "title": "Parents, siblings and practical support",
+      "title": "Parents, siblings, and practical support",
       "focus": "Include parents and siblings while preserving meaningful routines.",
       "topic": "Osteosarcoma and serious illness: adolescent communication",
       "codes": [
@@ -25190,7 +25190,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L14-s1",
           "title": "Understand the pattern",
-          "body": "Assess family coping, understanding and available support. Parents may feel helpless, afraid or uncertain. Help parents move from fear toward acknowledging the child's impending death when that is the clinical situation, with grief education, repeated information, and support.",
+          "body": "Assess family coping, understanding, and available support. Parents may feel helpless, afraid, or uncertain. Help parents move from fear toward acknowledging the child's impending death when that is the clinical situation, with grief education, repeated information, and support.",
           "kind": "idea",
           "terms": [
             [
@@ -25209,14 +25209,14 @@ window.FULL_PATHS = {
         },
         {
           "id": "O-L14-s2",
-          "title": "Siblings may feel guilty, regress developmentally or experience altered family relationships.",
-          "body": "Siblings may feel guilty, regress developmentally or experience altered family relationships. Assess their developmental needs, explain the ill child's treatment in age-appropriate language, invite questions and include them in appropriate contact with the child.",
+          "title": "Siblings may feel guilty, regress developmentally, or experience altered family relationships.",
+          "body": "Siblings may feel guilty, regress developmentally, or experience altered family relationships. Assess their developmental needs, explain the ill child's treatment in age-appropriate language, invite questions, and include them in appropriate contact with the child.",
           "kind": "idea"
         },
         {
           "id": "O-L14-s3",
           "title": "Connect it to nursing care",
-          "body": "Preserve routines, meaningful choices, realistic independence and school/peer connection where feasible. Offer school, social-work or nurse-liaison support for practical and relationship needs. Family members can express grief differently; assess each person's response rather than expecting a shared timetable.",
+          "body": "Preserve routines, meaningful choices, realistic independence, and school/peer connection where feasible. Offer school, social-work, or nurse-liaison support for practical and relationship needs. Family members can express grief differently; assess each person's response rather than expecting a shared timetable.",
           "kind": "idea"
         },
         {
@@ -25270,7 +25270,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "One information session without reassessment.",
-            "Repeated information, grief education and support.",
+            "Repeated information, grief education, and support.",
             "Reassurance that all parents grieve identically.",
             "Pressure to accept the situation immediately."
           ],
@@ -25334,7 +25334,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Assess their developmental needs, explain the ill child's treatment in age-appropriate language, invite questions and include them in appropriate contact with the child."
+          "reason": "Assess their developmental needs, explain the ill child's treatment in age-appropriate language, invite questions, and include them in appropriate contact with the child."
         },
         {
           "id": "O-L14-q5",
@@ -25368,7 +25368,7 @@ window.FULL_PATHS = {
       "number": 15,
       "path": "O",
       "subject": "O",
-      "title": "Care, comfort and rehabilitation",
+      "title": "Care, comfort, and rehabilitation",
       "focus": "Address real symptoms and rehabilitation while preserving dignity.",
       "topic": "Osteosarcoma and serious illness: adolescent communication",
       "codes": [
@@ -25381,7 +25381,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L15-s1",
           "title": "Understand the pattern",
-          "body": "Prepare for treatment-related pain, nausea, infection/bleeding risk and body changes. After amputation, phantom limb pain is real and deserves assessment and prescribed care. Coordinate rehabilitation and early discharge planning.",
+          "body": "Prepare for treatment-related pain, nausea, infection/bleeding risk, and body changes. After amputation, phantom limb pain is real and deserves assessment and prescribed care. Coordinate rehabilitation and early discharge planning.",
           "kind": "idea",
           "terms": [
             [
@@ -25401,13 +25401,13 @@ window.FULL_PATHS = {
         {
           "id": "O-L15-s2",
           "title": "Understand the pattern",
-          "body": "Support participation in school, peer relationships and activities as feasible. Prepare the adolescent and family for rehabilitation, a prosthesis when indicated, and continuing physical or occupational therapy. Support groups or counseling can help with adjustment and return to usual activities.",
+          "body": "Support participation in school, peer relationships, and activities as feasible. Prepare the adolescent and family for rehabilitation, a prosthesis when indicated, and continuing physical or occupational therapy. Support groups or counseling can help with adjustment and return to usual activities.",
           "kind": "idea"
         },
         {
           "id": "O-L15-s3",
           "title": "Palliative/supportive care",
-          "body": "Palliative/supportive care emphasizes symptom relief, comfort and quality of life. Hospice specializes in care of a person who is dying, with pain control, comfort, and dignity. Support both the child and the family, including family grieving that can continue after death.",
+          "body": "Palliative/supportive care emphasizes symptom relief, comfort, and quality of life. Hospice specializes in care of a person who is dying, with pain control, comfort, and dignity. Support both the child and the family, including family grieving that can continue after death.",
           "kind": "idea"
         },
         {
@@ -25462,7 +25462,7 @@ window.FULL_PATHS = {
           "choices": [
             "Restoring lost bone length.",
             "Tumor eradication as the sole goal.",
-            "Symptom relief, comfort and quality of life.",
+            "Symptom relief, comfort, and quality of life.",
             "Definitive tumor staging."
           ],
           "key": [
@@ -25481,7 +25481,7 @@ window.FULL_PATHS = {
           "stem": "What is the focus of hospice care?",
           "fmt": "C",
           "choices": [
-            "Comfort, dignity and pain control for a person who is dying.",
+            "Comfort, dignity, and pain control for a person who is dying.",
             "Diagnostic biopsy and staging.",
             "A guarantee of disease eradication.",
             "Routine screening before cancer is diagnosed."
@@ -25572,7 +25572,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L16-s1",
           "title": "Understand the pattern",
-          "body": "Ask about the family's beliefs, desired rituals and sources of comfort or strength. Facilitate requested spiritual or cultural support, including a spiritual adviser if wanted. Respect individual preferences and keep communication honest and accepting.",
+          "body": "Ask about the family's beliefs, desired rituals, and sources of comfort or strength. Facilitate requested spiritual or cultural support, including a spiritual adviser if wanted. Respect individual preferences and keep communication honest and accepting.",
           "kind": "idea",
           "terms": [
             [
@@ -25642,7 +25642,7 @@ window.FULL_PATHS = {
             "Restoring lost bone length.",
             "Tumor eradication as the sole goal.",
             "Definitive tumor staging.",
-            "Symptom relief, comfort and quality of life."
+            "Symptom relief, comfort, and quality of life."
           ],
           "key": [
             3
@@ -25661,7 +25661,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "A fixed script used for every family.",
-            "The individual’s understanding, experience and worries.",
+            "The individual’s understanding, experience, and worries.",
             "The nurse’s own spiritual beliefs.",
             "An assumption based on age alone."
           ],
@@ -25751,7 +25751,7 @@ window.FULL_PATHS = {
         {
           "id": "O-L17-s1",
           "title": "Understand the pattern",
-          "body": "Evaluate comfort, understanding, coping, participation and available support. Revisit questions over time instead of assuming one information session resolves fears.",
+          "body": "Evaluate comfort, understanding, coping, participation, and available support. Revisit questions over time instead of assuming one information session resolves fears.",
           "kind": "idea",
           "terms": [
             [
@@ -25859,7 +25859,7 @@ window.FULL_PATHS = {
             "Does not meet the stated criterion.",
             "Does not meet the stated criterion."
           ],
-          "reason": "Persistent bone pain, swelling, limp, reduced range of motion or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
+          "reason": "Persistent bone pain, swelling, limp, reduced range of motion, or a pathologic fracture warrants evaluation rather than automatic dismissal as growing pains."
         },
         {
           "id": "O-L17-q4",
@@ -25892,7 +25892,7 @@ window.FULL_PATHS = {
             "Fits the stated criterion.",
             "Fits the stated criterion."
           ],
-          "reason": "Evaluate comfort, understanding, coping, participation and available support."
+          "reason": "Evaluate comfort, understanding, coping, participation, and available support."
         },
         {
           "id": "O-L17-q5",
@@ -25940,7 +25940,7 @@ window.FULL_PATHS = {
       "path": "E",
       "subject": "E",
       "title": "Anorexia nervosa: name the core pattern",
-      "focus": "Connect restriction, fear and distorted body perception with low weight in developmental context.",
+      "focus": "Connect restriction, fear, and distorted body perception with low weight in developmental context.",
       "topic": "Anorexia nervosa",
       "codes": [
         "E01"
@@ -25952,7 +25952,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L18-s1",
           "title": "Understand the pattern",
-          "body": "Anorexia nervosa (AN) is an eating disorder involving persistent energy restriction leading to significantly low weight for age, developmental path, and health, with fear of weight gain or behavior preventing it and disturbed weight/shape perception. Fear and restriction may persist despite visible malnutrition. Anorexia alone can also mean a symptom of poor appetite; it is not interchangeable with the full diagnosis anorexia nervosa. A client may prepare food for others, collect recipes, restrict portions, hide food, or exercise excessively while avoiding needed intake.",
+          "body": "Anorexia nervosa (AN) is an eating disorder involving persistent energy restriction leading to significantly low weight for age, developmental path, and health, with fear of weight gain or behavior preventing it, and disturbed weight/shape perception. Fear and restriction may persist despite visible malnutrition. Anorexia alone can also mean a symptom of poor appetite; it is not interchangeable with the full diagnosis anorexia nervosa. A client may prepare food for others, collect recipes, restrict portions, hide food, or exercise excessively while avoiding needed intake.",
           "kind": "idea",
           "terms": [
             [
@@ -26032,7 +26032,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L18-q2",
-          "stem": "An adolescent with significant weight loss prepares meals for others, restricts personal intake and fears gaining weight. Which interpretation best fits?",
+          "stem": "An adolescent with significant weight loss prepares meals for others, restricts personal intake, and fears gaining weight. Which interpretation best fits?",
           "fmt": "C",
           "choices": [
             "The pattern establishes bulimia without further assessment.",
@@ -26045,8 +26045,8 @@ window.FULL_PATHS = {
           ],
           "reasons": [
             "Bingeing and compensation are not described, and the AN context requires assessment.",
-            "The fear, restriction and low-weight context indicate more than the symptom of poor appetite.",
-            "Interest in preparing food does not rule out restriction, fear or malnutrition.",
+            "The fear, restriction, and low-weight context indicate more than the symptom of poor appetite.",
+            "Interest in preparing food does not rule out restriction, fear, or malnutrition.",
             "The client can be preoccupied with food while refusing needed intake."
           ]
         },
@@ -26078,7 +26078,7 @@ window.FULL_PATHS = {
             "Fear of gain and weight/shape perceptions.",
             "Adult BMI category used as the sole pediatric decision rule.",
             "Excessive exercise or purging.",
-            "Mood, relationships and suicidal risk.",
+            "Mood, relationships, and suicidal risk.",
             "Intake restriction and weight trajectory."
           ],
           "key": [
@@ -26089,7 +26089,7 @@ window.FULL_PATHS = {
           ],
           "reasons": [
             "These are central to the disorder pattern.",
-            "Pediatric development, trajectory and the complete pattern must be considered.",
+            "Pediatric development, trajectory, and the complete pattern must be considered.",
             "Both can contribute to risk and may occur in AN.",
             "Psychological and safety needs accompany physical assessment.",
             "Assess energy intake and developmental growth/weight context."
@@ -26138,7 +26138,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L19-s1",
           "title": "Understand the pattern",
-          "body": "Prolonged undernutrition affects the whole body. Reduced energy availability is associated with a slow pulse, low blood pressure, low temperature and cold intolerance. Fine downy hair called lanugo may appear, while scalp hair becomes thin or brittle. Dehydration and reduced GI function can contribute to constipation. Muscle weakness, low energy and reduced bone density affect function and safety. Hormonal changes can cause menstrual irregularity or amenorrhea. Amenorrhea is an expected possible finding, not a required feature in every person with AN.",
+          "body": "Prolonged undernutrition affects the whole body. Reduced energy availability is associated with a slow pulse, low blood pressure, low temperature, and cold intolerance. Fine downy hair called lanugo may appear, while scalp hair becomes thin or brittle. Dehydration and reduced GI function can contribute to constipation. Muscle weakness, low energy, and reduced bone density affect function and safety. Hormonal changes can cause menstrual irregularity or amenorrhea. Amenorrhea is an expected possible finding, not a required feature in every person with AN.",
           "kind": "idea",
           "terms": [
             [
@@ -26166,7 +26166,7 @@ window.FULL_PATHS = {
             ],
             [
               "Why nursing assessment matters",
-              "Perfusion, rhythm and instability risk"
+              "Perfusion, rhythm, and instability risk"
             ]
           ],
           "kind": "idea"
@@ -26182,7 +26182,7 @@ window.FULL_PATHS = {
             ],
             [
               "Why nursing assessment matters",
-              "Intake/output, bowel and hydration monitoring"
+              "Intake/output, bowel, and hydration monitoring"
             ]
           ],
           "kind": "idea"
@@ -26198,7 +26198,7 @@ window.FULL_PATHS = {
             ],
             [
               "Why nursing assessment matters",
-              "Developmental, injury and functional needs"
+              "Developmental, injury, and functional needs"
             ]
           ],
           "kind": "idea"
@@ -26222,7 +26222,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L19-s6",
           "title": "Connect it to nursing care",
-          "body": "Assess nutrition and hydration, pulse/BP/orthostatic symptoms, temperature, skin and hair, bowel function, muscle strength, menstrual/developmental history, and bone concerns. Laboratory and ECG findings matter even when the client says they feel well. Do not dismiss bradycardia as athletic conditioning when accompanied by restrictive eating, hypothermia, weight loss or symptoms.",
+          "body": "Assess nutrition and hydration, pulse/BP/orthostatic symptoms, temperature, skin and hair, bowel function, muscle strength, menstrual/developmental history, and bone concerns. Laboratory and ECG findings matter even when the client says they feel well. Do not dismiss bradycardia as athletic conditioning when accompanied by restrictive eating, hypothermia, weight loss, or symptoms.",
           "kind": "idea"
         },
         {
@@ -26285,7 +26285,7 @@ window.FULL_PATHS = {
           ],
           "reasons": [
             "These changes do not reassure that nutrition is adequate.",
-            "Hair findings do not rule out bradycardia, hypotension or rhythm problems.",
+            "Hair findings do not rule out bradycardia, hypotension, or rhythm problems.",
             "Lanugo and brittle/thinning hair are expected malnutrition-related clues in the course material.",
             "No stimulant exposure or toxicity pattern is described."
           ]
@@ -26305,7 +26305,7 @@ window.FULL_PATHS = {
           ],
           "reasons": [
             "This treats an expected possible finding as a required diagnostic feature.",
-            "Other restriction, weight and physical findings still require assessment.",
+            "Other restriction, weight, and physical findings still require assessment.",
             "Amenorrhea may occur but is not required in every person with AN.",
             "Monitoring depends on physiology and instability, not menstrual status alone."
           ]
@@ -26335,7 +26335,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L19-q5",
-          "stem": "A competitive athlete has marked weight loss, restrictive intake, dizziness and bradycardia. Which interpretation best supports safe care?",
+          "stem": "A competitive athlete has marked weight loss, restrictive intake, dizziness, and bradycardia. Which interpretation best supports safe care?",
           "fmt": "C",
           "choices": [
             "Assess medical instability rather than attributing pulse to fitness.",
@@ -26364,7 +26364,7 @@ window.FULL_PATHS = {
       "path": "E",
       "subject": "E",
       "title": "Anorexia: recognize medical instability",
-      "focus": "Use vital signs, ECG and electrolyte findings together to identify unsafe physiology.",
+      "focus": "Use vital signs, ECG, and electrolyte findings together to identify unsafe physiology.",
       "topic": "Anorexia nervosa",
       "codes": [
         "E01"
@@ -26376,7 +26376,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L20-s1",
           "title": "Understand the pattern",
-          "body": "An eating disorder is not only a body-image concern. Severe bradycardia, hypotension, dysrhythmia, dehydration and electrolyte disturbances can threaten life. The supplied ATI Mental Health acute-care list includes HR below 50/min, systolic BP below 90 mm Hg, and temperature below 36 C (96.8 F), as well as ECG changes, electrolyte abnormalities, outpatient failure and psychiatric danger. These are contextual ATI review cues, not a complete pediatric admission protocol or reassurance that every value just above them is safe.",
+          "body": "An eating disorder is not only a body-image concern. Severe bradycardia, hypotension, dysrhythmia, dehydration, and electrolyte disturbances can threaten life. The supplied ATI Mental Health acute-care list includes HR below 50/min, systolic BP below 90 mm Hg, and temperature below 36 C (96.8 F), as well as ECG changes, electrolyte abnormalities, outpatient failure, and psychiatric danger. These are contextual ATI review cues, not a complete pediatric admission protocol or reassurance that every value just above them is safe.",
           "kind": "idea",
           "terms": [
             [
@@ -26396,19 +26396,19 @@ window.FULL_PATHS = {
         {
           "id": "E-L20-s2",
           "title": "Connect it to nursing care",
-          "body": "Assess symptoms and trends, vitals including orthostatic findings when appropriate, hydration, weight, I&O, potassium, magnesium, phosphate, glucose and ECG. Severe bradycardia, dysrhythmias or hypotension can require continuous cardiac monitoring, frequent vitals and prompt reporting. Address suicidal risk as well. Do not use a one-time pulse, apparently acceptable appearance, or a single weight percentage to clear the client.",
+          "body": "Assess symptoms and trends, vitals including orthostatic findings when appropriate, hydration, weight, I&O, potassium, magnesium, phosphate, glucose, and ECG. Severe bradycardia, dysrhythmias, or hypotension can require continuous cardiac monitoring, frequent vitals, and prompt reporting. Address suicidal risk as well. Do not use a one-time pulse, apparently acceptable appearance, or a single weight percentage to clear the client.",
           "kind": "idea"
         },
         {
           "id": "E-L20-s3",
           "title": "Keep the source context",
-          "body": "Lecture and ATI numerical cues differ. This route uses the ATI acute-care values above and flags the difference in the source appendix. Pediatric assessment still depends on age, trajectory, symptoms and the clinical plan.",
+          "body": "Lecture and ATI numerical cues differ. This route uses the ATI acute-care values above and flags the difference in the source appendix. Pediatric assessment still depends on age, trajectory, symptoms, and the clinical plan.",
           "kind": "idea"
         },
         {
           "id": "E-L20-s4",
           "title": "At the bedside",
-          "body": "An adolescent with restriction has dizziness, HR 44/min, BP 84/50 mm Hg and an irregular rhythm. Stabilization and urgent monitored medical care take priority over a routine discussion of food preferences.",
+          "body": "An adolescent with restriction has dizziness, HR 44/min, BP 84/50 mm Hg, and an irregular rhythm. Stabilization and urgent monitored medical care take priority over a routine discussion of food preferences.",
           "kind": "case"
         }
       ],
@@ -26452,7 +26452,7 @@ window.FULL_PATHS = {
         },
         {
           "id": "E-L20-q2",
-          "stem": "A client with AN has HR 44/min, BP 84/50 mm Hg, dizziness and an irregular rhythm. Which plan best matches the risk?",
+          "stem": "A client with AN has HR 44/min, BP 84/50 mm Hg, dizziness, and an irregular rhythm. Which plan best matches the risk?",
           "fmt": "C",
           "choices": [
             "Prompt medical evaluation with monitored stabilization.",
@@ -26466,7 +26466,7 @@ window.FULL_PATHS = {
           "reasons": [
             "These findings show cardiovascular instability; monitoring and stabilization take priority.",
             "Exercise is unsafe with this unstable undernourished presentation.",
-            "The current vital signs, symptoms and rhythm require prompt care.",
+            "The current vital signs, symptoms, and rhythm require prompt care.",
             "Conscious conversation does not exclude dangerous physiology."
           ]
         },
@@ -26478,7 +26478,7 @@ window.FULL_PATHS = {
             "A substitute for ECG and electrolyte assessment.",
             "An instruction to use adult BMI for every child.",
             "A value just above it proves the client is stable.",
-            "A contextual warning used with symptoms, trends and age."
+            "A contextual warning used with symptoms, trends, and age."
           ],
           "key": [
             3
@@ -26495,8 +26495,8 @@ window.FULL_PATHS = {
           "stem": "Which monitoring is relevant to medical risk in severe AN?",
           "fmt": "A",
           "choices": [
-            "Vital signs, orthostatic symptoms and hydration.",
-            "Potassium, magnesium, phosphate and glucose as ordered.",
+            "Vital signs, orthostatic symptoms, and hydration.",
+            "Potassium, magnesium, phosphate, and glucose as ordered.",
             "A single pulse as the complete clearance assessment.",
             "Weight percentage without developmental or clinical context.",
             "ECG and continuous rhythm monitoring when unstable."
@@ -26573,7 +26573,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L21-s1",
           "title": "Understand the pattern",
-          "body": "Nutritional restoration and medical stabilization support recovery; they do not eliminate the need to address fear, coping and behavior. A consistent plan reduces bargaining, uncertainty, binge-purge opportunities, and variable responses among staff. The provider, registered dietitian, nursing team, client and family each contribute. Small frequent meals may be better tolerated; prescribed supplements or enteral support can be needed when intake is inadequate. Decisions depend on the assessment and ordered plan, not a punishment for refusing a meal.",
+          "body": "Nutritional restoration and medical stabilization support recovery; they do not eliminate the need to address fear, coping, and behavior. A consistent plan reduces bargaining, uncertainty, binge-purge opportunities, and variable responses among staff. The provider, registered dietitian, nursing team, client, and family each contribute. Small frequent meals may be better tolerated; prescribed supplements or enteral support can be needed when intake is inadequate. Decisions depend on the assessment and ordered plan, not a punishment for refusing a meal.",
           "kind": "idea",
           "terms": [
             [
@@ -26597,7 +26597,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "Problem it addresses",
-              "Trend restoration, hydration and possible fluid changes"
+              "Trend restoration, hydration, and possible fluid changes"
             ]
           ],
           "kind": "idea"
@@ -26633,7 +26633,7 @@ window.FULL_PATHS = {
           "details": [
             [
               "Problem it addresses",
-              "Energy deficit, weakness and medical risk"
+              "Energy deficit, weakness, and medical risk"
             ]
           ],
           "kind": "idea"
@@ -26641,13 +26641,13 @@ window.FULL_PATHS = {
         {
           "id": "E-L21-s6",
           "title": "Connect it to nursing care",
-          "body": "Monitor vitals, I&O and consistent weights according to the plan. Support scheduled meals, prescribed supplements and observation during and after eating. The course notes describe at least one hour of postmeal observation, with a source image describing one to two hours; follow the actual ordered observation and bathroom plan rather than choosing a universal interval. Limit excessive exercise, discourage caffeine, provide appropriate self-care support and therapeutic communication.",
+          "body": "Monitor vitals, I&O, and consistent weights according to the plan. Support scheduled meals, prescribed supplements, and observation during and after eating. The course notes describe at least one hour of postmeal observation, with a source image describing one to two hours; follow the actual ordered observation and bathroom plan rather than choosing a universal interval. Limit excessive exercise, discourage caffeine, provide appropriate self-care support and therapeutic communication.",
           "kind": "idea"
         },
         {
           "id": "E-L21-s7",
           "title": "At the bedside",
-          "body": "The client reports fullness after part of a planned meal. The nurse assesses tolerance, supports the agreed meal/supplement plan and notifies the team of barriers instead of offering unrestricted exercise as a reward.",
+          "body": "The client reports fullness after part of a planned meal. The nurse assesses tolerance, supports the agreed meal/supplement plan, and notifies the team of barriers instead of offering unrestricted exercise as a reward.",
           "kind": "case"
         }
       ],
@@ -26797,12 +26797,12 @@ window.FULL_PATHS = {
         {
           "id": "E-L22-s1",
           "title": "Understand the pattern",
-          "body": "Refeeding syndrome is a potentially fatal complication when nutrition, especially carbohydrates, is reintroduced to a severely malnourished client. Nutritional restoration can produce major electrolyte and fluid shifts: phosphate, potassium and magnesium can fall, while fluid changes strain the heart and other systems. This is not an allergy to food or a reason to leave the client malnourished. It is a reason for an individualized controlled feeding plan with laboratory, fluid and clinical monitoring.",
+          "body": "Refeeding syndrome is a potentially fatal complication when nutrition, especially carbohydrates, is reintroduced to a severely malnourished client. Nutritional restoration can produce major electrolyte and fluid shifts: phosphate, potassium, and magnesium can fall, while fluid changes strain the heart and other systems. This is not an allergy to food or a reason to leave the client malnourished. It is a reason for an individualized controlled feeding plan with laboratory, fluid, and clinical monitoring.",
           "kind": "idea",
           "terms": [
             [
               "Refeeding syndrome",
-              "Dangerous metabolic, electrolyte and fluid shifts during nutritional restoration after severe malnutrition."
+              "Dangerous metabolic, electrolyte, and fluid shifts during nutritional restoration after severe malnutrition."
             ],
             [
               "Hypophosphatemia",
@@ -26829,13 +26829,13 @@ window.FULL_PATHS = {
         {
           "id": "E-L22-s3",
           "title": "Connect it to nursing care",
-          "body": "Coordinate with the provider and dietitian. Monitor phosphate, potassium, magnesium, fluid balance, weight, vital signs, and cardiac/respiratory findings as indicated. Administer ordered electrolyte and fluid therapy. New edema, weakness, rhythm changes or breathing difficulty during restoration requires prompt reassessment and reporting, not an assumption that weight gain proves recovery. Avoid an unsupervised rapid increase or independent feeding-rate changes.",
+          "body": "Coordinate with the provider and dietitian. Monitor phosphate, potassium, magnesium, fluid balance, weight, vital signs, and cardiac/respiratory findings as indicated. Administer ordered electrolyte and fluid therapy. New edema, weakness, rhythm changes, or breathing difficulty during restoration requires prompt reassessment and reporting, not an assumption that weight gain proves recovery. Avoid an unsupervised rapid increase or independent feeding-rate changes.",
           "kind": "idea"
         },
         {
           "id": "E-L22-s4",
           "title": "At the bedside",
-          "body": "After nutrition begins, a severely malnourished client develops weakness and falling phosphate. The nurse recognizes a refeeding concern, assesses current stability and alerts the team to adjust the monitored treatment plan.",
+          "body": "After nutrition begins, a severely malnourished client develops weakness and falling phosphate. The nurse recognizes a refeeding concern, assesses current stability, and alerts the team to adjust the monitored treatment plan.",
           "kind": "case"
         }
       ],
@@ -26856,9 +26856,9 @@ window.FULL_PATHS = {
           ],
           "pairs": [
             [
-              "Dangerous metabolic, electrolyte and fluid shifts during nutritional restoration after severe malnutrition.",
+              "Dangerous metabolic, electrolyte, and fluid shifts during nutritional restoration after severe malnutrition.",
               "Refeeding syndrome",
-              "Dangerous metabolic, electrolyte and fluid shifts during nutritional restoration after severe malnutrition."
+              "Dangerous metabolic, electrolyte, and fluid shifts during nutritional restoration after severe malnutrition."
             ],
             [
               "Low blood phosphate; one important electrolyte concern during refeeding.",
@@ -26873,7 +26873,7 @@ window.FULL_PATHS = {
           ],
           "meanings": [
             "Low blood phosphate; one important electrolyte concern during refeeding.",
-            "Dangerous metabolic, electrolyte and fluid shifts during nutritional restoration after severe malnutrition.",
+            "Dangerous metabolic, electrolyte, and fluid shifts during nutritional restoration after severe malnutrition.",
             "Nutrition advanced at a prescribed, monitored rate with reassessment."
           ]
         },
@@ -26947,7 +26947,7 @@ window.FULL_PATHS = {
           "choices": [
             "Interpret edema as the desired weight-restoration goal.",
             "Increase nutrition independently to reverse weakness.",
-            "Assess stability, report changes and follow ordered monitored treatment.",
+            "Assess stability, report changes, and follow ordered monitored treatment.",
             "Use one normal pretreatment electrolyte as clearance."
           ],
           "key": [
@@ -26956,7 +26956,7 @@ window.FULL_PATHS = {
           "reasons": [
             "Edema can represent fluid disturbance rather than healthy tissue restoration.",
             "An unprescribed rapid increase can worsen dangerous shifts.",
-            "Clinical reassessment and coordinated nutrition, electrolyte and fluid orders address the risk.",
+            "Clinical reassessment and coordinated nutrition, electrolyte, and fluid orders address the risk.",
             "Electrolytes can change after feeding begins and require follow-up."
           ]
         }
@@ -26997,20 +26997,20 @@ window.FULL_PATHS = {
             ],
             [
               "Maintenance plan",
-              "An agreed approach to nutrition, coping, monitoring and follow-up after acute care."
+              "An agreed approach to nutrition, coping, monitoring, and follow-up after acute care."
             ]
           ]
         },
         {
           "id": "E-L23-s2",
           "title": "Connect it to nursing care",
-          "body": "Use a consistent, nonjudgmental relationship. Involve the family when appropriate and arrange continued therapy, nutritional follow-up and support. Evaluate improving vitals, electrolytes, intake, function, reduced compensatory behavior and safer coping. A promise, compliment about appearance, or isolated weight increase cannot establish recovery. Investigate rapid fluid-related changes rather than assuming tissue restoration.",
+          "body": "Use a consistent, nonjudgmental relationship. Involve the family when appropriate and arrange continued therapy, nutritional follow-up, and support. Evaluate improving vitals, electrolytes, intake, function, reduced compensatory behavior, and safer coping. A promise, compliment about appearance, or isolated weight increase cannot establish recovery. Investigate rapid fluid-related changes rather than assuming tissue restoration.",
           "kind": "idea"
         },
         {
           "id": "E-L23-s3",
           "title": "Medication has a supporting role",
-          "body": "The lecture discusses fluoxetine for coexisting depressive/OCD symptoms after stabilization and olanzapine for selected symptoms around obsessive thinking and weight restoration. These are individualized uses, not a universal pediatric regimen or a substitute for nutrition. For prescribed olanzapine, assess sedation, orthostatic symptoms, weight, glucose/metabolic changes and movement effects; do not turn general weight-control advice for antipsychotics into a calorie-restriction plan for a malnourished client.",
+          "body": "The lecture discusses fluoxetine for coexisting depressive/OCD symptoms after stabilization and olanzapine for selected symptoms around obsessive thinking and weight restoration. These are individualized uses, not a universal pediatric regimen or a substitute for nutrition. For prescribed olanzapine, assess sedation, orthostatic symptoms, weight, glucose/metabolic changes, and movement effects; do not turn general weight-control advice for antipsychotics into a calorie-restriction plan for a malnourished client.",
           "kind": "idea"
         },
         {
@@ -27042,9 +27042,9 @@ window.FULL_PATHS = {
               "Identifying a distorted thought, examining it, and developing a more balanced alternative."
             ],
             [
-              "An agreed approach to nutrition, coping, monitoring and follow-up after acute care.",
+              "An agreed approach to nutrition, coping, monitoring, and follow-up after acute care.",
               "Maintenance plan",
-              "An agreed approach to nutrition, coping, monitoring and follow-up after acute care."
+              "An agreed approach to nutrition, coping, monitoring, and follow-up after acute care."
             ],
             [
               "Predicting an extreme disastrous outcome, such as believing any gain will ruin one's life.",
@@ -27054,7 +27054,7 @@ window.FULL_PATHS = {
           ],
           "meanings": [
             "Identifying a distorted thought, examining it, and developing a more balanced alternative.",
-            "An agreed approach to nutrition, coping, monitoring and follow-up after acute care.",
+            "An agreed approach to nutrition, coping, monitoring, and follow-up after acute care.",
             "Predicting an extreme disastrous outcome, such as believing any gain will ruin one's life."
           ]
         },
@@ -27105,7 +27105,7 @@ window.FULL_PATHS = {
           "choices": [
             "Reduced compensatory behavior and improved coping.",
             "Replacing nutrition with medication alone.",
-            "Coordinated nutrition, therapy and follow-up.",
+            "Coordinated nutrition, therapy, and follow-up.",
             "Improving physiologic trends with adequate intake.",
             "A single weight increase treated as complete recovery."
           ],
@@ -27176,7 +27176,7 @@ window.FULL_PATHS = {
             ],
             [
               "Compensatory behavior",
-              "An action intended to counter intake or prevent weight gain, such as purging, fasting or excessive exercise."
+              "An action intended to counter intake or prevent weight gain, such as purging, fasting, or excessive exercise."
             ],
             [
               "Binge-eating disorder",
@@ -27227,7 +27227,7 @@ window.FULL_PATHS = {
         {
           "id": "E-L24-s5",
           "title": "Connect it to nursing care",
-          "body": "Ask nonjudgmentally about intake, loss of control, vomiting, exercise, laxatives, diuretics, diet products or teas, mood, substance use and self-harm risk. Shame may lead to concealment. Do not assume normal weight or an absence of vomiting rules out the disorder or its complications. Frequency criteria describe the source's diagnosis pattern; distress and unsafe physiology still require care even before a duration threshold.",
+          "body": "Ask nonjudgmentally about intake, loss of control, vomiting, exercise, laxatives, diuretics, diet products or teas, mood, substance use, and self-harm risk. Shame may lead to concealment. Do not assume normal weight or an absence of vomiting rules out the disorder or its complications. Frequency criteria describe the source's diagnosis pattern; distress and unsafe physiology still require care even before a duration threshold.",
           "kind": "idea"
         },
         {
@@ -27264,15 +27264,15 @@ window.FULL_PATHS = {
               "An unusually large amount in a discrete period with a sense of loss of control."
             ],
             [
-              "An action intended to counter intake or prevent weight gain, such as purging, fasting or excessive exercise.",
+              "An action intended to counter intake or prevent weight gain, such as purging, fasting, or excessive exercise.",
               "Compensatory behavior",
-              "An action intended to counter intake or prevent weight gain, such as purging, fasting or excessive exercise."
+              "An action intended to counter intake or prevent weight gain, such as purging, fasting, or excessive exercise."
             ]
           ],
           "meanings": [
             "A related comparison with recurrent bingeing without the regular compensatory pattern of bulimia.",
             "An unusually large amount in a discrete period with a sense of loss of control.",
-            "An action intended to counter intake or prevent weight gain, such as purging, fasting or excessive exercise."
+            "An action intended to counter intake or prevent weight gain, such as purging, fasting, or excessive exercise."
           ]
         },
         {
@@ -27320,11 +27320,11 @@ window.FULL_PATHS = {
           "stem": "Which information should be included when assessing binge-compensatory behavior?",
           "fmt": "A",
           "choices": [
-            "Vomiting, laxative and diuretic use.",
+            "Vomiting, laxative, and diuretic use.",
             "Weight appearance as the sole risk screen.",
-            "Mood, substance use and self-harm concerns.",
-            "Fasting, exercise and diet products or teas.",
-            "Loss of control, frequency and duration."
+            "Mood, substance use, and self-harm concerns.",
+            "Fasting, exercise, and diet products or teas.",
+            "Loss of control, frequency, and duration."
           ],
           "key": [
             0,
@@ -27356,7 +27356,7 @@ window.FULL_PATHS = {
           "reasons": [
             "Purging-related electrolyte risk is not limited to underweight clients.",
             "Purging can cause dehydration and electrolyte disturbance.",
-            "Hydration, electrolytes and cardiovascular findings can be abnormal without low weight.",
+            "Hydration, electrolytes, and cardiovascular findings can be abnormal without low weight.",
             "The symptomatic behavioral pattern warrants broader assessment and care."
           ]
         }
@@ -27371,7 +27371,7 @@ window.FULL_PATHS = {
       "path": "E",
       "subject": "E",
       "title": "Purging: connect the method to the complication",
-      "focus": "Use oral, electrolyte and acid-base clues without assuming every purging method has the same effect.",
+      "focus": "Use oral, electrolyte, and acid-base clues without assuming every purging method has the same effect.",
       "topic": "Bulimia nervosa",
       "codes": [
         "E02"
@@ -27451,13 +27451,13 @@ window.FULL_PATHS = {
         {
           "id": "E-L25-s6",
           "title": "Connect it to nursing care",
-          "body": "Assess mouth/teeth, throat, hands, abdominal complaints, hydration, vitals, potassium and other electrolytes, acid-base findings and ECG when indicated. Normal weight does not protect against arrhythmias. Hematemesis, severe abdominal pain, syncope, concerning rhythm symptoms, or severe persistent vomiting warrants prompt evaluation. Dental care is useful but does not replace medical assessment of electrolyte and injury risk.",
+          "body": "Assess mouth/teeth, throat, hands, abdominal complaints, hydration, vitals, potassium and other electrolytes, acid-base findings, and ECG when indicated. Normal weight does not protect against arrhythmias. Hematemesis, severe abdominal pain, syncope, concerning rhythm symptoms, or severe persistent vomiting warrants prompt evaluation. Dental care is useful but does not replace medical assessment of electrolyte and injury risk.",
           "kind": "idea"
         },
         {
           "id": "E-L25-s7",
           "title": "At the bedside",
-          "body": "A client has dental erosion, parotid swelling, vomiting, low potassium and elevated bicarbonate. The findings connect to vomiting-related injury and alkalosis; adding laxatives would create further risk.",
+          "body": "A client has dental erosion, parotid swelling, vomiting, low potassium, and elevated bicarbonate. The findings connect to vomiting-related injury and alkalosis; adding laxatives would create further risk.",
           "kind": "case"
         }
       ],
@@ -27627,24 +27627,24 @@ window.FULL_PATHS = {
             ],
             [
               "Nonpunitive",
-              "Directed toward treatment and safety rather than blame, shame or retaliation."
+              "Directed toward treatment and safety rather than blame, shame, or retaliation."
             ],
             [
               "Interprofessional care",
-              "Coordinated work across nursing, the provider, dietitian and psychological/family supports."
+              "Coordinated work across nursing, the provider, dietitian, and psychological/family supports."
             ]
           ]
         },
         {
           "id": "E-L26-s2",
           "title": "Connect it to nursing care",
-          "body": "Assess vitals, orthostatic symptoms, hydration, I&O, electrolytes, ECG and medical complaints according to condition. Follow scheduled meals, prescribed supplements, observation and bathroom arrangements. Explain boundaries and offer coping support. Escalate syncope, dysrhythmia, bleeding or serious instability promptly. Do not allow a normal weight or verbal denial of purging to replace assessment; do not independently make the client NPO as a behavioral consequence.",
+          "body": "Assess vitals, orthostatic symptoms, hydration, I&O, electrolytes, ECG, and medical complaints according to condition. Follow scheduled meals, prescribed supplements, observation, and bathroom arrangements. Explain boundaries and offer coping support. Escalate syncope, dysrhythmia, bleeding, or serious instability promptly. Do not allow a normal weight or verbal denial of purging to replace assessment; do not independently make the client NPO as a behavioral consequence.",
           "kind": "idea"
         },
         {
           "id": "E-L26-s3",
           "title": "At the bedside",
-          "body": "After a meal, a client asks to be alone in the bathroom. The nurse follows the agreed supervised-access plan, explains its safety purpose and offers support with the urge to purge.",
+          "body": "After a meal, a client asks to be alone in the bathroom. The nurse follows the agreed supervised-access plan, explains its safety purpose, and offers support with the urge to purge.",
           "kind": "case"
         }
       ],
@@ -27670,19 +27670,19 @@ window.FULL_PATHS = {
               "Planned support/monitoring after eating to reduce purging risk."
             ],
             [
-              "Directed toward treatment and safety rather than blame, shame or retaliation.",
+              "Directed toward treatment and safety rather than blame, shame, or retaliation.",
               "Nonpunitive",
-              "Directed toward treatment and safety rather than blame, shame or retaliation."
+              "Directed toward treatment and safety rather than blame, shame, or retaliation."
             ],
             [
-              "Coordinated work across nursing, the provider, dietitian and psychological/family supports.",
+              "Coordinated work across nursing, the provider, dietitian, and psychological/family supports.",
               "Interprofessional care",
-              "Coordinated work across nursing, the provider, dietitian and psychological/family supports."
+              "Coordinated work across nursing, the provider, dietitian, and psychological/family supports."
             ]
           ],
           "meanings": [
-            "Directed toward treatment and safety rather than blame, shame or retaliation.",
-            "Coordinated work across nursing, the provider, dietitian and psychological/family supports.",
+            "Directed toward treatment and safety rather than blame, shame, or retaliation.",
+            "Coordinated work across nursing, the provider, dietitian, and psychological/family supports.",
             "Planned support/monitoring after eating to reduce purging risk."
           ]
         },
@@ -27721,7 +27721,7 @@ window.FULL_PATHS = {
           ],
           "reasons": [
             "Inconsistent rules undermine the coordinated plan.",
-            "The plan combines nutritional needs, monitoring and therapeutic structure.",
+            "The plan combines nutritional needs, monitoring, and therapeutic structure.",
             "New medical symptoms require assessment regardless of the meal schedule.",
             "Client participation matters, but risk-based monitoring remains a team responsibility."
           ]
@@ -27732,7 +27732,7 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "Coordinate nutrition with the provider and dietitian.",
-            "Assess dizziness, hydration, electrolytes and rhythm as indicated.",
+            "Assess dizziness, hydration, electrolytes, and rhythm as indicated.",
             "Use planned meals and postmeal observation.",
             "Treat a denial as proof no purging risk remains.",
             "Make the client NPO to punish suspected purging."
@@ -27781,7 +27781,7 @@ window.FULL_PATHS = {
       "number": 27,
       "path": "E",
       "subject": "E",
-      "title": "Fluoxetine: purpose, time and safety",
+      "title": "Fluoxetine: purpose, time, and safety",
       "focus": "Identify the medication's role in bulimia and distinguish gradual benefit from urgent adverse changes.",
       "topic": "Bulimia nervosa",
       "codes": [
@@ -27803,7 +27803,7 @@ window.FULL_PATHS = {
             ],
             [
               "Serotonin syndrome",
-              "Potentially dangerous excess serotonergic activity with mental-status, autonomic and neuromuscular changes."
+              "Potentially dangerous excess serotonergic activity with mental-status, autonomic, and neuromuscular changes."
             ],
             [
               "Bupropion",
@@ -27814,13 +27814,13 @@ window.FULL_PATHS = {
         {
           "id": "E-L27-s2",
           "title": "Connect it to nursing care",
-          "body": "Monitor symptoms, adherence, sleep, GI tolerance, mood and suicidal changes, especially early or after changes. Report new suicidal thoughts promptly and maintain safety. Agitation/confusion with fever, sweating, tremor or hyperreflexia raises concern for serotonin syndrome: withhold and seek urgent clinical guidance. Review interacting medicines and St. John's wort; do not combine or switch drugs independently. Continue nutrition and electrolyte treatment as ordered; do not abruptly stop or double doses.",
+          "body": "Monitor symptoms, adherence, sleep, GI tolerance, mood and suicidal changes, especially early or after changes. Report new suicidal thoughts promptly and maintain safety. Agitation/confusion with fever, sweating, tremor, or hyperreflexia raises concern for serotonin syndrome: withhold and seek urgent clinical guidance. Review interacting medicines and St. John's wort; do not combine or switch drugs independently. Continue nutrition and electrolyte treatment as ordered; do not abruptly stop or double doses.",
           "kind": "idea"
         },
         {
           "id": "E-L27-s3",
           "title": "At the bedside",
-          "body": "Two days after starting fluoxetine, a client still has urges to purge. The nurse continues the prescribed multimodal plan and monitoring. Fever, agitation and tremor after adding a serotonergic supplement would call for a different, urgent response.",
+          "body": "Two days after starting fluoxetine, a client still has urges to purge. The nurse continues the prescribed multimodal plan and monitoring. Fever, agitation, and tremor after adding a serotonergic supplement would call for a different, urgent response.",
           "kind": "case"
         }
       ],
@@ -27851,13 +27851,13 @@ window.FULL_PATHS = {
               "A different antidepressant, contraindicated with AN or BN because of seizure risk; not interchangeable with fluoxetine."
             ],
             [
-              "Potentially dangerous excess serotonergic activity with mental-status, autonomic and neuromuscular changes.",
+              "Potentially dangerous excess serotonergic activity with mental-status, autonomic, and neuromuscular changes.",
               "Serotonin syndrome",
-              "Potentially dangerous excess serotonergic activity with mental-status, autonomic and neuromuscular changes."
+              "Potentially dangerous excess serotonergic activity with mental-status, autonomic, and neuromuscular changes."
             ]
           ],
           "meanings": [
-            "Potentially dangerous excess serotonergic activity with mental-status, autonomic and neuromuscular changes.",
+            "Potentially dangerous excess serotonergic activity with mental-status, autonomic, and neuromuscular changes.",
             "Generic and brand names for an SSRI; use the prescribed age-appropriate product and dose.",
             "A different antidepressant, contraindicated with AN or BN because of seizure risk; not interchangeable with fluoxetine."
           ]
@@ -27879,12 +27879,12 @@ window.FULL_PATHS = {
             "Two days is not the expected interval for maximal benefit.",
             "Independent dose doubling is unsafe.",
             "The supplied ATI text describes benefit developing over weeks; continue the prescribed multimodal plan and monitoring.",
-            "Nutrition, safety and behavioral support remain necessary."
+            "Nutrition, safety, and behavioral support remain necessary."
           ]
         },
         {
           "id": "E-L27-q3",
-          "stem": "After adding a serotonergic supplement, a client taking fluoxetine develops fever, agitation, sweating and tremor. Which concern best fits?",
+          "stem": "After adding a serotonergic supplement, a client taking fluoxetine develops fever, agitation, sweating, and tremor. Which concern best fits?",
           "fmt": "C",
           "choices": [
             "A symptom pattern resolved by routine meal supervision.",
@@ -27899,7 +27899,7 @@ window.FULL_PATHS = {
             "Meal support cannot treat a possible medication toxicity.",
             "More serotonergic exposure could worsen toxicity.",
             "These findings represent a potentially dangerous adverse cluster, not benefit.",
-            "The mental/autonomic/neuromuscular cluster with an interacting exposure warrants urgent assessment, withholding and clinical guidance."
+            "The mental/autonomic/neuromuscular cluster with an interacting exposure warrants urgent assessment, withholding, and clinical guidance."
           ]
         },
         {
@@ -27961,7 +27961,7 @@ window.FULL_PATHS = {
       "path": "E",
       "subject": "E",
       "title": "Bulimia: evaluate safer recovery",
-      "focus": "Look for behavioral, physiologic and functional improvement together.",
+      "focus": "Look for behavioral, physiologic, and functional improvement together.",
       "topic": "Bulimia nervosa",
       "codes": [
         "E02"
@@ -27973,12 +27973,12 @@ window.FULL_PATHS = {
         {
           "id": "E-L28-s1",
           "title": "Understand the pattern",
-          "body": "Recovery is more than a stable weight or saying the right thing. Useful changes include fewer binge-purge episodes, safer responses to urges, regular planned intake, improving hydration/electrolytes, and better participation in daily life. Psychological distress may remain while the client is making progress. A diary of triggers, thoughts and actions can support a treatment plan without becoming calorie-focused punishment. Individual, family and group/support work can help sustain coping and reduce isolation.",
+          "body": "Recovery is more than a stable weight or saying the right thing. Useful changes include fewer binge-purge episodes, safer responses to urges, regular planned intake, improving hydration/electrolytes, and better participation in daily life. Psychological distress may remain while the client is making progress. A diary of triggers, thoughts, and actions can support a treatment plan without becoming calorie-focused punishment. Individual, family, and group/support work can help sustain coping and reduce isolation.",
           "kind": "idea",
           "terms": [
             [
               "Trigger record",
-              "A planned record of situations, feelings and behavior that helps identify a pattern."
+              "A planned record of situations, feelings, and behavior that helps identify a pattern."
             ],
             [
               "Relapse prevention",
@@ -27993,13 +27993,13 @@ window.FULL_PATHS = {
         {
           "id": "E-L28-s2",
           "title": "Connect it to nursing care",
-          "body": "Acknowledge distress, reinforce use of coping skills and help the client participate in follow-up. Continue provider, dietitian and therapy coordination. Reassess purging methods, physical symptoms, medication effects and suicide risk as indicated. A single normal potassium or a promise not to purge does not close the plan. If symptoms recur, seek support and reassessment rather than concealment or independent dose changes.",
+          "body": "Acknowledge distress, reinforce use of coping skills, and help the client participate in follow-up. Continue provider, dietitian, and therapy coordination. Reassess purging methods, physical symptoms, medication effects, and suicide risk as indicated. A single normal potassium or a promise not to purge does not close the plan. If symptoms recur, seek support and reassessment rather than concealment or independent dose changes.",
           "kind": "idea"
         },
         {
           "id": "E-L28-s3",
           "title": "At the bedside",
-          "body": "The client reports an urge to purge, stays with planned postmeal support and uses a practiced coping skill. Electrolytes and daily function also improve over time. This is stronger evidence of recovery than typical weight alone.",
+          "body": "The client reports an urge to purge, stays with planned postmeal support, and uses a practiced coping skill. Electrolytes and daily function also improve over time. This is stronger evidence of recovery than typical weight alone.",
           "kind": "case"
         }
       ],
@@ -28030,15 +28030,15 @@ window.FULL_PATHS = {
               "Preparing for recurrence of urges and identifying actions and support to use early."
             ],
             [
-              "A planned record of situations, feelings and behavior that helps identify a pattern.",
+              "A planned record of situations, feelings, and behavior that helps identify a pattern.",
               "Trigger record",
-              "A planned record of situations, feelings and behavior that helps identify a pattern."
+              "A planned record of situations, feelings, and behavior that helps identify a pattern."
             ]
           ],
           "meanings": [
             "Preparing for recurrence of urges and identifying actions and support to use early.",
             "Returning to daily activities and relationships with safer, sustainable behaviors.",
-            "A planned record of situations, feelings and behavior that helps identify a pattern."
+            "A planned record of situations, feelings, and behavior that helps identify a pattern."
           ]
         },
         {
@@ -28046,7 +28046,7 @@ window.FULL_PATHS = {
           "stem": "Which follow-up finding provides the strongest evidence of safer bulimia recovery?",
           "fmt": "C",
           "choices": [
-            "Reduced purging, safer coping and improving physical trends.",
+            "Reduced purging, safer coping, and improving physical trends.",
             "A promise to stop while refusing further support.",
             "A typical-range weight with continued daily purging.",
             "One normal potassium result with concealed symptoms."
@@ -28055,7 +28055,7 @@ window.FULL_PATHS = {
             0
           ],
           "reasons": [
-            "Behavior, physiology and function together give stronger evidence than appearance or promises alone.",
+            "Behavior, physiology, and function together give stronger evidence than appearance or promises alone.",
             "A promise alone is weaker evidence than demonstrated change and follow-up.",
             "Typical weight does not establish safety or behavioral recovery.",
             "One result cannot replace ongoing assessment of behavior and symptoms."
@@ -28088,7 +28088,7 @@ window.FULL_PATHS = {
           "choices": [
             "Use weight alone to end the plan.",
             "Identify triggers and early support actions.",
-            "Continue appropriate nutrition, therapy and clinical follow-up.",
+            "Continue appropriate nutrition, therapy, and clinical follow-up.",
             "Hide recurrence to protect the treatment team's confidence.",
             "Change medication independently after a difficult meal."
           ],
@@ -28097,7 +28097,7 @@ window.FULL_PATHS = {
             2
           ],
           "reasons": [
-            "Behavior, physiology and function all matter.",
+            "Behavior, physiology, and function all matter.",
             "A relapse-prevention plan helps respond before unsafe behavior escalates.",
             "Coordinated ongoing care supports maintenance.",
             "Concealment delays support and reassessment.",

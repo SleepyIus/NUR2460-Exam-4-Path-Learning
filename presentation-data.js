@@ -61,11 +61,11 @@ window.STUDY_PRESENTATION_DATA = {
       "Nonsuicidal self-injury (NSSI)"
     ],
     "D-L08": [
-      "thoughts, intent, plan, access to means and previous attempts",
+      "thoughts, intent, plan, access to means, and previous attempts",
       "does not plant the idea"
     ],
     "D-L09": [
-      "stay with the patient, obtain urgent help and provide the ordered observation level",
+      "stay with the patient, obtain urgent help, and provide the ordered observation level",
       "Make observation continuous when prescribed",
       "does not establish safety",
       "15-minute documentation is not a substitute for continuous observation"
@@ -103,7 +103,7 @@ window.STUDY_PRESENTATION_DATA = {
       "first two to three weeks"
     ],
     "D-L17": [
-      "self-harm, suicide and harming the infant",
+      "self-harm, suicide, and harming the infant",
       "failure to thrive"
     ],
     "D-L18": [
@@ -117,7 +117,7 @@ window.STUDY_PRESENTATION_DATA = {
       "succinylcholine"
     ],
     "D-L20": [
-      "airway, breathing, circulation and return of alertness",
+      "airway, breathing, circulation, and return of alertness",
       "Retrograde amnesia"
     ],
     "B-L01": [
@@ -144,7 +144,7 @@ window.STUDY_PRESENTATION_DATA = {
       "daily weight"
     ],
     "B-L06": [
-      "hygiene, dressing and other ADLs"
+      "hygiene, dressing, and other ADLs"
     ],
     "B-L07": [
       "Lithium",
@@ -185,13 +185,13 @@ window.STUDY_PRESENTATION_DATA = {
     ],
     "B-L13": [
       "both the injury and current suicide risk",
-      "bleeding, wound depth and debris"
+      "bleeding, wound depth, and debris"
     ],
     "B-L14": [],
     "B-L15": [],
     "G-L01": [
       "Bladder exstrophy",
-      "protection of exposed tissue from drying, trauma and contamination",
+      "protection of exposed tissue from drying, trauma, and contamination",
       "sterile, nonadherent covering",
       "saline-moistened",
       "prepare for immediate surgical care as directed"
@@ -214,7 +214,7 @@ window.STUDY_PRESENTATION_DATA = {
       "normal or slightly low"
     ],
     "G-L08": [
-      "daily weight on the same scale, intake/output, edema, abdominal girth, blood pressure and urine protein",
+      "daily weight on the same scale, intake/output, edema, abdominal girth, blood pressure, and urine protein",
       "Fever requires prompt assessment"
     ],
     "G-L09": [
@@ -224,10 +224,10 @@ window.STUDY_PRESENTATION_DATA = {
     ],
     "G-L10": [
       "Acute poststreptococcal glomerulonephritis (APSGN)",
-      "tea/cola or smoky urine, oliguria, edema and hypertension"
+      "tea/cola or smoky urine, oliguria, edema, and hypertension"
     ],
     "G-L11": [
-      "blood pressure, breathing, neurologic status and fluid balance"
+      "blood pressure, breathing, neurologic status, and fluid balance"
     ],
     "G-L12": [
       "sodium/fluid restriction for edema or hypertension",
@@ -305,7 +305,7 @@ window.STUDY_PRESENTATION_DATA = {
     "I-L15": [],
     "I-L16": [
       "Epstein-Barr virus (EBV)",
-      "fever, marked fatigue, sore throat and lymphadenopathy (enlarged lymph nodes)",
+      "fever, marked fatigue, sore throat, and lymphadenopathy (enlarged lymph nodes)",
       "Splenomegaly means an enlarged spleen",
       "standard precautions"
     ],
@@ -313,12 +313,12 @@ window.STUDY_PRESENTATION_DATA = {
     "I-L18": [
       "Avoid contact sports and abdominal trauma while splenic risk persists",
       "splenic rupture",
-      "Sudden left upper abdominal pain, dizziness or fainting"
+      "Sudden left upper abdominal pain, dizziness, or fainting"
     ],
     "I-L19": [
       "Acute rheumatic fever",
       "group A beta-hemolytic streptococcal infection",
-      "carditis, migratory polyarthritis, chorea, erythema marginatum and painless subcutaneous nodules",
+      "carditis, migratory polyarthritis, chorea, erythema marginatum, and painless subcutaneous nodules",
       "two major criteria OR one major plus two minor criteria with evidence of preceding acute streptococcal infection"
     ],
     "I-L20": [
@@ -350,7 +350,7 @@ window.STUDY_PRESENTATION_DATA = {
       "Child maltreatment"
     ],
     "A-L02": [
-      "injury pattern, reported mechanism and developmental ability"
+      "injury pattern, reported mechanism, and developmental ability"
     ],
     "A-L03": [
       "Factitious disorder imposed on another (FDIA)",
@@ -373,7 +373,7 @@ window.STUDY_PRESENTATION_DATA = {
       "\"This is not your fault.\""
     ],
     "A-L09": [
-      "size, color, shape and exact location"
+      "size, color, shape, and exact location"
     ],
     "A-L10": [
       "Intimate partner violence (IPV)"
@@ -410,8 +410,8 @@ window.STUDY_PRESENTATION_DATA = {
       "ataxia (an unsteady or poorly coordinated gait)"
     ],
     "O-L06": [
-      "mental status/level of consciousness, pupils, motor function, vital signs and seizures",
-      "bulging fontanel, separated sutures, distended scalp veins, high-pitched cry and poor feeding",
+      "mental status/level of consciousness, pupils, motor function, vital signs, and seizures",
+      "bulging fontanel, separated sutures, distended scalp veins, high-pitched cry, and poor feeding",
       "Hypertension with bradycardia and altered/irregular respirations",
       "Hypertension is a possible late deterioration finding, not an expected finding in every child with a brain tumor."
     ],
@@ -438,10 +438,10 @@ window.STUDY_PRESENTATION_DATA = {
       "Anticipatory grief",
       "Kubler-Ross five-stage framework",
       "negotiating for more time or a cure",
-      "books, art, music or play"
+      "books, art, music, or play"
     ],
     "O-L14": [
-      "Siblings may feel guilty, regress developmentally or experience altered family relationships."
+      "Siblings may feel guilty, regress developmentally, or experience altered family relationships."
     ],
     "O-L15": [
       "phantom limb pain is real",

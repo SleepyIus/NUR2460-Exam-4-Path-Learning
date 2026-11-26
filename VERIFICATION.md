@@ -99,3 +99,9 @@ Text extraction and definition copyedit:
 - Fixed the local conversion script to retain original punctuation and capitalization for verified terms and table cells instead of copying a matching phrase from a surrounding PDF sentence.
 - Compared every question, answer key, and rationale with the previous release: all remain identical. All eight full paths, 137 full lessons, 13 high-yield lessons, 750 checks, lesson/step identifiers, and teaching paragraphs remain intact.
 - Verified the corrected NSSI definition in the browser, navigation and saved step after refresh, and no console errors. Existing feedback/scoring checks for all six question formats and progress-code/annotation compatibility checks passed.
+
+Oxford comma consistency:
+- Reviewed serial lists across all eight full paths and the high-yield course, including headings, teaching, definitions, questions, rationales, source notes, and emphasis phrases. Corrected 507 text fields using explicitly reviewed lists; paired phrases such as “intake and output” remain intact.
+- Verified every data change is comma-only. All 150 lessons, 750 checks, IDs, answer keys, numerical values, and literal source file names are unchanged.
+- Saved text markings can reattach after punctuation edits when the passage is uniquely identifiable within its original block. Exact matches take priority; ambiguous or missing passages retain their original saved records rather than guessing. Tested 421 comma-edit anchors, color/style retention, and ambiguous/missing quotes.
+- Browser-verified D-L17's corrected heading and paragraph, migration of a previously saved colored underline, persistence after Refresh app, removal of the test mark, and no console errors. Feedback checks passed for all 750 checks and 834 incorrect-answer variations; colored-marking and progress-code compatibility checks passed.
