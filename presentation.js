@@ -61,8 +61,18 @@
     if (!result) return {className:'',label:''};
     if (correct && selected) return {className:'answer-correct',label:'✓ Your choice · Correct'};
     if (selected) return {className:'answer-wrong',label:'✕ Your choice · Incorrect'};
-    if (correct) return {className:'answer-missed',label:'✓ Correct · Not selected'};
+    if (correct) return {className:'answer-missed',label:'! You missed this · Correct answer'};
     return {className:'',label:''};
+  }
+  function differences(value,key) {
+    return {wrong:value.filter(i=>!key.includes(i)),missed:key.filter(i=>!value.includes(i))};
+  }
+  function rowStatus(value,key) {
+    const {wrong,missed}=differences(value,key);
+    const parts=[];
+    if(wrong.length)parts.push(`${wrong.length} wrong selection${wrong.length===1?'':'s'}`);
+    if(missed.length)parts.push(`${missed.length} missed answer${missed.length===1?'':'s'}`);
+    return {kind:wrong.length?'wrong':missed.length?'missed':'correct',label:parts.length?`${wrong.length?'✕':'!'} ${parts.join(' · ')}`:'✓ Correct'};
   }
   function choice(q,value,result,i,row=null) {
     const selected = row === null ? value.includes(i) : value[row]?.includes(i);
@@ -71,7 +81,7 @@
     return `<label class="choice ${st.className}"><input type="${row !== null || ['A','S'].includes(q.fmt)?'checkbox':'radio'}" ${row === null?'name="answer"':`data-row="${row}"`} value="${i}" ${selected?'checked':''}><span><span class="choice-letter">${letter(i)}.</span> ${esc(q.choices[i])}${st.label?`<span class="choice-result">${st.label}</span>`:''}</span></label>`;
   }
   function questionFields(q,value,result) {
-    if (q.fmt === 'X') return q.rows.map((row,i) => `<fieldset class="matrix-row"><legend>${i+1}. ${esc(row)}</legend>${q.choices.map((_,j) => choice(q,value,result,j,i)).join('')}</fieldset>`).join('');
+    if (q.fmt === 'X') return q.rows.map((row,i) => {const st=result?rowStatus(value[i],q.key[i]):null;return `<fieldset class="matrix-row ${st?'matrix-'+st.kind:''}"><legend>${i+1}. ${esc(row)}${st?`<span class="row-status status-${st.kind}">${st.label}</span>`:''}</legend>${q.choices.map((_,j) => choice(q,value,result,j,i)).join('')}</fieldset>`;}).join('');
     if (['M','O'].includes(q.fmt)) return `<div class="answer-bank" aria-label="Answer choices">${q.choices.map((c,i) => `<p><strong>${letter(i)}.</strong> ${esc(c)}</p>`).join('')}</div>${q.key.map((_,i) => {
       const correct = result && value[i] === q.key[i];
       const rowLabel = q.fmt === 'M' ? `Match ${i+1}: ${q.pairs[i][0]}` : `Position ${i+1}`;
@@ -79,24 +89,34 @@
     }).join('')}`;
     return `<div class="choices">${q.choices.map((_,i) => choice(q,value,result,i)).join('')}</div>`;
   }
-  function chip(q,i,correct,label) {
-    return `<span class="answer-chip ${correct?'chip-correct':'chip-wrong'}" aria-label="${esc(`${letter(i)}. ${q.choices[i]} — ${label}`)}"><span aria-hidden="true">${correct?'✓':'✕'}</span> ${letter(i)}</span>`;
+  function chip(q,i,kind,label) {
+    return `<span class="answer-chip chip-${kind}" aria-label="${esc(`${letter(i)}. ${q.choices[i]} — ${label}`)}"><span aria-hidden="true">${kind==='correct'?'✓':kind==='missed'?'!':'✕'}</span> ${letter(i)}</span>`;
   }
-  function chips(q,values,key,selected=true) {
-    return values.map(i => chip(q,i,key.includes(i),selected?(key.includes(i)?'your correct choice':'your incorrect choice'):'correct answer')).join('');
+  function chips(q,values,key) {
+    return values.map(i => chip(q,i,key.includes(i)?'correct':'wrong',key.includes(i)?'your correct choice':'your incorrect choice')).join('');
+  }
+  function selectionSummary(q,value,key) {
+    const {wrong,missed}=differences(value,key);
+    const right=value.filter(i=>key.includes(i));
+    const detail=(values,kind,label)=>values.map(i=>`<div class="answer-difference difference-${kind}"><strong>${label}</strong><span>${chip(q,i,kind,label)} ${esc(q.choices[i])}</span></div>`).join('');
+    return `${right.length?`<div class="answer-summary-line"><strong>You got right</strong><span class="answer-chips">${chips(q,right,key)}</span></div>`:''}${detail(wrong,'wrong','Wrong selection')}${detail(missed,'missed','You missed')}`;
   }
   function summary(q,result,review) {
     let comparison = '';
     if (['M','O'].includes(q.fmt)) {
       if (result.correct) comparison = `<p>All ${q.key.length} ${q.fmt==='M'?'matches':'positions'} correct.</p>`;
-      else comparison = `<div class="answer-comparison">${q.key.map((key,i) => `<div class="answer-comparison-row"><span>${q.fmt==='M'?'Match':'Position'} ${i+1}</span><span class="comparison-pair"><span>You chose ${chip(q,result.value[i],result.value[i]===key,'your choice')}</span>${result.value[i]===key?'':`<span>Correct ${chip(q,key,true,'correct answer')}</span>`}</span></div>`).join('')}</div>`;
+      else comparison = `<div class="answer-comparison">${q.key.map((key,i) => {const correct=result.value[i]===key;return `<div class="answer-comparison-row comparison-${correct?'correct':'wrong'}"><div class="row-result-title"><strong>${q.fmt==='M'?'Match':'Position'} ${i+1}</strong><span class="status-${correct?'correct':'wrong'}">${correct?'✓ Correct':'✕ Incorrect'}</span></div>${correct?'':selectionSummary(q,[result.value[i]],[key])}</div>`;}).join('')}</div>`;
     } else if (q.fmt === 'X') {
       if (result.correct) comparison = '<p>All rows correct.</p>';
-      else comparison = `<div class="answer-comparison">${q.rows.map((_,i) => { const equal = result.value[i].length===q.key[i].length && q.key[i].every(x=>result.value[i].includes(x)); return `<div class="answer-comparison-row"><span>Row ${i+1}</span><span class="comparison-pair"><span>You chose ${chips(q,result.value[i],q.key[i])}</span>${equal?'':`<span>Correct ${chips(q,q.key[i],q.key[i],false)}</span>`}</span></div>`; }).join('')}</div>`;
+      else {const rows=q.rows.map((_,i)=>rowStatus(result.value[i],q.key[i]));comparison=`<p class="matrix-result-count">${rows.filter(s=>s.kind==='correct').length} of ${rows.length} rows correct.</p><div class="answer-comparison">${rows.map((st,i)=>`<div class="answer-comparison-row comparison-${st.kind}"><div class="row-result-title"><strong>Row ${i+1}</strong><span class="status-${st.kind}">${st.label}</span></div>${st.kind==='correct'?'':selectionSummary(q,result.value[i],q.key[i])}</div>`).join('')}</div>`;}
     } else {
-      comparison = `<div class="answer-summary-line"><strong>${result.correct?'Your answer':'You chose'}</strong><span class="answer-chips">${chips(q,result.value,q.key)}</span></div>${result.correct?'':`<div class="answer-summary-line"><strong>Correct answer</strong><span class="answer-chips">${chips(q,q.key,q.key,false)}</span></div>`}`;
+      comparison = result.correct?`<div class="answer-summary-line"><strong>Your answer</strong><span class="answer-chips">${chips(q,result.value,q.key)}</span></div>`:selectionSummary(q,result.value,q.key);
     }
     return `<div class="feedback-banner ${result.correct?'':'incorrect'}"><h3>${result.correct?'Correct.':'Not quite.'}</h3>${comparison}${!result.correct?'<p class="feedback-note">Saved to missed checks.</p>':review?'<p class="feedback-note">Removed from missed checks.</p>':''}</div>`;
   }
-  window.StudyPresentation = {text,title,body,definitions,questionFields,summary};
+  function optionVerdict(correct,selected) {
+    const st=status(correct,selected,true);
+    return `<span class="verdict ${st.className||'answer-neutral'}">${st.label||'Not selected · Not required'}</span>`;
+  }
+  window.StudyPresentation = {text,title,body,definitions,questionFields,summary,optionVerdict};
 })();

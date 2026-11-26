@@ -120,15 +120,15 @@
     const explain = value => presentation.text(questionMap.get(q.id).lesson,value);
     let reasons='';
     if(q.fmt==='M'){
-      reasons=q.pairs.map((pair,i)=>`<section class="rationale"><h4>${i+1}. ${esc(pair[0])}</h4><p><strong>You chose ${letter(result.value[i])}:</strong> ${esc(q.choices[result.value[i]])}</p><p><strong>Correct match ${letter(q.key[i])}:</strong> ${esc(q.choices[q.key[i]])}</p><p>${explain(pair[2])}</p></section>`).join('');
+      reasons=q.pairs.map((pair,i)=>`<section class="rationale"><h4>${i+1}. ${esc(pair[0])}</h4>${presentation.optionVerdict(result.value[i]===q.key[i],true)}<p><strong>You chose ${letter(result.value[i])}:</strong> ${esc(q.choices[result.value[i]])}</p><p><strong>Correct match ${letter(q.key[i])}:</strong> ${esc(q.choices[q.key[i]])}</p><p>${explain(pair[2])}</p></section>`).join('');
       const meanings=q.meanings||q.choices.map((c,i)=>q.pairs.find((p,j)=>q.key[j]===i)?.[2]||'');
       reasons+=`<section class="rationale"><h4>Compare every label</h4>${q.choices.map((c,i)=>`<p><strong>${letter(i)}. ${esc(c)}:</strong> ${explain(meanings[i])}</p>`).join('')}</section>`;
     }else if(q.fmt==='X'){
-      reasons=q.rows.map((r,i)=>`<section class="rationale"><h4>Row ${i+1}. ${esc(r)}</h4>${q.choices.map((c,j)=>`<p><strong>${letter(j)}. ${esc(c)}:</strong> ${q.key[i].includes(j)?'Select':'Do not select'}${result.value[i].includes(j)?' · You selected this':''}</p>`).join('')}<p>${explain(q.reasons[i])}</p></section>`).join('');
+      reasons=q.rows.map((r,i)=>`<section class="rationale"><h4>Row ${i+1}. ${esc(r)}</h4>${q.choices.map((c,j)=>`<div class="rationale-option">${presentation.optionVerdict(q.key[i].includes(j),result.value[i].includes(j))}<p><strong>${letter(j)}. ${esc(c)}:</strong> ${q.key[i].includes(j)?'Select':'Do not select'}${result.value[i].includes(j)?' · You selected this':''}</p></div>`).join('')}<p>${explain(q.reasons[i])}</p></section>`).join('');
     }else if(q.fmt==='O'){
-      reasons=q.key.map((v,i)=>`<section class="rationale"><h4>Position ${i+1}: ${letter(v)}. ${esc(q.choices[v])}</h4><p>You placed ${letter(result.value[i])}. ${esc(q.choices[result.value[i]])} here.</p><p>${explain(q.reasons[v])}</p></section>`).join('');
+      reasons=q.key.map((v,i)=>`<section class="rationale"><h4>Position ${i+1}: ${letter(v)}. ${esc(q.choices[v])}</h4>${presentation.optionVerdict(result.value[i]===v,true)}<p>You placed ${letter(result.value[i])}. ${esc(q.choices[result.value[i]])} here.</p><p>${explain(q.reasons[v])}</p></section>`).join('');
     }else{
-      reasons=q.choices.map((opt,i)=>`<section class="rationale"><h4>${letter(i)}. ${esc(opt)}</h4><span class="verdict ${q.key.includes(i)?'':'wrong'}">${q.key.includes(i)?'Correct option':'Incorrect option'}</span>${result.value.includes(i)?'<span class="muted">You selected this</span>':''}<p>${explain(q.reasons[i])}</p></section>`).join('');
+      reasons=q.choices.map((opt,i)=>`<section class="rationale"><h4>${letter(i)}. ${esc(opt)}</h4>${presentation.optionVerdict(q.key.includes(i),result.value.includes(i))}<p>${explain(q.reasons[i])}</p></section>`).join('');
     }
     return `<div class="feedback" id="answer-feedback" tabindex="-1" aria-label="Answer feedback">${presentation.summary(q,result,review)}<h3 class="rationale-heading">Why each option fits or doesn’t</h3>${q.reason?`<p>${explain(q.reason)}</p>`:''}${reasons}</div>`;
   }

@@ -65,3 +65,10 @@ Supporting machine-readable audits and screenshots are stored alongside the publ
 - Verified compressed and compatibility-code round trips, older codes without highlights, merge/deduplication, invalid-range rejection, persistence, and import undo. Browser export/import between separate local origins preserved highlights. Existing progress fixtures retained 18 completed lessons, 90 submitted checks, six missed checks, and the saved position.
 - Checked light and OLED dark modes and 320, 430, 932, 834, and 1194px viewport widths. No horizontal overflow; toolbar buttons are at least 44px high. These are browser viewport tests, not physical iOS touch tests.
 - Original course data remains unchanged: eight full paths plus high-yield review, 150 lessons and 750 checks. Personal highlights stay in browser storage and copied progress codes; no user data or PDFs are published.
+
+## Clearer mistakes and omissions
+
+- Green/check marks now mean a correct selection, red/crosses mean an incorrect selection, and amber/exclamation marks mean a required answer was missed. The same distinction applies to options, result summaries, and rationales.
+- Matrix feedback marks each row and names the exact missing choices. The reported example now shows two of three rows correct and identifies Row 2's missing B (Functional effect). Correct rows stay compact.
+- Checked feedback generation for all 750 checks across all six formats, including 834 valid incorrect-answer variations; no answer status appears before submission. Course data and scoring helpers are unchanged.
+- Browser-tested the reported example, a wrong single-choice selection, hidden feedback, refresh persistence, and light/OLED dark appearance. Checked 320, 430, 932, 834, and 1194px widths without horizontal overflow. No browser console errors. These are browser viewport tests, not physical-device testing.
