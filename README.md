@@ -21,6 +21,9 @@ The full subject paths retain the original teaching, terminology, examples, comp
 
 ## Study and progress
 
+Use the sun/moon button in the header to switch between light and dark mode. The website follows your device appearance until you choose a mode, then remembers that choice in this browser. While studying, the compact header keeps the lesson title and step count visible; open **Lesson details** for the subject, topic, and learning focus.
+
+
 - Read one main idea, then tap **Next**. **Back** revisits the previous screen. The lesson outline links to individual steps, checks, and foundation lessons.
 - **Explain the terms** and **Explain more** offer optional detail.
 - Choose an answer and press **Check answer**. Feedback shows your selection, the correct answer, and the original reasoning. Continue when ready.
@@ -33,7 +36,7 @@ The full subject paths retain the original teaching, terminology, examples, comp
 
 ## Publish or update on GitHub Pages
 
-1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `core.js`, `content.js`, `full-paths.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
+1. Upload this folder's contents to the repository's `main` branch, preserving the `sources` folder. `index.html` must be at the repository root beside `styles.css`, `app.js`, `theme.js`, `core.js`, `content.js`, `full-paths.js`, `meat-and-potatoes-logo.png`, `favicon.png`, and `apple-touch-icon.png`. Keep `.nojekyll` if your upload method includes hidden files.
 2. In **Settings → Pages**, select **Deploy from a branch**, **main**, and **/(root)**, then **Save**. These are already configured for this repository.
 3. Wait for the Pages deployment to succeed. Open the website link above. Later commits to `main` redeploy automatically.
 

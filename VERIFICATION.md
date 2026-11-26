@@ -23,3 +23,10 @@ Verified November 25, 2026. This revision adds eight complete subject paths and 
 - Browser viewport checks cover phone and iPad portrait/landscape layouts. These are simulations, not physical-device or Safari tests.
 
 Supporting machine-readable audits and screenshots are stored alongside the publishing folder in `nur2460-exam4-verification`.
+
+## Compact layout and dark mode update
+
+- Reduced the first full-path lesson card start from 415px to 181px at a 430 × 932 CSS-pixel viewport; body text remains 18.36px.
+- Checked 430 × 932 and 932 × 430 phone layouts, 820 × 1180 tablet, and 320px narrow-screen layout. No horizontal overflow. Safe-area CSS supports landscape insets. These are browser viewport checks, not physical iPhone Safari tests.
+- Checked light and dark mode, collapsed/expanded lesson details, all six question formats, hidden feedback before submitting, scoring, option rationales, source dialogs, navigation, and saved position after refresh.
+- Verified automatic system dark mode, manual override after refresh, and unchanged study progress when toggling the theme. Body and link contrast exceed 4.5:1 in both themes; no browser console errors.

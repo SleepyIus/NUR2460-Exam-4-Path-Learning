@@ -80,7 +80,7 @@
   function lessonHeader(l, phase, index, total, review=false) {
     const s=subjectMap.get(l.subject);
     const p=pathMap.get(l.path);
-    return `<div class="lesson-top"><a class="text-button" href="${pathHref(p)}">${esc(p.name)} · All lessons</a><p class="eyebrow">${l.path==='HY'?'Meat and potatoes · ':'Full path · '}${esc(s.name)}</p>${l.topic?`<p class="topic-name">${esc(l.topic)}</p>`:''}<h1 class="lesson-title">${esc(l.title)}</h1><p class="focus-line">${esc(l.focus)}</p><div class="step-meta"><span class="phase">${review?'Missed-check review':phase==='Step'?'Learn the idea':'Check your understanding'}</span><span>${phase} ${index} of ${total}</span></div><progress value="${index}" max="${total}" aria-label="${phase} ${index} of ${total}"></progress></div>`;
+    return `<div class="lesson-top"><div class="lesson-tools"><a class="lesson-back" href="${pathHref(p)}" aria-label="All lessons in ${esc(p.name)}">All lessons</a><details class="lesson-context"><summary>Lesson details</summary><div class="lesson-context-body"><p class="eyebrow">${l.path==='HY'?'Meat and potatoes · ':'Full path · '}${esc(s.name)}</p>${l.topic?`<p class="topic-name">${esc(l.topic)}</p>`:''}<p class="focus-line">${esc(l.focus)}</p></div></details></div><h1 class="lesson-title">${esc(l.title)}</h1><div class="step-meta"><span class="phase">${review?'Missed-check review':phase==='Step'?'Learn the idea':'Check your understanding'}</span><span>${phase} ${index} of ${total}</span></div><progress value="${index}" max="${total}" aria-label="${phase} ${index} of ${total}"></progress></div>`;
   }
   function sourceButton() { return '<button type="button" class="text-button local-sources">Sources</button>'; }
   function sourceFooter() { return `<div class="card-bottom"><span class="save-status">${storageOK?'Your place is saved':'Session only · storage unavailable'}</span>${sourceButton()}</div>`; }
@@ -259,6 +259,7 @@
     else if(parts[0]==='review')showReview(/^\d+$/.test(parts[1]||'')?Number(parts[1]):0);
     else if(parts[0]==='review-done')finishReview();
     else showHome();
+    document.body.classList.toggle('study-mode',Boolean(main.querySelector('.lesson-shell')));
     main.focus({preventScroll:true});window.scrollTo(0,0);
     document.title=current?`${current.lesson.title} · NUR2460 Exam 4`:activePath?`${activePath.name} · NUR2460 Exam 4`:'NUR2460 · Exam 4 study paths';
   }
