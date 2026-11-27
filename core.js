@@ -47,17 +47,21 @@
   }
   function reanchorHighlight(h,text){
     if(text.slice(h.start,h.end)===h.quote)return h;
-    // Comma or word-spacing copyedits can shift a saved range. Reattach only
-    // when the same characters identify one unambiguous passage in its block.
-    const quote=h.quote.replace(/[,\s]/g,'');
+    // Reattach after case, spacing, or punctuation copyedits only when the
+    // same characters identify one unambiguous passage in the original block.
+    // Keep punctuation next to digits so decimal values and ranges stay distinct.
+    const ignored=(s,i)=>/[,\s]/.test(s[i])||(/[.:;!?-]/.test(s[i])&&!/[0-9]/.test((s[i-1]||'')+(s[i+1]||'')));
+    const fold=c=>c.replace(/[A-Z]/g,c=>c.toLowerCase());
+    let quote='';
+    for(let i=0;i<h.quote.length;i++)if(!ignored(h.quote,i))quote+=fold(h.quote[i]);
     if(!quote.trim())return h;
     const offsets=[],characters=[];
-    for(let i=0;i<text.length;i++)if(!/[,\s]/.test(text[i])){offsets.push(i);characters.push(text[i]);}
+    for(let i=0;i<text.length;i++)if(!ignored(text,i)){offsets.push(i);characters.push(fold(text[i]));}
     const plain=characters.join(''),at=plain.indexOf(quote);
     if(at<0||plain.indexOf(quote,at+1)!==-1)return h;
     let start=offsets[at],end=offsets[at+quote.length-1]+1;
-    if(h.quote.startsWith(',')&&text[start-1]===',')start--;
-    if(h.quote.endsWith(',')&&text[end]===',')end++;
+    if(/^[,.:;!?-]/.test(h.quote)&&/[,.:;!?-]/.test(text[start-1]||''))start--;
+    if(/[,.:;!?-]$/.test(h.quote)&&/[,.:;!?-]/.test(text[end]||''))end++;
     return {...h,start,end,quote:text.slice(start,end)};
   }
   function mergeHighlights(a={},b={}){

@@ -123,3 +123,12 @@ PDF word-spacing repair:
 - At 1376×1032, the button rectangles stayed identical across lesson navigation, opening definitions, expanding answer feedback, and scrolling a long matrix check. Verified Back returns to the path list, Next stays disabled before grading, and Next advances after grading. Light and dark mode previews passed with no console errors.
 - This update changes CSS and the stylesheet cache version only; course content, scoring, storage, and progress-transfer code are unchanged.
 
+
+## Answer capitalization and punctuation
+
+- Audited all 3,023 answer choices across 150 lessons and 750 checks against the original authored answer text. Restored capitalization, punctuation, and spacing in 80 choices and four flow labels, including “Behavior.” and “ERP.” Existing Oxford commas remain intact.
+- Verified all 84 corrections preserve the same letters and numbers when case, spacing, and punctuation are excluded. Lesson/check identifiers, answer keys, and all other course data are unchanged.
+- Fixed the local importer to preserve the original formatting of verified questions and flow labels, extending the earlier terms/table fix. Five regression cases cover matching a word in a stem or surrounding sentence before the actual answer choice; unmatched wording still gets reported.
+- Saved markings can reattach after capitalization and punctuation corrections only when the passage is uniquely identifiable in its original block. All 336 color/style migration cases passed, including rejection of ambiguous or absent text and changes to decimal values or numerical ranges.
+- Browser-verified “Behavior.” in the original check, the correct-answer summary, and its explanation; verified “ERP” in the matching answer bank and dropdowns. No browser console errors.
+- Existing feedback checks passed for all 750 checks and 834 incorrect-answer variations. Colored-marking and compressed/compatibility progress-code checks also passed.

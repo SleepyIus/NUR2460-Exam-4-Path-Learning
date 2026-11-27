@@ -2431,12 +2431,12 @@ window.FULL_PATHS = {
           "stem": "Which responses can block therapeutic communication?",
           "fmt": "A",
           "choices": [
-            "Reflection",
+            "Reflection.",
             "Offering self.",
             "Arguing.",
             "Telling the person to be grateful.",
             "Quick advice.",
-            "False reassurance",
+            "False reassurance.",
             "Personal criticism.",
             "Restating.",
             "Clarification."
@@ -2467,9 +2467,9 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Giving advice.",
-            "False reassurance",
+            "False reassurance.",
             "Changing the subject.",
-            "Reflection"
+            "Reflection."
           ],
           "key": [
             3
@@ -3012,9 +3012,9 @@ window.FULL_PATHS = {
           "stem": "Which questions directly assess suicide risk?",
           "fmt": "A",
           "choices": [
-            "Intent",
+            "Intent.",
             "Agreement to a safety promise.",
-            "Access to means",
+            "Access to means.",
             "Satisfaction with meals.",
             "Current suicidal thoughts.",
             "Preferred group activity.",
@@ -4174,9 +4174,9 @@ window.FULL_PATHS = {
             "Urinary hesitancy or retention.",
             "Diarrhea.",
             "Urinary urgency.",
-            "dry mouth,",
+            "Dry mouth.",
             "Excessive salivation.",
-            "constipation,",
+            "Constipation.",
             "Blurred vision."
           ],
           "key": [
@@ -5142,7 +5142,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Limit skeletal movement.",
-            "reduce secretions",
+            "Reduce secretions.",
             "Prevent vagal bradycardia.",
             "Provide brief anesthesia."
           ],
@@ -5191,7 +5191,7 @@ window.FULL_PATHS = {
           "choices": [
             "Limit muscle movement.",
             "Prevent vagal bradycardia.",
-            "reduce secretions",
+            "Reduce secretions.",
             "Provide brief anesthesia."
           ],
           "key": [
@@ -5488,7 +5488,7 @@ window.FULL_PATHS = {
           "choices": [
             "Bipolar II",
             "Hypomania",
-            "mania"
+            "Mania"
           ],
           "key": [
             0,
@@ -5565,7 +5565,7 @@ window.FULL_PATHS = {
           "stem": "Which features describe hypomania?",
           "fmt": "A",
           "choices": [
-            "marked impairment",
+            "Marked impairment.",
             "Episode requiring hospitalization.",
             "No marked functional impairment.",
             "No hospitalization needed for the episode.",
@@ -5941,7 +5941,7 @@ window.FULL_PATHS = {
             "Appetite alone as proof of safe judgment.",
             "Current safety.",
             "Weight alone as proof of organized thinking.",
-            "behavior",
+            "Behavior.",
             "Thought organization.",
             "Grooming alone as proof of low suicide risk."
           ],
@@ -6340,7 +6340,7 @@ window.FULL_PATHS = {
           "choices": [
             "Delayed meals until activity settles.",
             "Portable snacks.",
-            "nutritious drinks.",
+            "Nutritious drinks.",
             "Protein-containing foods.",
             "Low-calorie candy.",
             "Non-nutritive beverages.",
@@ -6942,8 +6942,8 @@ window.FULL_PATHS = {
             "Poor intake.",
             "Heavy sweating.",
             "Fever.",
-            "Vomiting,",
-            "diarrhea"
+            "Vomiting.",
+            "Diarrhea."
           ],
           "key": [
             3,
@@ -7146,13 +7146,13 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "Sedation.",
-            "confusion",
+            "Confusion.",
             "Ongoing GI distress.",
             "Mild thirst without other changes.",
-            "poor coordination",
+            "Poor coordination.",
             "Stable appetite without symptoms.",
             "Fine tremor without worsening.",
-            "Coarse tremor"
+            "Coarse tremor."
           ],
           "key": [
             0,
@@ -7380,7 +7380,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Depression.",
-            "acute mania?",
+            "Acute mania.",
             "Acute agitation.",
             "Acute psychosis."
           ],
@@ -7511,7 +7511,7 @@ window.FULL_PATHS = {
           "choices": [
             "Hyponatremia.",
             "Hypothyroidism.",
-            "Thrombocytopenia",
+            "Thrombocytopenia.",
             "Leukopenia."
           ],
           "key": [
@@ -7553,7 +7553,7 @@ window.FULL_PATHS = {
           "choices": [
             "Unsteady gait.",
             "Loss of appetite.",
-            "abdominal pain",
+            "Abdominal pain.",
             "Unusual fatigue.",
             "Jaundice.",
             "Persistent nausea or vomiting.",
@@ -7584,7 +7584,7 @@ window.FULL_PATHS = {
           "stem": "Severe abdominal pain with nausea and vomiting on valproate needs evaluation for what?",
           "fmt": "C",
           "choices": [
-            "Pancreatitis",
+            "Pancreatitis.",
             "Hyponatremia.",
             "Hypothyroidism.",
             "Leukopenia."
@@ -7738,7 +7738,7 @@ window.FULL_PATHS = {
             "Cranberry.",
             "Apple.",
             "Grapefruit.",
-            "Grape"
+            "Grape."
           ],
           "key": [
             2
@@ -7762,7 +7762,7 @@ window.FULL_PATHS = {
             "Liver enzymes.",
             "Blood pressure.",
             "Serum lithium.",
-            "serum sodium"
+            "Serum sodium."
           ],
           "key": [
             0,
@@ -7963,7 +7963,7 @@ window.FULL_PATHS = {
             "Circulation.",
             "Usual coping pattern.",
             "Long-term school goals.",
-            "bleeding.",
+            "Bleeding.",
             "Breathing.",
             "Consciousness.",
             "Family psychiatric history."
@@ -8159,7 +8159,7 @@ window.FULL_PATHS = {
             "Prior injuries or attempts.",
             "Preferred activity.",
             "Access to means.",
-            "plan."
+            "Plan."
           ],
           "key": [
             0,
@@ -8347,7 +8347,7 @@ window.FULL_PATHS = {
             "Body temperature.",
             "Ability to seek help.",
             "Wound drainage volume.",
-            "coping,",
+            "Coping.",
             "Willingness to seek help.",
             "Dressing schedule.",
             "Access to means."
@@ -8576,7 +8576,7 @@ window.FULL_PATHS = {
           "stem": "A newborn has visible bladder mucosa on the lower abdominal wall with continuous urine leakage. Which defect fits?",
           "fmt": "C",
           "choices": [
-            "Bladder exstrophy",
+            "Bladder exstrophy.",
             "Vesicoureteral reflux.",
             "Hypospadias.",
             "Cryptorchidism."
@@ -10292,7 +10292,7 @@ window.FULL_PATHS = {
           "stem": "Which urine finding explains the tea or cola color typical of acute glomerulonephritis?",
           "fmt": "C",
           "choices": [
-            "Hematuria",
+            "Hematuria.",
             "Proteinuria.",
             "Pyuria.",
             "Ketonuria."
@@ -10412,8 +10412,8 @@ window.FULL_PATHS = {
           "choices": [
             "Urine protein by dipstick.",
             "Abdominal girth.",
-            "Daily weight",
-            "blood pressure"
+            "Daily weight.",
+            "Blood pressure."
           ],
           "key": [
             3
@@ -10482,7 +10482,7 @@ window.FULL_PATHS = {
             "Volume loss from diuresis.",
             "Lower urinary tract infection.",
             "Steroid withdrawal.",
-            "Pulmonary edema"
+            "Pulmonary edema."
           ],
           "key": [
             3
@@ -10603,7 +10603,7 @@ window.FULL_PATHS = {
           "stem": "Which dietary electrolyte may need restriction when a child with APSGN becomes oliguric?",
           "fmt": "C",
           "choices": [
-            "Potassium",
+            "Potassium.",
             "Zinc.",
             "Iodine.",
             "Iron."
@@ -10805,7 +10805,7 @@ window.FULL_PATHS = {
           "choices": [
             "Minimal-change nephrotic syndrome.",
             "Uncomplicated cystitis.",
-            "Pyelonephritis",
+            "Pyelonephritis.",
             "Bladder exstrophy."
           ],
           "key": [
@@ -11044,8 +11044,8 @@ window.FULL_PATHS = {
             "Urine expressed from a diaper.",
             "Urine poured from a potty.",
             "Adhesive collection bag.",
-            "Sterile catheterization",
-            "Suprapubic aspiration"
+            "Sterile catheterization.",
+            "Suprapubic aspiration."
           ],
           "key": [
             3,
@@ -11434,7 +11434,7 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "Urine odor as a measure of reflux grade.",
-            "age",
+            "Age.",
             "Reflux severity.",
             "Previous infections.",
             "Time of the child’s usual first morning void.",
@@ -11813,7 +11813,7 @@ window.FULL_PATHS = {
             "Time of the child’s usual first morning void.",
             "Urine odor as a measure of reflux grade.",
             "Renal findings.",
-            "age.",
+            "Age.",
             "Reflux severity."
           ],
           "key": [
@@ -12015,7 +12015,7 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "Crusting lesions.",
-            "Coryza",
+            "Coryza.",
             "Chills.",
             "Cheek swelling.",
             "Cough.",
@@ -12230,7 +12230,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Fifth disease.",
-            "measles",
+            "Measles.",
             "Rubella.",
             "Roseola."
           ],
@@ -12414,7 +12414,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Supportive/complication care",
-            "transmission precautions.",
+            "Transmission precautions",
             "Measles recognition"
           ],
           "rows": [
@@ -12731,7 +12731,7 @@ window.FULL_PATHS = {
           "stem": "A child with mumps develops a painful, swollen testis. Which complication is most likely?",
           "fmt": "C",
           "choices": [
-            "Orchitis",
+            "Orchitis.",
             "Nephritis.",
             "Cystitis.",
             "Cryptorchidism."
@@ -13307,7 +13307,7 @@ window.FULL_PATHS = {
           "choices": [
             "Amoxicillin.",
             "Penicillin V.",
-            "Acyclovir",
+            "Acyclovir.",
             "Prednisone."
           ],
           "key": [
@@ -13329,7 +13329,7 @@ window.FULL_PATHS = {
             "Poststreptococcal glomerulonephritis.",
             "Hemolytic uremic syndrome.",
             "Rheumatic carditis.",
-            "Reye syndrome"
+            "Reye syndrome."
           ],
           "key": [
             3
@@ -13744,7 +13744,7 @@ window.FULL_PATHS = {
             "Contact alone.",
             "Airborne.",
             "Protective environment.",
-            "droplet"
+            "Droplet."
           ],
           "key": [
             3
@@ -14823,7 +14823,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Mumps virus.",
-            "Epstein-Barr virus,",
+            "Epstein-Barr virus.",
             "Varicella-zoster virus.",
             "Parvovirus B19."
           ],
@@ -16362,7 +16362,7 @@ window.FULL_PATHS = {
           "stem": "Which change after discharge should the caregiver report promptly?",
           "fmt": "C",
           "choices": [
-            "Recurrent fever",
+            "Recurrent fever.",
             "Expected peeling of the fingertips.",
             "Improved oral intake.",
             "Less irritability with rest."
@@ -16535,7 +16535,7 @@ window.FULL_PATHS = {
           "choices": [
             "Educational neglect.",
             "Sexual abuse.",
-            "Physical abuse",
+            "Physical abuse.",
             "Emotional neglect."
           ],
           "key": [
@@ -16556,7 +16556,7 @@ window.FULL_PATHS = {
           "choices": [
             "Medical neglect.",
             "Sexual abuse.",
-            "Physical abuse",
+            "Physical abuse.",
             "Emotional neglect."
           ],
           "key": [
@@ -16608,7 +16608,7 @@ window.FULL_PATHS = {
             "Sexual exploitation.",
             "Physical assault.",
             "Medical child abuse.",
-            "Neglect"
+            "Neglect."
           ],
           "key": [
             3
@@ -16772,7 +16772,7 @@ window.FULL_PATHS = {
             "Multiple injuries at different healing stages.",
             "An explained superficial knee scrape.",
             "A single injury matching a witnessed fall.",
-            "Object-shaped marks",
+            "Object-shaped marks.",
             "Sharply bordered immersion burns.",
             "A minor injury consistent with mobility."
           ],
@@ -17125,7 +17125,7 @@ window.FULL_PATHS = {
             "A completed criminal investigation.",
             "A caregiver confession.",
             "A confirmed diagnosis of abuse.",
-            "Reasonable suspicion"
+            "Reasonable suspicion."
           ],
           "key": [
             3
@@ -17168,10 +17168,10 @@ window.FULL_PATHS = {
             "A calm appearance alone.",
             "Medical care.",
             "Documentation.",
-            "protection",
+            "Protection.",
             "A confession alone.",
             "Caregiver agreement alone.",
-            "required reporting"
+            "Required reporting."
           ],
           "key": [
             0,
@@ -17572,7 +17572,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Immediate medical/protection action",
-            "Documentation /collaboration",
+            "Documentation/collaboration",
             "Required reporting action"
           ],
           "rows": [
@@ -18834,7 +18834,7 @@ window.FULL_PATHS = {
           "choices": [
             "Relational bullying",
             "Cyberbullying",
-            "bullying"
+            "Bullying"
           ],
           "key": [
             2,
@@ -19092,11 +19092,11 @@ window.FULL_PATHS = {
           "stem": "Which school or behavioral changes can suggest bullying?",
           "fmt": "A",
           "choices": [
-            "School avoidance",
+            "School avoidance.",
             "Low confidence.",
             "Comfortable help-seeking.",
             "Stable usual participation.",
-            "withdrawal",
+            "Withdrawal.",
             "Improved confidence without other concerns.",
             "Worsening grades."
           ],
@@ -19285,9 +19285,9 @@ window.FULL_PATHS = {
             "School participation.",
             "Peer support.",
             "Sleep.",
-            "popularity alone.",
+            "Popularity alone.",
             "Competitive success alone.",
-            "safety.",
+            "Safety.",
             "Lack of visible injury alone.",
             "Ability to seek help."
           ],
@@ -19933,7 +19933,7 @@ window.FULL_PATHS = {
           "fmt": "X",
           "choices": [
             "Predictability",
-            "reinforcement",
+            "Reinforcement",
             "Communication support"
           ],
           "rows": [
@@ -21147,7 +21147,7 @@ window.FULL_PATHS = {
           "stem": "For each description, select every directly relevant focus. Select multiple columns when both are explicitly described.",
           "fmt": "X",
           "choices": [
-            "reading assessment",
+            "Reading assessment",
             "Mathematics assessment",
             "Attention assessment"
           ],
@@ -21866,7 +21866,7 @@ window.FULL_PATHS = {
           "choices": [
             "Protect safety",
             "Maintain consistent limits",
-            "reinforce safer behavior."
+            "Reinforce safer behavior"
           ],
           "rows": [
             "Separate a threatened peer and state the agreed no-hitting limit.",
@@ -22031,7 +22031,7 @@ window.FULL_PATHS = {
             "Using a practiced help signal during conflict.",
             "A stronger explanation for why others deserved harm.",
             "Fewer and less severe aggressive episodes.",
-            "Acknowledging one's action and its effect"
+            "Acknowledging one's action and its effect."
           ],
           "key": [
             1,
@@ -22122,8 +22122,8 @@ window.FULL_PATHS = {
           "title": "Follow the sequence",
           "sequence": [
             "Intrusive thought or urge",
-            "distress",
-            "ritual",
+            "Distress",
+            "Ritual",
             "Brief relief; cycle may recur"
           ],
           "body": "",
@@ -22504,7 +22504,7 @@ window.FULL_PATHS = {
           "choices": [
             "SSRI",
             "CBT",
-            "er p"
+            "ERP"
           ],
           "key": [
             0,
@@ -22542,7 +22542,7 @@ window.FULL_PATHS = {
             "Medication substitution for coping practice.",
             "Positive reinforcement after a completed ritual.",
             "An unplanned restriction of every ritual.",
-            "Exposure and response prevention:"
+            "Exposure and response prevention."
           ],
           "key": [
             3
@@ -22780,7 +22780,7 @@ window.FULL_PATHS = {
             "Manipulation to estimate stage.",
             "General condition and pain.",
             "Diagnosis from outward appearance.",
-            "blood-pressure",
+            "Blood pressure.",
             "Repeated deep palpation.",
             "Renal function as ordered.",
             "Urine findings."
@@ -24100,7 +24100,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Wilms tumor.",
-            "Retinoblastoma",
+            "Retinoblastoma.",
             "Nephrotic syndrome.",
             "Osteosarcoma."
           ],
@@ -24141,12 +24141,12 @@ window.FULL_PATHS = {
           "stem": "Which findings warrant assessment for retinoblastoma?",
           "fmt": "A",
           "choices": [
-            "Leukocoria",
+            "Leukocoria.",
             "A glove-pattern burn.",
             "Persistent focal knee pain.",
             "An abnormal red reflex.",
             "Reduced visual acuity.",
-            "Strabismus",
+            "Strabismus.",
             "A painless flank mass."
           ],
           "key": [
@@ -24172,7 +24172,7 @@ window.FULL_PATHS = {
           "fmt": "C",
           "choices": [
             "Swelling of the eyelids.",
-            "A white pupillary reflection",
+            "A white pupillary reflection.",
             "Clouding of the corneal surface.",
             "Misalignment of the eyes."
           ],
@@ -24689,7 +24689,7 @@ window.FULL_PATHS = {
           "stem": "Osteosarcoma often develops near the knee. Which part of the long bone is typically involved?",
           "fmt": "C",
           "choices": [
-            "Metaphysis",
+            "Metaphysis.",
             "Diaphysis.",
             "Epiphysis.",
             "Articular cartilage."
@@ -24732,9 +24732,9 @@ window.FULL_PATHS = {
           "fmt": "A",
           "choices": [
             "A painless flank mass.",
-            "limp",
+            "Limp.",
             "Leukocoria.",
-            "A. Pathologic fracture",
+            "A pathologic fracture.",
             "Koplik spots.",
             "Reduced range of motion.",
             "Swelling.",
@@ -25099,8 +25099,8 @@ window.FULL_PATHS = {
           "stem": "Which grief response involves sadness about being unable to change the situation?",
           "fmt": "C",
           "choices": [
-            "Bargaining",
-            "Acceptance",
+            "Bargaining.",
+            "Acceptance.",
             "Denial.",
             "Depression."
           ],
@@ -25125,7 +25125,7 @@ window.FULL_PATHS = {
             "Limb loss.",
             "A required shared family timetable.",
             "A fixed required order of stages.",
-            "possible death.",
+            "Possible death.",
             "Disruption of familiar life."
           ],
           "key": [
@@ -25873,7 +25873,7 @@ window.FULL_PATHS = {
             "Available support.",
             "Coping.",
             "Participation.",
-            "understanding."
+            "Understanding."
           ],
           "key": [
             2,
@@ -26818,9 +26818,9 @@ window.FULL_PATHS = {
           "id": "E-L22-s2",
           "title": "Follow the sequence",
           "sequence": [
-            "severe malnutrition.",
+            "Severe malnutrition",
             "Nutrition restarts",
-            "electrolyte and fluid shifts:",
+            "Electrolyte and fluid shifts",
             "Controlled feeding plus monitoring"
           ],
           "body": "",
@@ -27244,7 +27244,7 @@ window.FULL_PATHS = {
           "fmt": "M",
           "choices": [
             "Binge-eating disorder",
-            "Binge-eating",
+            "Binge eating",
             "Compensatory behavior"
           ],
           "key": [
