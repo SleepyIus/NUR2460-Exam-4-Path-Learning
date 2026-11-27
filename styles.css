@@ -232,3 +232,25 @@ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-ri
 .card-bottom,.site-footer{flex-wrap:wrap}
 .card-tools,.site-tools{margin-left:auto}
 .highlight-trigger,.highlight-toolbar{-webkit-user-select:none;user-select:none}
+
+/* Wide-screen study controls stay in the side margins as cards grow or scroll.
+   Reserve room for each 112px button, a 20px card gap, and a 24px outer margin. */
+@media screen and (min-width:1024px) and (min-height:600px){
+  .study-mode main{max-width:none;padding-left:156px;padding-right:156px}
+  .study-mode .site-header{width:calc(100% - 248px)}
+  .study-mode .lesson-nav{
+    position:fixed;top:50%;left:calc(24px + env(safe-area-inset-left));right:calc(24px + env(safe-area-inset-right));
+    max-width:1164px;height:84px;margin:0 auto;padding:0;transform:translateY(-50%);
+    z-index:20;pointer-events:none;
+  }
+  .study-mode .lesson-nav>*{
+    flex:none;width:112px;min-width:112px;height:84px;min-height:84px;padding:10px 12px;
+    flex-direction:column;gap:10px;border-radius:14px;font-size:.85rem;line-height:1.2;
+    pointer-events:auto;
+  }
+  .study-mode .lesson-nav>*::before{
+    content:"";display:block;width:10px;height:10px;flex:none;
+    border-top:2px solid currentColor;border-left:2px solid currentColor;transform:rotate(-45deg);
+  }
+  .study-mode .lesson-nav>.primary::before{transform:rotate(135deg)}
+}

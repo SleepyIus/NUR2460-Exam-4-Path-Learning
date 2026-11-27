@@ -114,3 +114,12 @@ PDF word-spacing repair:
 - Extended saved-marking reattachment to tolerate repaired spacing while retaining exact-match priority and refusing ambiguous matches. Tested 92 color/style cases, old underline migration in the browser, correct matrix scoring, and refresh persistence.
 - Browser-checked all 23 repaired labels across the 18 affected checks at 430px width without overflow; inspected the reported mental-status case in OLED dark mode. No console errors. These are browser viewport tests, not physical-device Safari tests.
 - Existing feedback checks passed for all 750 checks and 834 valid incorrect answers, along with colored-annotation and compressed/compatibility progress-code checks.
+## Fixed side navigation on larger screens
+
+- At viewport widths of at least 1024px and heights of at least 600px, the existing lesson and check controls sit in fixed left and right margins, centered vertically in the viewport. The content reserves space for the controls with a 20px gap, so the controls never cover the card.
+- Button dimensions stay the same for Back, Next, Start checks, and Finish lesson. The arrows are decorative CSS shapes, and the existing accessible labels, disabled states, keyboard behavior, and handlers remain in use.
+- At narrower or shorter viewport sizes, controls retain their original position below the card. The screen-only rule preserves the existing print layout.
+- Browser checks passed at 1024×768, 1280×800, and 1920×1080, plus the 1376×1032 tablet layout. Fallback checks passed at 430×932, 820×1180, 1023×768, and 1376×500, with no horizontal overflow.
+- At 1376×1032, the button rectangles stayed identical across lesson navigation, opening definitions, expanding answer feedback, and scrolling a long matrix check. Verified Back returns to the path list, Next stays disabled before grading, and Next advances after grading. Light and dark mode previews passed with no console errors.
+- This update changes CSS and the stylesheet cache version only; course content, scoring, storage, and progress-transfer code are unchanged.
+
