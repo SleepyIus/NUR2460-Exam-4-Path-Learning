@@ -132,3 +132,11 @@ PDF word-spacing repair:
 - Saved markings can reattach after capitalization and punctuation corrections only when the passage is uniquely identifiable in its original block. All 336 color/style migration cases passed, including rejection of ambiguous or absent text and changes to decimal values or numerical ranges.
 - Browser-verified “Behavior.” in the original check, the correct-answer summary, and its explanation; verified “ERP” in the matching answer bank and dropdowns. No browser console errors.
 - Existing feedback checks passed for all 750 checks and 834 incorrect-answer variations. Colored-marking and compressed/compatibility progress-code checks also passed.
+
+## Optional large-screen reading bar
+
+- Added an opt-in Reading bar control beside the theme control in lesson/check headers, available at the same 1024px-wide and 600px-high breakpoint as side navigation. It starts off on every page load; leaving study mode or narrowing below the breakpoint turns it off without automatically reopening it. No reading-bar state is stored in progress or annotations.
+- The translucent band spans the card's text width and approximates one body-text line. Drag the left handle vertically; the right close button or Escape turns it off. Arrow keys move one line, Page Up/Down move five lines, and Home/End move to the visible limits. Both side controls have 44px targets. The band lets selections, links, and answers receive input underneath.
+- Browser-verified pointer dragging, arrow/Home/End keys, close/Escape controls, selection and saved highlighting through the band, refresh default-off behavior, lesson navigation, correct quiz submission, expanded feedback, scrolling, and exit to the path overview. Verified light and OLED dark appearance, print suppression, and no console errors.
+- Verified 1024×768, 1376×1032, and 1920×1080 large-screen layouts, plus hidden controls at 1023×768, 430×932, 820×1180, and 1376×500. No horizontal overflow. Widening after small-screen mode keeps the guide off. These are browser viewport and pointer tests; physical iPad touch behavior was not tested.
+- Course content, answer keys, scoring helpers, saved-marking code, and progress-transfer code are unchanged. Existing checks passed for all 750 questions and 834 incorrect-answer variations, along with colored-annotation and both progress-code formats.
