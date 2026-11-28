@@ -146,3 +146,9 @@ PDF word-spacing repair:
 - Replaced the right-side close button with a matching 44px drag handle. Both ends move the same guide, expose synchronized accessible position values, and support keyboard movement. Click Reading bar again to turn it off; Escape remains available from either handle.
 - Browser-verified sequential dragging from the left and right, keyboard movement from each end, synchronized position values, toggle-off behavior, refresh default-off behavior, and hidden controls at 430px width. Widening the screen keeps the bar off. No console errors.
 - Pointer capture belongs to the handle that starts the drag and is released when dragging ends or the guide is disabled. The existing large-screen breakpoint, transparent band, text selection, course content, scoring, and progress data remain unchanged.
+
+## Longer reading bar and clearer handles
+
+- Extended the reading band to both outer card edges. While enabled, the side gutters reserve room for both 44px handles with an 8px gap from Back and Next. Turning the guide off restores the normal layout.
+- Solid teal handles with white grips in light mode and pale teal handles with dark grips in dark mode improve visibility. Grip contrast is 6.33:1 and 7.04:1, respectively. Hover and drag states retain the stronger contrast.
+- Browser-verified full-card width and nonoverlapping side controls at 1024×768, 1376×1032, and 1920×1080; both-end dragging, keyboard movement, toggle-off, refresh default-off, and hidden controls at 430px. No horizontal overflow or console errors. Course text, scoring, highlights, and saved progress code are unchanged.

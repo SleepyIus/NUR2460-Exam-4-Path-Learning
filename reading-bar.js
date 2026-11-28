@@ -17,6 +17,7 @@
     // This is a temporary reading aid, never saved in progress or annotations.
     function turnOff(returnFocus = false) {
       enabled = false;
+      document.body.classList.remove('reading-bar-open');
       center = null;
       stopDrag();
       guide.hidden = true;
@@ -39,7 +40,7 @@
       toggle.hidden = !available;
       if(!available){turnOff();return;}
       if(!enabled)return;
-      const rect = card.getBoundingClientRect(), style = getComputedStyle(card);
+      const rect = card.getBoundingClientRect();
       const text = card.querySelector('.idea-body, .choice, .answer-help, p') || card;
       const textStyle = getComputedStyle(text);
       const line = clamp(parseFloat(textStyle.lineHeight) || parseFloat(textStyle.fontSize)*1.6,28,60);
@@ -51,7 +52,7 @@
       if(bounds.max < bounds.min){guide.hidden=true;stopDrag();return;}
       if(center === null){const r=text.getBoundingClientRect();center=r.top+line/2;}
       center = clamp(center,bounds.min,bounds.max);
-      const left = rect.left + parseFloat(style.paddingLeft), right = rect.right - parseFloat(style.paddingRight);
+      const left = rect.left, right = rect.right;
       Object.assign(guide.style,{left:left+'px',top:(center-line/2)+'px',width:(right-left)+'px',height:line+'px'});
       const value = String(Math.round((center-bounds.min)/Math.max(1,bounds.max-bounds.min)*100));
       for(const handle of handles){
@@ -64,6 +65,7 @@
       if(enabled){turnOff();return;}
       if(!wide.matches || !card?.isConnected)return;
       enabled = true;
+      document.body.classList.add('reading-bar-open');
       toggle.setAttribute('aria-pressed','true');
       toggle.title = 'Turn off reading bar';
       layout();
