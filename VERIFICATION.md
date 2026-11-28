@@ -140,3 +140,9 @@ PDF word-spacing repair:
 - Browser-verified pointer dragging, arrow/Home/End keys, close/Escape controls, selection and saved highlighting through the band, refresh default-off behavior, lesson navigation, correct quiz submission, expanded feedback, scrolling, and exit to the path overview. Verified light and OLED dark appearance, print suppression, and no console errors.
 - Verified 1024×768, 1376×1032, and 1920×1080 large-screen layouts, plus hidden controls at 1023×768, 430×932, 820×1180, and 1376×500. No horizontal overflow. Widening after small-screen mode keeps the guide off. These are browser viewport and pointer tests; physical iPad touch behavior was not tested.
 - Course content, answer keys, scoring helpers, saved-marking code, and progress-transfer code are unchanged. Existing checks passed for all 750 questions and 834 incorrect-answer variations, along with colored-annotation and both progress-code formats.
+
+## Reading bar handles on both ends
+
+- Replaced the right-side close button with a matching 44px drag handle. Both ends move the same guide, expose synchronized accessible position values, and support keyboard movement. Click Reading bar again to turn it off; Escape remains available from either handle.
+- Browser-verified sequential dragging from the left and right, keyboard movement from each end, synchronized position values, toggle-off behavior, refresh default-off behavior, and hidden controls at 430px width. Widening the screen keeps the bar off. No console errors.
+- Pointer capture belongs to the handle that starts the drag and is released when dragging ends or the guide is disabled. The existing large-screen breakpoint, transparent band, text selection, course content, scoring, and progress data remain unchanged.

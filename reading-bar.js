@@ -6,9 +6,9 @@
     guide.id = 'reading-bar';
     guide.className = 'reading-bar';
     guide.hidden = true;
-    guide.innerHTML = '<div class="reading-bar-handle" role="slider" tabindex="0" aria-label="Reading bar position" aria-orientation="vertical" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-describedby="reading-bar-help" title="Drag to move the reading bar"><span aria-hidden="true">⠿</span></div><button class="reading-bar-close" type="button" aria-label="Turn off reading bar" title="Turn off reading bar">×</button><span id="reading-bar-help" class="sr-only">Drag up or down to follow the text. Use the arrow keys to move one line, or Escape to turn off.</span>';
+    guide.innerHTML = ['left','right'].map(side=>`<div class="reading-bar-handle reading-bar-handle-${side}" role="slider" tabindex="0" aria-label="Reading bar position, ${side} handle" aria-orientation="vertical" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-describedby="reading-bar-help" title="Drag to move the reading bar"><span aria-hidden="true">⠿</span></div>`).join('')+'<span id="reading-bar-help" class="sr-only">Drag either end up or down to follow the text. Use the arrow keys to move one line. Toggle Reading bar again or press Escape to turn off.</span>';
     document.body.append(guide);
-    const handle = guide.querySelector('.reading-bar-handle');
+    const handles = [...guide.querySelectorAll('.reading-bar-handle')];
     let card = null, enabled = false, center = null, frame = 0, drag = null;
     let bounds = {min:0,max:0,line:36};
     const observer = new ResizeObserver(schedule);
@@ -21,10 +21,11 @@
       stopDrag();
       guide.hidden = true;
       toggle.setAttribute('aria-pressed','false');
+      toggle.title = 'Show a draggable guide across one line of text';
       if(returnFocus && !toggle.hidden)toggle.focus({preventScroll:true});
     }
     function stopDrag() {
-      const pointer = drag?.id;
+      const pointer = drag?.id, handle = drag?.handle;
       drag = null;
       guide.classList.remove('is-dragging');
       if(pointer !== undefined && handle.hasPointerCapture(pointer))handle.releasePointerCapture(pointer);
@@ -52,8 +53,11 @@
       center = clamp(center,bounds.min,bounds.max);
       const left = rect.left + parseFloat(style.paddingLeft), right = rect.right - parseFloat(style.paddingRight);
       Object.assign(guide.style,{left:left+'px',top:(center-line/2)+'px',width:(right-left)+'px',height:line+'px'});
-      handle.setAttribute('aria-valuenow',String(Math.round((center-bounds.min)/Math.max(1,bounds.max-bounds.min)*100)));
-      handle.setAttribute('aria-valuetext',`${handle.getAttribute('aria-valuenow')}% down the visible text`);
+      const value = String(Math.round((center-bounds.min)/Math.max(1,bounds.max-bounds.min)*100));
+      for(const handle of handles){
+        handle.setAttribute('aria-valuenow',value);
+        handle.setAttribute('aria-valuetext',`${value}% down the visible text`);
+      }
       guide.hidden = false;
     }
     toggle.addEventListener('click',() => {
@@ -61,24 +65,27 @@
       if(!wide.matches || !card?.isConnected)return;
       enabled = true;
       toggle.setAttribute('aria-pressed','true');
+      toggle.title = 'Turn off reading bar';
       layout();
-      handle.focus({preventScroll:true});
+      handles[0].focus({preventScroll:true});
     });
-    guide.querySelector('.reading-bar-close').addEventListener('click',()=>turnOff(true));
+    for(const handle of handles){
     handle.addEventListener('pointerdown',event => {
       if(event.button !== 0 || drag)return;
       event.preventDefault();
       handle.focus({preventScroll:true});
-      drag = {id:event.pointerId,offset:event.clientY-center};
+      drag = {id:event.pointerId,handle,offset:event.clientY-center};
       handle.setPointerCapture(event.pointerId);
       guide.classList.add('is-dragging');
     });
     handle.addEventListener('pointermove',event => {
-      if(drag?.id !== event.pointerId)return;
+      if(drag?.id !== event.pointerId || drag.handle !== handle)return;
       center = event.clientY-drag.offset;
       schedule();
     });
-    for(const event of ['pointerup','pointercancel','lostpointercapture'])handle.addEventListener(event,stopDrag);
+    for(const event of ['pointerup','pointercancel','lostpointercapture'])handle.addEventListener(event,e=>{
+      if(drag?.id === e.pointerId && drag.handle === handle)stopDrag();
+    });
     handle.addEventListener('keydown',event => {
       const moves = {ArrowDown:bounds.line,ArrowRight:bounds.line,ArrowUp:-bounds.line,ArrowLeft:-bounds.line,PageDown:bounds.line*5,PageUp:-bounds.line*5};
       if(event.key==='Escape'){event.preventDefault();turnOff(true);return;}
@@ -88,6 +95,7 @@
       else return;
       event.preventDefault();layout();
     });
+    }
     // Narrowing the window ends the opt-in; widening it does not reopen the bar.
     wide.addEventListener('change',()=>{if(!wide.matches)turnOff();schedule();});
     window.addEventListener('resize',schedule,{passive:true});
