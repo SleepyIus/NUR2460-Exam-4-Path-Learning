@@ -265,7 +265,8 @@
     else showHome();
     document.body.classList.toggle('study-mode',Boolean(main.querySelector('.lesson-shell')));
     main.focus({preventScroll:true});window.scrollTo(0,0);
-    readingBar.mount(main.querySelector('.lesson-shell .study-card'));
+    // Start the guide on the new part's first line after resetting page scroll.
+    readingBar.mount(main.querySelector('.lesson-shell .study-card'),{reset:true});
     document.title=current?`${current.lesson.title} · NUR2460 Exam 4`:activePath?`${activePath.name} · NUR2460 Exam 4`:'NUR2460 · Exam 4 study paths';
   }
   document.querySelector('#global-sources').onclick=openSources;

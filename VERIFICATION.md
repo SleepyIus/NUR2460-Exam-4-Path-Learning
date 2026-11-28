@@ -152,3 +152,9 @@ PDF word-spacing repair:
 - Extended the reading band to both outer card edges. While enabled, the side gutters reserve room for both 44px handles with an 8px gap from Back and Next. Turning the guide off restores the normal layout.
 - Solid teal handles with white grips in light mode and pale teal handles with dark grips in dark mode improve visibility. Grip contrast is 6.33:1 and 7.04:1, respectively. Hover and drag states retain the stronger contrast.
 - Browser-verified full-card width and nonoverlapping side controls at 1024×768, 1376×1032, and 1920×1080; both-end dragging, keyboard movement, toggle-off, refresh default-off, and hidden controls at 430px. No horizontal overflow or console errors. Course text, scoring, highlights, and saved progress code are unchanged.
+
+## Reset reading guide between parts
+
+- Navigation resets the enabled reading guide to the first body-text line of each lesson part or check. The reset runs after the page returns to the top, so a previous scrolled position does not carry over. Both handle values update together.
+- The on/off choice is preserved between parts. Repainting the current answer does not request a navigation reset.
+- Browser-verified Next, Back, Start checks, next/previous question navigation after grading and scrolling, and remaining off when disabled. No console errors. Course content, answer keys, saved highlights, and progress code are unchanged.

@@ -104,8 +104,9 @@
     window.addEventListener('scroll',schedule,{passive:true});
     window.visualViewport?.addEventListener('resize',schedule,{passive:true});
     window.visualViewport?.addEventListener('scroll',schedule,{passive:true});
-    function mount(root) {
+    function mount(root,{reset=false}={}) {
       if(card!==root){observer.disconnect();stopDrag();card=root;if(card)observer.observe(card);}
+      if(reset){stopDrag();center=null;}
       layout();
     }
     return {mount};
